@@ -16,7 +16,7 @@
       // Loaded from static files in the repository rather than from lingsync.
 
       // Static file with sentences.
-      var sentence_url = 'super-test/super_sentences.json';
+      var sentence_url = 'super_sentences.json';
 
       // Static file with stories.
       var story_url = 'short_stories.json';
@@ -50,20 +50,6 @@
 
           })
       });
-
-      // var french_data_promise = new Promise(function(resolve, reject) {
-      //   $.ajax({
-      //       url: story_url,
-      //       dataType: 'json',
-      //       success: function(d) {
-      //         resolve(d);
-      //       },
-      //       error: function(xhr, status, err) {
-      //         console.error(sentence_url, status, err.toString());
-      //           reject(err);}
-
-      //     })
-      // });
 
       var sentence_data_promise = Promise.all([raw_data_promise,
                                                story_data_promise]).then(
@@ -727,7 +713,7 @@
                   story: {data: [], loaded: false},
                   show_gloss: false,
                   story_view: false, 
-                  french_view: false, // EDIT: added french toggle
+                  french_view: true, // EDIT: added french toggle
                   french_story: {data: [], loaded: false}
                   };
         },
@@ -760,6 +746,9 @@
         getStoryName: function() {
           return _.get(this.getStory(), 'name', "<Unknown Story>");
         },
+        getStoryName_fr: function() {
+          return _.get(this.getStory(), 'name_fr', "<Unknown Story>");
+        },
         //return author of story by searching story data for this story's id
         getStoryAuthor: function() {
           return _.get(this.getStory(), 'author', "");
@@ -786,16 +775,6 @@
                          story_view: new_story_view,
                          french_view: new_french_view}); // EDIT
         },
-        // //toggles french view
-        // toggleFrenchView: function() {
-        //   var new_show_gloss = this.state.show_gloss;
-        //   var new_french_view = !this.state.french_view;
-        //   if(new_french_view) {
-        //     new_show_gloss = false;
-        //   }
-        //   this.setState({show_gloss: new_show_gloss,
-        //                  story_view: new_french_view});
-        // },
         //renders component
         render: function() {
           // If we haven't loaded yet, just render the dimmer.
@@ -814,34 +793,52 @@
             }.bind(this)
           );
           if (this.state.story_view) {
-            var sentence_rows = story_sentences.map(
-              function(x) {
-                  return [
-                    (
-                      <div key={x.key + "-1"} className="eight wide column"
-                           style={{"padding": "0px"}}>
-                        <Sentence sentence={x.value.sentence}
-                                  only_utterance="true" />
-                      </div>
-                    ),
-                    (
-                      <div key={x.key + "-2"} className="eight wide column"
-                           style={{"padding": "0px"}}>
-                        <Sentence sentence={x.value.sentence}
-                                  only_translation="true" />
-                      </div>
-                    )
-                    // (
-                    //   <div key={x.key + "-3"} className="eight wide column"
-                    //        style={{"padding": "0px"}}>
-                    //     <Sentence sentence={x.value.sentence}
-                    //               only_french="true" />
-                    //   </div>
-                    // )
-                  ];
-              }.bind(this)
-            ).value();
-
+            if (this.state.french_view) {
+              language = 'French';
+              var sentence_rows = story_sentences.map(
+                function(x) {
+                    return [
+                      (
+                        <div key={x.key + "-1"} className="eight wide column"
+                             style={{"padding": "0px"}}>
+                          <Sentence sentence={x.value.sentence}
+                                    only_utterance="true" />
+                        </div>
+                      ),
+                      (
+                        <div key={x.key + "-2"} className="eight wide column"
+                             style={{"padding": "0px"}}>
+                          <Sentence sentence={x.value.sentence}
+                                    only_french="true" />
+                        </div>
+                      )
+                    ];
+                }.bind(this)
+              ).value();
+            }
+            else {
+              language = 'English';
+              var sentence_rows = story_sentences.map(
+                function(x) {
+                    return [
+                      (
+                        <div key={x.key + "-1"} className="eight wide column"
+                            style={{"padding": "0px"}}>
+                          <Sentence sentence={x.value.sentence}
+                                    only_utterance="true" />
+                        </div>
+                      ),
+                      (
+                        <div key={x.key + "-2"} className="eight wide column"
+                            style={{"padding": "0px"}}>
+                          <Sentence sentence={x.value.sentence}
+                                    only_translation="true" />
+                        </div>
+                      )
+                    ];
+                }.bind(this)
+              ).value();
+            }
             sentences = (
              <div className='ui text container'
                   style={{"padding-top": "14px"}}>
@@ -852,16 +849,13 @@
                  </div>
                  <div className="eight wide column"
                       style={{"padding": "0px"}}>
-                      <h2>English</h2>
+                      <h2>{language}</h2>
                  </div>
-                 {/* <div className="eight wide column"
-                      style={{"padding": "0px"}}>
-                      <h2>French</h2>
-                 </div> */}
                 {sentence_rows}
                </div>
              </div>
             );
+            // }
           } else {
             sentences = story_sentences.map(
               // how to render a sentence
@@ -873,6 +867,10 @@
             ).value();
           }
           // render story content page with title and checkbox to toggle interlinear gloss display
+          // if (self.state.french_view) {
+          //   story_name = this.getStoryName_fr();
+          // }
+          // else {story_name = this.getStoryName();}
           return (
             <div>
               <h1>{this.getStoryName()}</h1> by {this.getStoryAuthor()} <div className="ui form">
@@ -1257,6 +1255,14 @@
                 <Link className='item' to='Texts' >Texts</Link>
                 <Link className='item' to='Dictionary' >Concordance</Link>
                 <Link className='item' to='Search' >Search</Link>
+                {/* added french toggle */}
+                <div className='item'>
+                  <div className="ui slider checkbox">
+                  <input type="radio" name="toggle_lang" checked={false} onChange={false}> </input>
+                  
+                  <label>French 🇫🇷</label>
+                  </div>
+                </div>
             <Link to='Glosses' className='right item' ref='glossingPopupActivator'>Glossing
                 <i className="dropdown icon"></i>
             </Link>

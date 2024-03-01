@@ -36,6 +36,8 @@ var raw_data_promise = new Promise(function(resolve, reject) {
     })
 });
 
+var global_show_french = true;
+
 // Promise that is resolved once stories are loaded
 var story_data_promise = new Promise(function(resolve, reject) {
   $.ajax({
@@ -63,7 +65,6 @@ var sentence_data_promise = Promise.all([raw_data_promise,
     return _.filter(sentence_data.rows, function(x) {return stories[x.key[0]] == 1;})
   }
 );
-
 
 //===========================================Dictionary Code===========================================
 
@@ -713,7 +714,8 @@ var StoryView = React.createClass({
             story: {data: [], loaded: false},
             show_gloss: false,
             story_view: false, 
-            french_view: true, // EDIT: added french toggle
+            // french_view: true, // EDIT: added french toggle
+            french_view: global_show_french,
             french_story: {data: [], loaded: false}
             };
   },
@@ -1226,11 +1228,15 @@ var SearchPage = React.createClass({
 var App = React.createClass({
   getInitialState: function() {
     return {
-      showFrench: false
+      // showFrench: false
+      showFrench: global_show_french
     };
   },
   toggleLang: function() {
-    this.setState({showFrench: !showFrench});
+    global_show_french = !global_show_french;
+    this.setState({showFrench: !this.state.showFrench});
+    // window.location.reload();
+    this.forceUpdate();
   },
   componentDidMount: function() {
     $(React.findDOMNode(this.refs.glossingPopupActivator)).popup({

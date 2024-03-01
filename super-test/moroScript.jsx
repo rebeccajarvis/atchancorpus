@@ -774,8 +774,8 @@ var StoryView = React.createClass({
       new_show_gloss = false;
     }
     this.setState({show_gloss: new_show_gloss,
-                    story_view: new_story_view});
-                    // french_view: new_french_view}); // EDIT
+                    story_view: new_story_view,
+                    french_view: global_show_french}); // EDIT
   },
   //renders component
   render: function() {

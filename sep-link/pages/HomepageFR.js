@@ -5,9 +5,10 @@ var HomepageFR = React.createClass(
   return   <div className='ui text container'> 
 
 
-      <h1 className='ui dividing header'>Atchan Story Corpus FR</h1>
+      <h1 className='ui dividing header'>Recueil de contes et chants Atchan </h1>
+      <h2 >ÁCAN NANMƐ LÊ ÁLƐ́BHƆ́ </h2>
 
-      <img className="ui medium right floated rounded image" src="./images/Nuba-berge.jpg"></img>
+      {/* <img className="ui medium right floated rounded image" src="./images/Nuba-berge.jpg"></img> */}
   
     <p> Ce site web fait la collection de textes, chansons et contes en langue atchan plus connue sous le nom ébrié. 
       Cette langue est parlée par les Ébrié qui se nomment eux-mêmes Tchaman et qui vivent dans une soixantaine de villages tous situés à Abidjan (actuelle capitale de la Côte d'Ivoire) et ses alentours. 
@@ -27,10 +28,10 @@ var HomepageFR = React.createClass(
         <p> Dr Dido est locuteur natif de l'atchan, originaire du village de Blockhauss et auteur d'articles publiés sur sa langue maternelle de 2018 à 2021 et prévoit de publier d'autres dans les mois à venir. </p> 
 
     <h3> Becky Jarvis </h3>
-        <p> <a href="https://sites.google.com/berkeley.edu/rebecca-jarvis/">Becky</a> Becky est candidate au doctorat en linguistique à l’Université de Californie à Berkeley.  </p>
+        <p> <a href="http://sites.google.com/berkeley.edu/rebecca-jarvis/">Becky</a> Becky est candidate au doctorat en linguistique à l’Université de Californie à Berkeley.  </p>
 
     <h3> Katie Russell </h3>
-        <p> <a href="https://www.krrussell.com">Katie</a> est candidate au doctorat en linguistique à l’Université de Californie à Berkeley. </p> 
+        <p> <a href="http://www.krrussell.com">Katie</a> est candidate au doctorat en linguistique à l’Université de Californie à Berkeley. </p> 
 
     <h3> Siddharth Ganapathy </h3>
         <p> Siddharth est étudiant en informatique et linguistique à l’Université de Californie à Berkeley. </p> 
@@ -45,3 +46,5 @@ var HomepageFR = React.createClass(
         }
     }
 )
+
+export default HomepageFR;

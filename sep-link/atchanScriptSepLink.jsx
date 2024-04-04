@@ -980,7 +980,7 @@ var routes = <Route handler={App}>
   <Route path = '/FR' handler={HomepageFR} name='HomepageFR' />
 
   <Route path = '/orthography' handler={Orthography} name='Orthography' />
-  <Route path = '/orthography/FR' handler={OrthographyFR} name='OrthographyFR' />
+  {/* <Route path = '/orthography/FR' handler={OrthographyFR} name='OrthographyFR' /> */}
 
   <Route path = '/text' handler={TextBox} name='Texts' />
   <Route path = '/text/FR' handler={TextBoxFR} name='TextsFR' />

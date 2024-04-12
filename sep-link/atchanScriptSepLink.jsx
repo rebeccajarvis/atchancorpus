@@ -1,5 +1,7 @@
 //Bottom of this doc sets up page structure and references components created above
-import "pages/*.js"
+// import {Homepage} from './pages/Homepage.js'
+// import "./pages/*.js"
+// import {Homepage, HomepageFR, Orthography, Glosspage, StoryView, StoryViewFR} from './pages/index.js'
 
 //Global variable for moro_click database
 var global_id_to_morpheme_definition = [];
@@ -14,6 +16,7 @@ var RouteHandler = ReactRouter.RouteHandler;
 var Route = ReactRouter.Route;
 var Navigation = ReactRouter.Navigation;
 var State = ReactRouter.State;
+// const Homepage = lazy(() => import('./pages/Homepage.js'));
 
 // These are endpoints to load data from.
 // Loaded from static files in the repository rather than from lingsync.
@@ -69,6 +72,1225 @@ var sentence_data_promise = Promise.all([raw_data_promise,
   }
 );
 
+
+var Homepage = React.createClass(
+        
+  {render: function() {
+//=========================HOMEPAGE===============================
+  return   <div className='ui text container'> 
+
+
+      <h1 className='ui dividing header'>Atchan Song and Story Corpus</h1>
+
+      {/* <img className="ui medium right floated rounded image" src="./images/Nuba-berge.jpg"></img> */}
+  
+  <p>This website contains a collection of texts, songs, and stories in the Atchan language (also known as Ébrié). 
+      Atchan is a language spoken by the Tchaman people (also called the Ébrié people), who live in approximately sixty villages located within and near the city of Abidjan, Côte d’Ivoire’s economic capital. 
+      Following the classification of Williamson & Blench (2000:18), Atchan, along with its sister language Nghlwa (Mbatto), forms the Potou subgroup in the Kwa (and broader Niger-Congo) language family. 
+      Through the resources on this page, you can learn more about the Tchaman people, their language, and their culture.</p> 
+  
+    <p>This website is a collaboration between Dr. Yao Maxime Dido, Professor of Linguistics at Université Alassane Ouattara de Bouaké (Côte d’Ivoire), and linguists at the University of California, Berkeley. Dr. Dido participated in the implementation of the Atchan orthography along with Prof. Rémy Bôle-Richard, a linguist specializing in West African languages and the designer of the orthography.</p>
+    
+    <p>This website is intended first and foremost as a resource for the Tchaman people, and in addition for researchers who are interested in learning more about the Atchan language.</p>
+    
+  <h1 className='ui dividing header'>Project members</h1>
+
+  <h2> (Visit the Storytellers page to learn more about the people who you see and hear in the texts.) </h2>
+
+  <h3> Yao Maxime Dido </h3>
+      <p> Prof. Dido is a native speaker of Atchan, originally from the village of Blockhauss. He published multiple articles about his mother tongue between 2018 and 2021, and he plans to publish more in the coming months. </p> 
+
+  <h3> Becky Jarvis </h3>
+      <p> <a href="https://sites.google.com/berkeley.edu/rebecca-jarvis/">Becky</a> is a Ph.D. candidate in linguistics at UC Berkeley. </p>
+
+  <h3> Katie Russell </h3>
+      <p> <a href="https://www.krrussell.com">Katie</a> is a Ph.D. candidate in linguistics at UC Berkeley. </p> 
+
+  <h3> Siddharth Ganapathy </h3>
+      <p> Siddharth is an undergraduate student in computer science and linguistics at UC Berkeley. </p> 
+
+  <h3> Lindsay Hatch </h3>
+      <p> Lindsay is an undergraduate student in linguistics at UC Berkeley. </p> 
+
+  <h3> Marie-Anne Xu </h3>
+      <p> Marie-Anne is an undergraduate student in EECS at UC Berkeley. </p> 
+
+      </div>
+      }
+  }
+)
+
+var HomepageFR = React.createClass(
+        
+  {render: function() {
+//=========================HOMEPAGE===============================
+  return   <div className='ui text container'> 
+
+
+      <h1 className='ui dividing header'>Recueil de contes et chants Atchan </h1>
+      <h2 >ÁCAN NANMƐ LÊ ÁLƐ́BHƆ́ </h2>
+
+      {/* <img className="ui medium right floated rounded image" src="./images/Nuba-berge.jpg"></img> */}
+  
+    <p> Ce site web fait la collection de textes, chansons et contes en langue atchan plus connue sous le nom ébrié. 
+      Cette langue est parlée par les Ébrié qui se nomment eux-mêmes Tchaman et qui vivent dans une soixantaine de villages tous situés à Abidjan (actuelle capitale de la Côte d'Ivoire) et ses alentours. 
+      Selon la classification de Williamson & Blench (2000:18), l'atchan forme, avec le nghlwa (mbatto), le sous-groupe Potou, lui-même issu du groupe Kwa appartenant à la Famille Niger-Congo. 
+      Les éléments collectés ici vous permettront d'apprendre davantage sur le peuple, sa langue et ses us et coutumes.   </p> 
+  
+    <p> Ce site est une collaboration entre Dr Yao Maxime Dido, Professeur de linguistique à l'Université Alassane Ouattara de Bouaké (Côte d'Ivoire) et des linguistes de l'Université de Berkeley en Californie aux USA. 
+      Dr Dido a participé à la mise en place de l'orthographe de l'atchan avec le Prof. Rémy Bôle-Richard, un linguiste spécialiste des langues Ouest-Africaines, qui en est le concepteur.</p>
+    
+    <p> C'est un site qui sert de ressource d'abord aux Tchaman, ensuite aux chercheurs qui souhaitent en savoir plus sur la langue. </p>
+    
+    <h1 className='ui dividing header'>Membres du projet</h1>
+
+    <h2> (Visit the Storytellers page to learn more about the people who you see and hear in the texts.) </h2>
+
+    <h3> Yao Maxime Dido </h3>
+        <p> Dr Dido est locuteur natif de l'atchan, originaire du village de Blockhauss et auteur d'articles publiés sur sa langue maternelle de 2018 à 2021 et prévoit de publier d'autres dans les mois à venir. </p> 
+
+    <h3> Becky Jarvis </h3>
+        <p> <a href="http://sites.google.com/berkeley.edu/rebecca-jarvis/">Becky</a> est candidate au doctorat en linguistique à l’Université de Californie à Berkeley.  </p>
+
+    <h3> Katie Russell </h3>
+        <p> <a href="http://www.krrussell.com">Katie</a> est candidate au doctorat en linguistique à l’Université de Californie à Berkeley. </p> 
+
+    <h3> Siddharth Ganapathy </h3>
+        <p> Siddharth est étudiant en informatique et linguistique à l’Université de Californie à Berkeley. </p> 
+
+    <h3> Lindsay Hatch </h3>
+        <p> Lindsay est étudiante en linguistique à l’Université de Californie à Berkeley. </p> 
+
+    <h3> Marie-Anne Xu </h3>
+        <p> Marie-Anne est étudiante en génie électrique et informatique  à l'Université de Californie à Berkeley. </p> 
+
+        </div>
+        }
+    }
+)
+
+var Orthography = React.createClass(
+        
+  {render: function() {
+      return   <div className='ui text container'>
+          <h1 className='ui dividing header'>Orthography</h1>
+          <table className='ui unstackable celled table '>
+          <thead>
+            <tr><th>IPA</th>
+            <th>Orthography</th>
+            <th>Example (from Bôle-Richard & Dido book)</th>
+          </tr></thead>
+
+          <tbody>
+          <tr>
+            <td data-label="IPA">p</td>
+            <td data-label="Orthography">p</td>
+            <td data-label="Job">ápɛn ‘debt’</td>
+          </tr>
+          <tr>
+            <td data-label="IPA">pʰ</td>
+            <td data-label="Orthography"><b>ph</b></td>
+            <td data-label="Example">áphɛ̂n ‘twenty’</td>
+          </tr>
+          <tr>
+            <td data-label="IPA">b</td>
+            <td data-label="Orthography">b</td>
+            <td data-label="Example">ábɛ ‘paddle’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">t</td>
+              <td data-label="Orthography">t</td>
+              <td data-label="Example">áta ‘insult’</td>
+          </tr>
+          <tr>
+            <td data-label="IPA">tʰ</td>
+            <td data-label="Orthography"><b>th</b></td>
+            <td data-label="Example">átha ‘war’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">d</td>
+              <td data-label="Orthography">d</td>
+              <td data-label="Example">du ‘snake’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">c</td>
+              <td data-label="Orthography">c</td>
+              <td data-label="Example">ácɔn ‘fish’</td>
+          </tr>
+          <tr>
+            <td data-label="IPA">cʰ</td>
+            <td data-label="Orthography"><b>ch</b></td>
+            <td data-label="Example">chɔn ‘hen’</td>
+          </tr>
+          <tr>
+            <td data-label="IPA">ɟ</td>
+            <td data-label="Orthography"><b>j</b></td>
+            <td data-label="Example">ájí ‘respect’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">k</td>
+              <td data-label="Orthography">k</td>
+              <td data-label="Example">áko ‘hunger’</td>
+          </tr>
+          <tr>
+            <td data-label="IPA">kʰ</td>
+            <td data-label="Orthography"><b>kh</b></td>
+            <td data-label="Example">ákhɔ́ ‘friendship’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">g</td>
+              <td data-label="Orthography">g</td>
+              <td data-label="Example">gwe ‘sea’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">kp</td>
+              <td data-label="Orthography">kp</td>
+              <td data-label="Example">kpakpâ ‘papaya’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">gb</td>
+              <td data-label="Orthography">gb</td>
+              <td data-label="Example">gba ‘dog’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">f</td>
+              <td data-label="Orthography">f</td>
+              <td data-label="Example">ńfɛ ‘eggplant’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">v</td>
+              <td data-label="Orthography">v</td>
+              <td data-label="Example">nvrâ ‘appattam’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">s</td>
+              <td data-label="Orthography">s</td>
+              <td data-label="Example">asa ‘gecko’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">z</td>
+              <td data-label="Orthography">z</td>
+              <td data-label="Example">zúmwɛn ‘fish species’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">h</td>
+              <td data-label="Orthography">h</td>
+              <td data-label="Example">áhɔn ‘ax’</td>
+          </tr>
+          <tr>
+            <td data-label="IPA">ɓ</td>
+            <td data-label="Orthography"><b>bh</b></td>
+            <td data-label="Example">ábhɛ́ ‘rope’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">l</td>
+              <td data-label="Orthography">l</td>
+              <td data-label="Example">la ‘to pray’</td>
+          </tr>
+          <tr>
+            <td data-label="IPA">j</td>
+            <td data-label="Orthography"><b>y</b></td>
+            <td data-label="Example">áyá ‘tree’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">w</td>
+              <td data-label="Orthography">w</td>
+              <td data-label="Example">awɔ́ ‘cat’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">m</td>
+              <td data-label="Orthography">m</td>
+              <td data-label="Example">ńmɔ́n ‘arm’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">n</td>
+              <td data-label="Orthography">n</td>
+              <td data-label="Example">ánɛn ‘hoe’</td>
+          </tr>
+          <tr>
+            <td data-label="IPA">ɗ</td>
+            <td data-label="Orthography"><b>l</b></td>
+            <td data-label="Example">lyali ‘to forget’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">r</td>
+              <td data-label="Orthography">r</td>
+              <td data-label="Example">bwri ‘rat’</td>
+          </tr>
+          <tr>
+            <td data-label="IPA">ɲ</td>
+            <td data-label="Orthography"><b>y</b></td>
+            <td data-label="Example">yɛn ‘to know’</td>
+          </tr>
+          <tr>
+            <td data-label="IPA">ŋʷ</td>
+            <td data-label="Orthography"><b>w</b></td>
+            <td data-label="Example">wan ‘to crawl’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">i</td>
+              <td data-label="Orthography">i</td>
+              <td data-label="Example">áyí ‘thing’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">e</td>
+              <td data-label="Orthography">e</td>
+              <td data-label="Example">áde ‘antelope’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">ɛ</td>
+              <td data-label="Orthography">ɛ</td>
+              <td data-label="Example">ádɛ ‘palm tree’</td>
+          </tr>
+          <tr>
+            <td data-label="IPA">ɛ̃</td>
+            <td data-label="Orthography"><b>ɛn</b></td>
+            <td data-label="Example">átɛn ‘fire’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">a</td>
+              <td data-label="Orthography">a</td>
+              <td data-label="Example">áyá ‘tree’</td>
+          </tr>
+          <tr>
+            <td data-label="IPA">ã</td>
+            <td data-label="Orthography"><b>an</b></td>
+            <td data-label="Example">bran ‘animal’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">ɔ</td>
+              <td data-label="Orthography">ɔ</td>
+              <td data-label="Example">ákɔ ‘attic’</td>
+          </tr>
+          <tr>
+            <td data-label="IPA">ɔ̃</td>
+            <td data-label="Orthography"><b>ɔn</b></td>
+            <td data-label="Example">ńmɔ́n ‘arm’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">o</td>
+              <td data-label="Orthography">o</td>
+              <td data-label="Example">agbo ‘door’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">u</td>
+              <td data-label="Orthography">u</td>
+              <td data-label="Example">du ‘snake’</td>
+          </tr>
+
+        </tbody>
+
+        </table>
+      
+      </div>
+  }
+}
+)
+
+var OrthographyFR = React.createClass(
+        
+  {render: function() {
+      return   <div className='ui text container'>
+          <h1 className='ui dividing header'>Orthography</h1>
+          <table className='ui celled table '>
+          <thead>
+            <tr><th>IPA</th>
+            <th>Orthographe</th>
+            <th>Example (de le livre de Bôle-Richard et Dido)</th>
+          </tr></thead>
+
+          <tbody>
+          <tr>
+            <td data-label="IPA">p</td>
+            <td data-label="Orthography">p</td>
+            <td data-label="Job">ápɛn ‘dette’</td>
+          </tr>
+          <tr>
+            <td data-label="IPA">pʰ</td>
+            <td data-label="Orthography"><b>ph</b></td>
+            <td data-label="Example">áphɛ̂n ‘vingt’</td>
+          </tr>
+          <tr>
+            <td data-label="IPA">b</td>
+            <td data-label="Orthography">b</td>
+            <td data-label="Example">ábɛ ‘pagaie’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">t</td>
+              <td data-label="Orthography">t</td>
+              <td data-label="Example">áta ‘insulte’</td>
+          </tr>
+          <tr>
+            <td data-label="IPA">tʰ</td>
+            <td data-label="Orthography"><b>th</b></td>
+            <td data-label="Example">átha ‘guerre’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">d</td>
+              <td data-label="Orthography">d</td>
+              <td data-label="Example">du ‘serpent’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">c</td>
+              <td data-label="Orthography">c</td>
+              <td data-label="Example">ácɔn ‘poisson’</td>
+          </tr>
+          <tr>
+            <td data-label="IPA">cʰ</td>
+            <td data-label="Orthography"><b>ch</b></td>
+            <td data-label="Example">chɔn ‘pou’</td>
+          </tr>
+          <tr>
+            <td data-label="IPA">ɟ</td>
+            <td data-label="Orthography"><b>j</b></td>
+            <td data-label="Example">ájí ‘respect’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">k</td>
+              <td data-label="Orthography">k</td>
+              <td data-label="Example">áko ‘faim’</td>
+          </tr>
+          <tr>
+            <td data-label="IPA">kʰ</td>
+            <td data-label="Orthography"><b>kh</b></td>
+            <td data-label="Example">ákhɔ́ ‘cameraderie’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">g</td>
+              <td data-label="Orthography">g</td>
+              <td data-label="Example">gwe ‘mer’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">kp</td>
+              <td data-label="Orthography">kp</td>
+              <td data-label="Example">kpakpâ ‘papaye’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">gb</td>
+              <td data-label="Orthography">gb</td>
+              <td data-label="Example">gba ‘chien’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">f</td>
+              <td data-label="Orthography">f</td>
+              <td data-label="Example">ńfɛ ‘aubergine’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">v</td>
+              <td data-label="Orthography">v</td>
+              <td data-label="Example">nvrâ ‘appattam’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">s</td>
+              <td data-label="Orthography">s</td>
+              <td data-label="Example">asa ‘margouillat’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">z</td>
+              <td data-label="Orthography">z</td>
+              <td data-label="Example">zúmwɛn ‘espèce de poisson’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">h</td>
+              <td data-label="Orthography">h</td>
+              <td data-label="Example">áhɔn ‘hache’</td>
+          </tr>
+          <tr>
+            <td data-label="IPA">ɓ</td>
+            <td data-label="Orthography"><b>bh</b></td>
+            <td data-label="Example">ábhɛ́ ‘corde’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">l</td>
+              <td data-label="Orthography">l</td>
+              <td data-label="Example">la ‘prier’</td>
+          </tr>
+          <tr>
+            <td data-label="IPA">j</td>
+            <td data-label="Orthography"><b>y</b></td>
+            <td data-label="Example">áyá ‘arbre’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">w</td>
+              <td data-label="Orthography">w</td>
+              <td data-label="Example">awɔ́ ‘chat’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">m</td>
+              <td data-label="Orthography">m</td>
+              <td data-label="Example">ńmɔ́n ‘bras’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">n</td>
+              <td data-label="Orthography">n</td>
+              <td data-label="Example">ánɛn ‘houe’</td>
+          </tr>
+          <tr>
+            <td data-label="IPA">ɗ</td>
+            <td data-label="Orthography"><b>l</b></td>
+            <td data-label="Example">lyali ‘oublier’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">r</td>
+              <td data-label="Orthography">r</td>
+              <td data-label="Example">bwri ‘ratte’</td>
+          </tr>
+          <tr>
+            <td data-label="IPA">ɲ</td>
+            <td data-label="Orthography"><b>y</b></td>
+            <td data-label="Example">yɛn ‘savoir’</td>
+          </tr>
+          <tr>
+            <td data-label="IPA">ŋʷ</td>
+            <td data-label="Orthography"><b>w</b></td>
+            <td data-label="Example">wan ‘ramperl’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">i</td>
+              <td data-label="Orthography">i</td>
+              <td data-label="Example">áyí ‘chose’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">e</td>
+              <td data-label="Orthography">e</td>
+              <td data-label="Example">áde ‘antilope’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">ɛ</td>
+              <td data-label="Orthography">ɛ</td>
+              <td data-label="Example">ádɛ ‘palmier’</td>
+          </tr>
+          <tr>
+            <td data-label="IPA">ɛ̃</td>
+            <td data-label="Orthography"><b>ɛn</b></td>
+            <td data-label="Example">átɛn ‘feu’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">a</td>
+              <td data-label="Orthography">a</td>
+              <td data-label="Example">áyá ‘arbre’</td>
+          </tr>
+          <tr>
+            <td data-label="IPA">ã</td>
+            <td data-label="Orthography"><b>an</b></td>
+            <td data-label="Example">bran ‘animal’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">ɔ</td>
+              <td data-label="Orthography">ɔ</td>
+              <td data-label="Example">ákɔ ‘grenier’</td>
+          </tr>
+          <tr>
+            <td data-label="IPA">ɔ̃</td>
+            <td data-label="Orthography"><b>ɔn</b></td>
+            <td data-label="Example">ńmɔ́n ‘bras’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">o</td>
+              <td data-label="Orthography">o</td>
+              <td data-label="Example">agbo ‘porte’</td>
+          </tr>
+          <tr>
+              <td data-label="IPA">u</td>
+              <td data-label="Orthography">u</td>
+              <td data-label="Example">du ‘serpent’</td>
+          </tr>
+
+        </tbody>
+
+        </table>
+      
+      </div>
+  }
+}
+)
+
+//React Class for a single story view
+var StoryView = React.createClass({
+  //React object state
+  //
+  //sentence: loaded flag and sentence data
+  //story: loaded flag and story data
+  //show_gloss: flag true if we show interlinear gloss lines
+  getInitialState: function() {
+    return {sentence: {data: [], loaded: false},
+            story: {data: [], loaded: false},
+            show_gloss: false,
+            story_view: false, 
+            french_view: true, // EDIT: added french toggle
+            french_story: {data: [], loaded: false}
+            };
+  },
+  //queue uploading of story and sentence data when this component is mounted
+  componentDidMount: function() {
+    story_data_promise.then(function(rawdata){
+      this.setState({story:{data: rawdata.rows, loaded: true}});
+    }.bind(this));
+
+    sentence_data_promise.then(function(sentences){
+      this.setState({sentence:{data: sentences, loaded: true}});
+    }.bind(this));
+  },
+  //only ready to display story when story and sentence data have loaded
+  loaded: function() {
+    return this.state.story.loaded && this.state.sentence.loaded;
+  },
+  // Get the story object
+  getStory: function() {
+    var arr = this.state.story.data;
+    for (var i = 0; i < arr.length; i++) {
+      var o = arr[i];
+      if (o.key == this.props.params.key) {
+        return  o.value;
+      }
+    }
+    return {};
+  },
+  //return name of story by searching story data for this story's id
+  getStoryName: function() {
+    return _.get(this.getStory(), 'name', "<Unknown Story>");
+  },
+  getStoryName_fr: function() {
+    return _.get(this.getStory(), 'name_fr', "<Unknown Story>");
+  },
+  //return author of story by searching story data for this story's id
+  getStoryAuthor: function() {
+    return _.get(this.getStory(), 'author', "");
+  },
+  //toggles interlinear gloss or not
+  toggleGloss: function() {
+    var new_show_gloss = !this.state.show_gloss;
+    var new_story_view = this.state.story_view;
+    if(new_show_gloss) {
+      new_story_view = false;
+    }
+    this.setState({show_gloss: new_show_gloss,
+                    story_view: new_story_view});
+  },
+  //toggles story view
+  toggleStoryView: function() {
+    var new_show_gloss = this.state.show_gloss;
+    var new_story_view = !this.state.story_view;
+    var new_french_view = this.state.french_view; // EDIT
+    if(new_story_view) {
+      new_show_gloss = false;
+    }
+    this.setState({show_gloss: new_show_gloss,
+                    story_view: new_story_view,
+                    french_view: new_french_view}); // EDIT
+  },
+  //renders component
+  render: function() {
+    // If we haven't loaded yet, just render the dimmer.
+    if (!this.loaded()) {
+      return <div className="ui active dimmer">
+        <div className="ui text loader">Loading</div>
+      </div>;
+    }
+    // process sentence data to render alignment of morphemes/glosses and show one clause per line
+    // lodash chaining: https://lodash.com/docs#_
+    var sentences;
+    var story_sentences = _(this.state.sentence.data).filter(
+      // render sentences from this story
+      function(x){
+        return x.value.story == this.props.params.key;
+      }.bind(this)
+    );
+    if (this.state.story_view) {
+      var sentence_rows = story_sentences.map(
+        function(x) {
+            return [
+              (
+                <div key={x.key + "-1"} className="eight wide column"
+                    style={{"padding": "0px"}}>
+                  <Sentence sentence={x.value.sentence}
+                            only_utterance="true" />
+                </div>
+              ),
+              (
+                <div key={x.key + "-2"} className="eight wide column"
+                    style={{"padding": "0px"}}>
+                  <Sentence sentence={x.value.sentence}
+                            only_translation="true" />
+                </div>
+              )
+            ];
+        }.bind(this)
+      ).value();
+      
+      sentences = (
+        <div className='ui text container'
+            style={{"padding-top": "14px"}}>
+          <div className="ui grid">
+            <div className="eight wide column"
+                style={{"padding": "0px"}}>
+                <h2>Atchan</h2>
+            </div>
+            <div className="eight wide column"
+                style={{"padding": "0px"}}>
+                <h2>English</h2>
+            </div>
+          {sentence_rows}
+          </div>
+        </div>
+      );
+      // }
+    } else {
+      sentences = story_sentences.map(
+        // how to render a sentence
+        function(x){
+          return <Sentence key={x.key}
+                    sentence={x.value.sentence}
+                    show_gloss={this.state.show_gloss}/>;
+        }.bind(this)
+      ).value();
+    }
+    // render story content page with title and checkbox to toggle interlinear gloss display
+    // if (self.state.french_view) {
+    //   story_name = this.getStoryName_fr();
+    // }
+    // else {story_name = this.getStoryName();}
+    return (
+      <div>
+        <h1>{this.getStoryName()}</h1> by {this.getStoryAuthor()} <div className="ui form">
+
+          <div className="grouped fields">
+            <label>View Options</label>
+
+            <div className="field">
+              <div className="ui slider checkbox">
+                <input type="radio" name="throughput" checked={this.state.show_gloss} onChange={this.toggleGloss}> </input>
+                <label>Show Glosses</label>
+              </div>
+            </div>
+
+            <div className="field">
+              <div className="ui slider checkbox">
+                <input type="radio" name="throughput" checked={this.state.story_view} onChange={this.toggleStoryView}> </input>
+                <label>Story View</label>
+              </div>
+            </div>
+
+            <iframe width="560" height="315" 
+            src="https://www.youtube.com/embed/fMIiQwCIzGQ?si=d3gMisqGeOdMJyw1" 
+            title="YouTube video player" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+            </iframe>
+          
+          </div>
+        </div>
+        {sentences}
+      </div>
+    );
+
+  }
+});
+
+var StoryViewFR = React.createClass({
+  //React object state
+  //
+  //sentence: loaded flag and sentence data
+  //story: loaded flag and story data
+  //show_gloss: flag true if we show interlinear gloss lines
+  getInitialState: function() {
+    return {sentence: {data: [], loaded: false},
+            story: {data: [], loaded: false},
+            show_gloss: false,
+            story_view: false, 
+            french_view: true, // EDIT: added french toggle
+            french_story: {data: [], loaded: false}
+            };
+  },
+  //queue uploading of story and sentence data when this component is mounted
+  componentDidMount: function() {
+    story_data_promise.then(function(rawdata){
+      this.setState({story:{data: rawdata.rows, loaded: true}});
+    }.bind(this));
+
+    sentence_data_promise.then(function(sentences){
+      this.setState({sentence:{data: sentences, loaded: true}});
+    }.bind(this));
+  },
+  //only ready to display story when story and sentence data have loaded
+  loaded: function() {
+    return this.state.story.loaded && this.state.sentence.loaded;
+  },
+  // Get the story object
+  getStory: function() {
+    var arr = this.state.story.data;
+    for (var i = 0; i < arr.length; i++) {
+      var o = arr[i];
+      if (o.key == this.props.params.key) {
+        return  o.value;
+      }
+    }
+    return {};
+  },
+  //return name of story by searching story data for this story's id
+  getStoryName: function() {
+    if (this.state.french_view) {
+      return _.get(this.getStory(), 'name_fr', "<Unknown Story>");
+    }
+    return _.get(this.getStory(), 'name', "<Unknown Story>");
+  },
+  //return author of story by searching story data for this story's id
+  getStoryAuthor: function() {
+    return _.get(this.getStory(), 'author', "");
+  },
+  //toggles interlinear gloss or not
+  toggleGloss: function() {
+    var new_show_gloss = !this.state.show_gloss;
+    var new_story_view = this.state.story_view;
+    if(new_show_gloss) {
+      new_story_view = false;
+    }
+    this.setState({show_gloss: new_show_gloss,
+                    story_view: new_story_view});
+  },
+  //toggles story view
+  toggleStoryView: function() {
+    var new_show_gloss = this.state.show_gloss;
+    var new_story_view = !this.state.story_view;
+    // var new_french_view = this.state.french_view; // EDIT
+    if(new_story_view) {
+      new_show_gloss = false;
+    }
+    this.setState({show_gloss: new_show_gloss,
+                    story_view: new_story_view,
+                    french_view: global_show_french}); // EDIT
+  },
+  //renders component
+  render: function() {
+    // If we haven't loaded yet, just render the dimmer.
+    if (!this.loaded()) {
+      return <div className="ui active dimmer">
+        <div className="ui text loader">Loading</div>
+      </div>;
+    }
+    // process sentence data to render alignment of morphemes/glosses and show one clause per line
+    // lodash chaining: https://lodash.com/docs#_
+    var sentences;
+    var story_sentences = _(this.state.sentence.data).filter(
+      // render sentences from this story
+      function(x){
+        return x.value.story == this.props.params.key;
+      }.bind(this)
+    );
+    if (this.state.story_view) {
+      if (this.state.french_view) {
+        language = 'French';
+        var sentence_rows = story_sentences.map(
+          function(x) {
+              return [
+                (
+                  <div key={x.key + "-1"} className="eight wide column"
+                        style={{"padding": "0px"}}>
+                    <Sentence sentence={x.value.sentence}
+                              only_utterance="true" />
+                  </div>
+                ),
+                (
+                  <div key={x.key + "-2"} className="eight wide column"
+                        style={{"padding": "0px"}}>
+                    <Sentence sentence={x.value.sentence}
+                              only_french="true" />
+                  </div>
+                )
+              ];
+          }.bind(this)
+        ).value();
+      }
+      sentences = (
+        <div className='ui text container'
+            style={{"padding-top": "14px"}}>
+          <div className="ui grid">
+            <div className="eight wide column"
+                style={{"padding": "0px"}}>
+                <h2>Atchan</h2>
+            </div>
+            <div className="eight wide column"
+                style={{"padding": "0px"}}>
+                <h2>French</h2>
+            </div>
+          {sentence_rows}
+          </div>
+        </div>
+      );
+      // }
+    } else {
+      sentences = story_sentences.map(
+        // how to render a sentence
+        function(x){
+          return <Sentence key={x.key}
+                    sentence={x.value.sentence}
+                    show_gloss={this.state.show_gloss}/>;
+        }.bind(this)
+      ).value();
+    }
+    // render story content page with title and checkbox to toggle interlinear gloss display
+    // if (self.state.french_view) {
+    //   story_name = this.getStoryName_fr();
+    // }
+    // else {story_name = this.getStoryName();}
+    return (
+      <div>
+        <h1>{this.getStoryName()}</h1> de {this.getStoryAuthor()} <div className="ui form">
+
+          <div className="grouped fields">
+            <label>View Options</label>
+
+            <div className="field">
+              <div className="ui slider checkbox">
+                <input type="radio" name="throughput" checked={this.state.show_gloss} onChange={this.toggleGloss}> </input>
+                <label>Show Glosses</label>
+              </div>
+            </div>
+
+            <div className="field">
+              <div className="ui slider checkbox">
+                <input type="radio" name="throughput" checked={this.state.story_view} onChange={this.toggleStoryView}> </input>
+                <label>Story View</label>
+              </div>
+            </div>
+
+            <iframe width="560" height="315" 
+            src="https://www.youtube.com/embed/fMIiQwCIzGQ?si=d3gMisqGeOdMJyw1" 
+            title="YouTube video player" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+            </iframe>
+          
+          </div>
+        </div>
+        {sentences}
+      </div>
+    );
+
+  }
+});
+
+var Glosspage = React.createClass(
+        
+  {render: function() {
+//=========================GLOSS PAGE===============================
+  return   <div className='ui text container'> 
+
+The abbreviations below are used for glossing in the Atchan texts and Atchan concordance.
+
+      <h1 className='ui dividing header'>Abbreviations</h1>
+
+        <div className='ui two column left aligned grid'>
+          <div className='two wide column'>1sg</div>
+          <div className='fourteen wide column'>1st person singular subject agreement</div>
+          <div className='two wide column'>1du</div>
+          <div className='fourteen wide column'>1st person dual inclusive subject agreement</div>
+          <div className='two wide column'>1in</div>
+          <div className='fourteen wide column'>1st person plural inclusive subject agreement</div>
+          <div className='two wide column'>1ex</div>
+          <div className='fourteen wide column'>1st person plural exclusive subject agreement</div>
+          <div className='two wide column'>2sg</div>
+          <div className='fourteen wide column'>2nd person singular subject agreement</div>
+          <div className='two wide column'>2sg.inf</div>
+          <div className='fourteen wide column'>Infinitive 2nd person singular subject agreement</div>
+          <div className='two wide column'>2pl</div>
+          <div className='fourteen wide column'>2nd person plural subject agreement</div>
+          <div className='two wide column'>3sg.inf</div>
+          <div className='fourteen wide column'>Infinitive 3rd person singular subject agreement</div>
+          <div className='two wide column'>acc</div>
+          <div className='fourteen wide column'>Accusative case</div>
+          <div className='two wide column'>ap</div>
+          <div className='fourteen wide column'>Antipassive</div>
+          <div className='two wide column'>appl</div>
+          <div className='fourteen wide column'>Applicative</div>
+          <div className='two wide column'>assoc.pl</div>
+          <div className='fourteen wide column'>Associative plural</div>
+          <div className='two wide column'>be.rt</div>
+          <div className='fourteen wide column'>Predicative copula</div>
+          <div className='two wide column'>be.loc</div>
+          <div className='fourteen wide column'>Locative copula</div>
+          <div className='two wide column'>be.1d</div>
+          <div className='fourteen wide column'>Deictic copula: be here</div>
+          <div className='two wide column'>be.2d</div>
+          <div className='fourteen wide column'>Deictic copula: be there</div>
+          <div className='two wide column'>be.3d</div>
+          <div className='fourteen wide column'>Deictic copula: be yonder</div>
+          <div className='two wide column'>be.eq</div>
+          <div className='fourteen wide column'>Equative copula</div>
+          <div className='two wide column'>appl</div>
+          <div className='fourteen wide column'>Applicative</div>
+          <div className='two wide column'>caus</div>
+          <div className='fourteen wide column'>Causative</div>
+          <div className='two wide column'>clg</div>
+          <div className='fourteen wide column'>Noun class agreement/concord: class g (sg/pl)</div>
+          <div className='two wide column'>cll</div>
+          <div className='fourteen wide column'>Noun class agreement/concord: class l (sg/pl)</div>
+          <div className='two wide column'>cly</div>
+          <div className='fourteen wide column'>Noun class agreement/concord: class n (pl)</div>
+          <div className='two wide column'>clŋ</div>
+          <div className='fourteen wide column'>Noun class agreement/concord: class ŋ (sg/pl)</div>
+          <div className='two wide column'>clɲ</div>
+          <div className='fourteen wide column'>Noun class agreement/concord: class ɲ (pl)</div>
+          <div className='two wide column'>clr</div>
+          <div className='fourteen wide column'>Noun class agreement/concord: class r (pl)</div>
+          <div className='two wide column'>clð</div>
+          <div className='fourteen wide column'>Noun class agreement/concord: class ð (sg)</div>
+          <div className='two wide column'>clð.nom</div>
+          <div className='fourteen wide column'>Nominalization prefix: class ð</div>
+          <div className='two wide column'>cly</div>
+          <div className='fourteen wide column'>Noun class agreement/concord: class y (sg/pl)</div>
+          <div className='two wide column'>cmp</div>
+          <div className='fourteen wide column'>Comparative</div>
+          <div className='two wide column'>comp1</div>
+          <div className='fourteen wide column'>Finite complementizer</div>
+          <div className='two wide column'>comp1b</div>
+          <div className='fourteen wide column'>Consecutive imperfective complementizer</div>
+          <div className='two wide column'>comp2</div>
+          <div className='fourteen wide column'>Infinitive and consecutive perfective complementizer</div>
+          <div className='two wide column'>cmp</div>
+          <div className='fourteen wide column'>Comparative</div>
+          <div className='two wide column'>d.ipfv</div>
+          <div className='fourteen wide column'>Distal imperfective</div>
+          <div className='two wide column'>d.inf1</div>
+          <div className='fourteen wide column'>Distal infinitive 1</div>
+          <div className='two wide column'>d.inf2</div>
+          <div className='fourteen wide column'>Distal infinitive 2</div>
+          <div className='two wide column'>d.imp</div>
+          <div className='fourteen wide column'>Distal imperative</div>
+          <div className='two wide column'>dpc</div>
+          <div className='fourteen wide column'>Finite dependent clause vowel</div>
+          <div className='two wide column'>foc</div>
+          <div className='fourteen wide column'>Focus cleft</div>
+          <div className='two wide column'>fut.aux</div>
+          <div className='fourteen wide column'>Future auxiliary</div>
+          <div className='two wide column'>imp</div>
+          <div className='fourteen wide column'>Imperative</div>
+          <div className='two wide column'>indef</div>
+          <div className='fourteen wide column'>Indefinite</div>
+          <div className='two wide column'>inf1</div>
+          <div className='fourteen wide column'>Infinitive 1</div>
+          <div className='two wide column'>inf2</div>
+          <div className='fourteen wide column'>Infinitive 2</div>
+          <div className='two wide column'>inst</div>
+          <div className='fourteen wide column'>Instrumental clitic</div>
+          <div className='two wide column'>ipfv</div>
+          <div className='fourteen wide column'>Imperfective</div>
+          <div className='two wide column'>iter</div>
+          <div className='fourteen wide column'>Iterative/durative aspect</div>
+          <div className='two wide column'>juss</div>
+          <div className='fourteen wide column'>Jussive</div>
+          <div className='two wide column'>loc</div>
+          <div className='fourteen wide column'>Locative</div>
+          <div className='two wide column'>loc.appl</div>
+          <div className='fourteen wide column'>Locative applicative</div>
+          <div className='two wide column'>not.aux</div>
+          <div className='fourteen wide column'>Negative auxiliary</div>
+          <div className='two wide column'>om</div>
+          <div className='fourteen wide column'>Object marker (object pronouns)</div>
+          <div className='two wide column'>pass</div>
+          <div className='fourteen wide column'>Passive</div>
+          <div className='two wide column'>past.aux</div>
+          <div className='fourteen wide column'>Past tense auxiliary</div>
+          <div className='two wide column'>pfv</div>
+          <div className='fourteen wide column'>Perfective</div>
+          <div className='two wide column'>plz</div>
+          <div className='fourteen wide column'>Politeness marker</div>
+          <div className='two wide column'>poss</div>
+          <div className='fourteen wide column'>Possessive/genitive</div>
+          <div className='two wide column'>pro</div>
+          <div className='fourteen wide column'>Pronoun</div>
+          <div className='two wide column'>prog</div>
+          <div className='fourteen wide column'>Progressive</div>
+          <div className='two wide column'>prog.aux</div>
+          <div className='fourteen wide column'>Progressive auxiliary</div>
+          <div className='two wide column'>rtc</div>
+          <div className='fourteen wide column'>Finite root clause vowel</div>
+          <div className='two wide column'>sclg</div>
+          <div className='fourteen wide column'>Strong (definite) noun class concord: class g (sg/pl)</div>
+          <div className='two wide column'>scll</div>
+          <div className='fourteen wide column'>Strong (definite) noun class concord: class l (sg/pl)</div>
+          <div className='two wide column'>scly</div>
+          <div className='fourteen wide column'>Strong (definite) noun class concord: class n (pl)</div>
+          <div className='two wide column'>sclŋ</div>
+          <div className='fourteen wide column'>Strong (definite) noun class concord: class ŋ (sg/pl)</div>
+          <div className='two wide column'>sclɲ</div>
+          <div className='fourteen wide column'>Strong (definite) noun class concord: class ɲ (pl)</div>
+          <div className='two wide column'>sclr</div>
+          <div className='fourteen wide column'>Strong (definite) noun class concord: class r (pl)</div>
+          <div className='two wide column'>sclð</div>
+          <div className='fourteen wide column'>Strong (definite) noun class concord: class ð (sg)</div>
+          <div className='two wide column'>scly</div>
+          <div className='fourteen wide column'>Strong (definite) noun class concord: class y (sg/pl)</div>
+          <div className='two wide column'>way</div>
+          <div className='fourteen wide column'>Manner clitic suffix</div>
+          <div className='two wide column'>ynq</div>
+          <div className='fourteen wide column'>Yes/no question marker</div>
+        </div>
+    </div>
+  }
+  }
+)
+
+var GlosspageFR = React.createClass(
+        
+  {render: function() {
+//=========================GLOSS PAGE===============================
+  return   <div className='ui text container'> 
+
+The abbreviations below are used for glossing in the Atchan texts and Atchan concordance.
+
+      <h1 className='ui dividing header'>Abbreviations</h1>
+
+        <div className='ui two column left aligned grid'>
+          <div className='two wide column'>1sg</div>
+          <div className='fourteen wide column'>1st person singular subject agreement</div>
+          <div className='two wide column'>1du</div>
+          <div className='fourteen wide column'>1st person dual inclusive subject agreement</div>
+          <div className='two wide column'>1in</div>
+          <div className='fourteen wide column'>1st person plural inclusive subject agreement</div>
+          <div className='two wide column'>1ex</div>
+          <div className='fourteen wide column'>1st person plural exclusive subject agreement</div>
+          <div className='two wide column'>2sg</div>
+          <div className='fourteen wide column'>2nd person singular subject agreement</div>
+          <div className='two wide column'>2sg.inf</div>
+          <div className='fourteen wide column'>Infinitive 2nd person singular subject agreement</div>
+          <div className='two wide column'>2pl</div>
+          <div className='fourteen wide column'>2nd person plural subject agreement</div>
+          <div className='two wide column'>3sg.inf</div>
+          <div className='fourteen wide column'>Infinitive 3rd person singular subject agreement</div>
+          <div className='two wide column'>acc</div>
+          <div className='fourteen wide column'>Accusative case</div>
+          <div className='two wide column'>ap</div>
+          <div className='fourteen wide column'>Antipassive</div>
+          <div className='two wide column'>appl</div>
+          <div className='fourteen wide column'>Applicative</div>
+          <div className='two wide column'>assoc.pl</div>
+          <div className='fourteen wide column'>Associative plural</div>
+          <div className='two wide column'>be.rt</div>
+          <div className='fourteen wide column'>Predicative copula</div>
+          <div className='two wide column'>be.loc</div>
+          <div className='fourteen wide column'>Locative copula</div>
+          <div className='two wide column'>be.1d</div>
+          <div className='fourteen wide column'>Deictic copula: be here</div>
+          <div className='two wide column'>be.2d</div>
+          <div className='fourteen wide column'>Deictic copula: be there</div>
+          <div className='two wide column'>be.3d</div>
+          <div className='fourteen wide column'>Deictic copula: be yonder</div>
+          <div className='two wide column'>be.eq</div>
+          <div className='fourteen wide column'>Equative copula</div>
+          <div className='two wide column'>appl</div>
+          <div className='fourteen wide column'>Applicative</div>
+          <div className='two wide column'>caus</div>
+          <div className='fourteen wide column'>Causative</div>
+          <div className='two wide column'>clg</div>
+          <div className='fourteen wide column'>Noun class agreement/concord: class g (sg/pl)</div>
+          <div className='two wide column'>cll</div>
+          <div className='fourteen wide column'>Noun class agreement/concord: class l (sg/pl)</div>
+          <div className='two wide column'>cly</div>
+          <div className='fourteen wide column'>Noun class agreement/concord: class n (pl)</div>
+          <div className='two wide column'>clŋ</div>
+          <div className='fourteen wide column'>Noun class agreement/concord: class ŋ (sg/pl)</div>
+          <div className='two wide column'>clɲ</div>
+          <div className='fourteen wide column'>Noun class agreement/concord: class ɲ (pl)</div>
+          <div className='two wide column'>clr</div>
+          <div className='fourteen wide column'>Noun class agreement/concord: class r (pl)</div>
+          <div className='two wide column'>clð</div>
+          <div className='fourteen wide column'>Noun class agreement/concord: class ð (sg)</div>
+          <div className='two wide column'>clð.nom</div>
+          <div className='fourteen wide column'>Nominalization prefix: class ð</div>
+          <div className='two wide column'>cly</div>
+          <div className='fourteen wide column'>Noun class agreement/concord: class y (sg/pl)</div>
+          <div className='two wide column'>cmp</div>
+          <div className='fourteen wide column'>Comparative</div>
+          <div className='two wide column'>comp1</div>
+          <div className='fourteen wide column'>Finite complementizer</div>
+          <div className='two wide column'>comp1b</div>
+          <div className='fourteen wide column'>Consecutive imperfective complementizer</div>
+          <div className='two wide column'>comp2</div>
+          <div className='fourteen wide column'>Infinitive and consecutive perfective complementizer</div>
+          <div className='two wide column'>cmp</div>
+          <div className='fourteen wide column'>Comparative</div>
+          <div className='two wide column'>d.ipfv</div>
+          <div className='fourteen wide column'>Distal imperfective</div>
+          <div className='two wide column'>d.inf1</div>
+          <div className='fourteen wide column'>Distal infinitive 1</div>
+          <div className='two wide column'>d.inf2</div>
+          <div className='fourteen wide column'>Distal infinitive 2</div>
+          <div className='two wide column'>d.imp</div>
+          <div className='fourteen wide column'>Distal imperative</div>
+          <div className='two wide column'>dpc</div>
+          <div className='fourteen wide column'>Finite dependent clause vowel</div>
+          <div className='two wide column'>foc</div>
+          <div className='fourteen wide column'>Focus cleft</div>
+          <div className='two wide column'>fut.aux</div>
+          <div className='fourteen wide column'>Future auxiliary</div>
+          <div className='two wide column'>imp</div>
+          <div className='fourteen wide column'>Imperative</div>
+          <div className='two wide column'>indef</div>
+          <div className='fourteen wide column'>Indefinite</div>
+          <div className='two wide column'>inf1</div>
+          <div className='fourteen wide column'>Infinitive 1</div>
+          <div className='two wide column'>inf2</div>
+          <div className='fourteen wide column'>Infinitive 2</div>
+          <div className='two wide column'>inst</div>
+          <div className='fourteen wide column'>Instrumental clitic</div>
+          <div className='two wide column'>ipfv</div>
+          <div className='fourteen wide column'>Imperfective</div>
+          <div className='two wide column'>iter</div>
+          <div className='fourteen wide column'>Iterative/durative aspect</div>
+          <div className='two wide column'>juss</div>
+          <div className='fourteen wide column'>Jussive</div>
+          <div className='two wide column'>loc</div>
+          <div className='fourteen wide column'>Locative</div>
+          <div className='two wide column'>loc.appl</div>
+          <div className='fourteen wide column'>Locative applicative</div>
+          <div className='two wide column'>not.aux</div>
+          <div className='fourteen wide column'>Negative auxiliary</div>
+          <div className='two wide column'>om</div>
+          <div className='fourteen wide column'>Object marker (object pronouns)</div>
+          <div className='two wide column'>pass</div>
+          <div className='fourteen wide column'>Passive</div>
+          <div className='two wide column'>past.aux</div>
+          <div className='fourteen wide column'>Past tense auxiliary</div>
+          <div className='two wide column'>pfv</div>
+          <div className='fourteen wide column'>Perfective</div>
+          <div className='two wide column'>plz</div>
+          <div className='fourteen wide column'>Politeness marker</div>
+          <div className='two wide column'>poss</div>
+          <div className='fourteen wide column'>Possessive/genitive</div>
+          <div className='two wide column'>pro</div>
+          <div className='fourteen wide column'>Pronoun</div>
+          <div className='two wide column'>prog</div>
+          <div className='fourteen wide column'>Progressive</div>
+          <div className='two wide column'>prog.aux</div>
+          <div className='fourteen wide column'>Progressive auxiliary</div>
+          <div className='two wide column'>rtc</div>
+          <div className='fourteen wide column'>Finite root clause vowel</div>
+          <div className='two wide column'>sclg</div>
+          <div className='fourteen wide column'>Strong (definite) noun class concord: class g (sg/pl)</div>
+          <div className='two wide column'>scll</div>
+          <div className='fourteen wide column'>Strong (definite) noun class concord: class l (sg/pl)</div>
+          <div className='two wide column'>scly</div>
+          <div className='fourteen wide column'>Strong (definite) noun class concord: class n (pl)</div>
+          <div className='two wide column'>sclŋ</div>
+          <div className='fourteen wide column'>Strong (definite) noun class concord: class ŋ (sg/pl)</div>
+          <div className='two wide column'>sclɲ</div>
+          <div className='fourteen wide column'>Strong (definite) noun class concord: class ɲ (pl)</div>
+          <div className='two wide column'>sclr</div>
+          <div className='fourteen wide column'>Strong (definite) noun class concord: class r (pl)</div>
+          <div className='two wide column'>sclð</div>
+          <div className='fourteen wide column'>Strong (definite) noun class concord: class ð (sg)</div>
+          <div className='two wide column'>scly</div>
+          <div className='fourteen wide column'>Strong (definite) noun class concord: class y (sg/pl)</div>
+          <div className='two wide column'>way</div>
+          <div className='fourteen wide column'>Manner clitic suffix</div>
+          <div className='two wide column'>ynq</div>
+          <div className='fourteen wide column'>Yes/no question marker</div>
+        </div>
+    </div>
+  }
+  }
+)
 
 //===========================================Dictionary Code===========================================
 
@@ -688,7 +1910,6 @@ var Sentence = React.createClass({
   render: function() {
     var gloss = '';
     var sentence = this.props.sentence;
-    var french = this.props.french; // EDIT: french
 
     if (this.props.only_utterance) {
       return <div style={{marginBottom: "10px"}}>
@@ -891,29 +2112,39 @@ var App = React.createClass({
     });
   },
   render: function() {
+    // console.log('rendering')
     if (global_show_french) {
       homepage = 'HomepageFR'
-      about = 'AboutFR'
+      about = 'Page d’accueil'
       texts = 'TextsFR'
+      texts_label = 'Textes'
       orthography = 'OrthographyFR'
+      ortho_label = 'Orthographe'
       // dictionary = 'DictionaryFR'
       // search = 'SearchFR'
+      gloss = 'GlossesFR'
+      gloss_label = 'GlossingFR'
     }
     else {
       homepage = 'Homepage'
       about = 'About'
       texts = 'Texts'
+      texts_label = 'Texts'
       orthography = 'Orthography'
+      ortho_label = 'Orthography'
       // dictionary = 'Dictionary'
       // search = 'Search'
+      gloss = 'Glosses'
+      gloss_label = 'Glossing'
     }
 
     return <div className='ui main text container'> 
     <div className='ui borderless main menu fixed' styleName='position: fixed; top: 0px; left: auto; z-index: 1;'>
         <div className='ui text container'>
+          {/* {console.log('making links')} */}
           <Link className='item' to={homepage} >{about}</Link> 
-          <Link className='item' to={orthography} >Orthography</Link>
-          <Link className='item' to={texts} >{texts}</Link>
+          <Link className='item' to={orthography} >{ortho_label}</Link>
+          <Link className='item' to={texts} >{texts_label}</Link>
           <Link className='item' to='Dictionary' >Concordance</Link>
           {/* line below is for link checking, can remove */}
           {/* <Link className='item' to='Dictionary' >{this.getPath()}</Link> */} 
@@ -926,13 +2157,14 @@ var App = React.createClass({
             <label>French 🇫🇷</label>
             </div>
           </div>
-      <Link to='Glosses' className='right item' ref='glossingPopupActivator'>Glossing
+      {/* <Link to={gloss} className='right item' ref='glossingPopupActivator'>{gloss_label}
           <i className="dropdown icon"></i>
-      </Link>
-      <div ref='glossingPopup' className='ui small popup bottom left transition hidden'>
+      </Link> */}
+          <Link className='item' to={gloss} >{gloss_label}</Link>
+      {/* <div ref='glossingPopup' className='ui small popup bottom left transition hidden'>
           <div className='ui two column center aligned grid'>
             <div className='row'>
-              <Link to='Glosses'><div className='ui top attached button'>click for complete list</div></Link>
+              <Link to={gloss}><div className='ui top attached button'>click for complete list</div></Link>
               </div>
             <div className='three wide column'>appl</div>
             <div className='thirteen wide column'>Applicative</div>
@@ -957,7 +2189,7 @@ var App = React.createClass({
             <div className='three wide column'>rtc</div>
             <div className='thirteen wide column'>Finite root clause vowel</div>
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
         <div className='ui borderless secondary menu' styleName='position: fixed; top: 0px; left: auto; z-index: 1;'>
@@ -968,6 +2200,7 @@ var App = React.createClass({
           </div>
         </div>
     <RouteHandler/>
+    {/* {print('switching lang')} */}
     {this.displayLang()}
     </div>}
 });
@@ -980,7 +2213,7 @@ var routes = <Route handler={App}>
   <Route path = '/FR' handler={HomepageFR} name='HomepageFR' />
 
   <Route path = '/orthography' handler={Orthography} name='Orthography' />
-  {/* <Route path = '/orthography/FR' handler={OrthographyFR} name='OrthographyFR' /> */}
+  <Route path = '/orthography/FR' handler={OrthographyFR} name='OrthographyFR' />
 
   <Route path = '/text' handler={TextBox} name='Texts' />
   <Route path = '/text/FR' handler={TextBoxFR} name='TextsFR' />
@@ -995,6 +2228,7 @@ var routes = <Route handler={App}>
 
   <Route path = '/search' handler={SearchPage} name='Search' />
   <Route path = '/glosses' handler={Glosspage} name='Glosses' />
+  <Route path = '/glosses' handler={GlosspageFR} name='GlossesFR' />
 
   </Route>
 </Route>

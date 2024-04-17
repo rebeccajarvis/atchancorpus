@@ -1,0 +1,249 @@
+{
+    "total_rows": 9,
+    "offset": 0,
+    "rows": [
+        {
+            "id": "0",
+            "key": [
+                "1",
+                0,
+                "0"
+            ],
+            "value": {
+                "story": "1",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The republic of Côte d'Ivoire,",
+                    "morphemes": "ɟɔ̃-sɛ̃ ɡotho féchwe pasa",
+                    "orthography": "jɔnsɛn gotho féchwe pasa",
+                    "gloss": "elephant-tusk country celebration people",
+                    "gloss_fr": "éléphant-défense pays peuple public",
+                    "translation": "The republic of Côte d'Ivoire,",
+                    "french": "La république de la Côte d'Ivoire,",
+                    "timestamps": "00:00:00,676 --> 00:00:05,069",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "1",
+            "key": [
+                "1",
+                1,
+                "1"
+            ],
+            "value": {
+                "story": "1",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "the inhabitants, you send your condolences.",
+                    "morphemes": "á-théɟi-nɛ̃́ khúmbrɛ̃ e-tɛ́ hɔ̃́ jɔ́-ka",
+                    "orthography": "áthéjinɛ́n khúúnbrɛn etɛ́ hɔ́n yɔ́ka",
+                    "gloss": "cm-people-assoc.pl all prog-make 2pl.str let-part",
+                    "gloss_fr": "habitant.pl tout faire.prog obj.2pl apaisement",
+                    "translation": "the inhabitants, you send your condolences.",
+                    "french": "les habitants, vous souhaitez vos condoléances.",
+                    "timestamps": "00:00:05,725 --> 00:00:10,248",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "2",
+            "key": [
+                "1",
+                2,
+                "2"
+            ],
+            "value": {
+                "story": "1",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The elder of the country,",
+                    "morphemes": "hɔ̃́ khúɓɛ́ nãnã́",
+                    "orthography": "hɔ́n khúbhɛ́ nannán",
+                    "gloss": "2pl.str village elder",
+                    "gloss_fr": "poss.2pl village doyen",
+                    "translation": "The elder of the country,",
+                    "french": "Le doyen du pays,",
+                    "timestamps": "00:00:10,766 --> 00:00:12,640",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "3",
+            "key": [
+                "1",
+                3,
+                "3"
+            ],
+            "value": {
+                "story": "1",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "Félix Houphouët-Boigny, has left you today.",
+                    "morphemes": "felisufwebwaɲi jɔ khɛ̃́ a jɔ hɔ̃́ kalé ɲcɛ̃́",
+                    "orthography": "Félix Houphouët Boigny yɔ khɛ́n a yɔ hɔ́n kalé ncɛ́n",
+                    "gloss": "Félix Houphouët Boigny let rel 3.inan let 2pl.str part today",
+                    "gloss_fr": "Félix Houphouët Boigny laisser rel qui quitter obj.2pl part.v aujourd'hui",
+                    "translation": "Félix Houphouët-Boigny, has left you today.",
+                    "french": "Félix Houphouët Boigny, vous a laissé aujourd'hui.",
+                    "timestamps": "00:00:12,987 --> 00:00:21,416",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "4",
+            "key": [
+                "1",
+                4,
+                "4"
+            ],
+            "value": {
+                "story": "1",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "Henri Konan Bédié, he sat on his throne.",
+                    "morphemes": "ãrikonãbɛdje ɛ̃́ ché nɛ phɛ̃́ mɛ̃",
+                    "orthography": "Henri Konan Bédié ń che nkɛ phɛ́n nmɛn",
+                    "gloss": "Henri Konan Bédié 3sg.pfv sit.pfv 3sg.obv throne on",
+                    "gloss_fr": "Henri Konan Bédié 3sg.acp s'asseoir obj.3sg throne extrémité",
+                    "translation": "Henri Konan Bédié, he sat on his throne.",
+                    "french": "Henri Konan Bédié, il est assis sur son trône.",
+                    "timestamps": "00:00:22,539 --> 00:00:30,833",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "5",
+            "key": [
+                "1",
+                5,
+                "5"
+            ],
+            "value": {
+                "story": "1",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "What he has done for Côte d'Ivoire,",
+                    "morphemes": "a chɛ se lo ɟɔ̃-sɛ̃ khúɓɛ́",
+                    "orthography": "a chɛ se lo jɔnsɛn khúbhɛ́",
+                    "gloss": "3.inan cause.pfv give 1pl elephant-tusk village",
+                    "gloss_fr": "ça causer donner notre éléphant-défense village",
+                    "translation": "What he has done for Côte d'Ivoire,",
+                    "french": "Ce qu'il a fait pour la Côte d'Ivoire,",
+                    "timestamps": "00:00:31,587 --> 00:00:36,178",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "6",
+            "key": [
+                "1",
+                6,
+                "6"
+            ],
+            "value": {
+                "story": "1",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "you have friendliness,",
+                    "morphemes": "ɔ̃́ pɛ á-phɔ́-pɔ́-li",
+                    "orthography": "ɔ́n pɛ áphɔ̂pɔli",
+                    "gloss": "2pl have cm-body-happiness-eat.nmlz",
+                    "gloss_fr": "2pl avoir l'amour",
+                    "translation": "you have friendliness,",
+                    "french": "vous avez la convivialité,",
+                    "timestamps": "00:00:36,399 --> 00:00:38,600",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "7",
+            "key": [
+                "1",
+                7,
+                "7"
+            ],
+            "value": {
+                "story": "1",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "understanding,",
+                    "morphemes": "ɛ̃́-mɛ̃́-brɛ-lí",
+                    "orthography": "nmɛ́n-brɛlí",
+                    "gloss": "cm-mouth-one-eat.nmlz",
+                    "gloss_fr": "l'unité",
+                    "translation": "understanding,",
+                    "french": "l'entente,",
+                    "timestamps": "00:00:38,858 --> 00:00:40,873",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "8",
+            "key": [
+                "1",
+                8,
+                "8"
+            ],
+            "value": {
+                "story": "1",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "and tranquility.",
+                    "morphemes": "lé ɲɟɛ-khwá-lé",
+                    "orthography": "lê njɛkhwálé",
+                    "gloss": "and ear-be.present-part.nmlz",
+                    "gloss_fr": "et tranquilité",
+                    "translation": "and tranquility.",
+                    "french": "et la tranquilité.",
+                    "timestamps": "00:00:41,074 --> 00:00:46,534",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+    ]
+}

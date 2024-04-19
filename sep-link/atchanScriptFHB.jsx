@@ -1163,7 +1163,7 @@ var StoryViewFR = React.createClass({
         function(x){
           return <Sentence key={x.key}
                     sentence={x.value.sentence}
-                    show_gloss={this.state.show_gloss_fr}
+                    show_gloss_fr={this.state.show_gloss_fr}
                     show_french={true}/>;
         }.bind(this)
       ).value();
@@ -2178,11 +2178,11 @@ var Sentence = React.createClass({
       </div>;
     }
 
-    if (this.props.show_ipa) {
-      ipa =  <div style={{marginBottom: "10px"}}>
-        {sentence.morphemes}
-      </div>;
-    }
+    // if (this.props.show_ipa) {
+    //   ipa =  <div style={{marginBottom: "10px"}}>
+    //     {sentence.morphemes}
+    //   </div>;
+    // }
 
     if (this.props.show_french) {
       lang_display = <span>{sentence.french}<br/></span>
@@ -2225,7 +2225,7 @@ var Sentence = React.createClass({
         var orthography = x[0];
         var gloss_fr = x[1];
         // return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{morpheme}<br/>{gloss_fr}</div>
-        return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{orthography}<br/>{gloss_fr}</div>
+        return <div style={{display: "inline-block", marginRight: "5px"}} key={i}><b>{orthography}</b><br/>{gloss_fr}</div>
       }.bind(this)).value();
       gloss_fr = <span>{glosses_fr}<br/></span>;
     }
@@ -2233,7 +2233,6 @@ var Sentence = React.createClass({
     // render utterance and translation
     return <div style={{marginBottom: "10px"}}>
       <b>{sentence.orthography}</b><br/>
-      {/* {<div style={{display: "inline-block", marginRight: "5px"}} key={i}>{orthography}<br/>{gloss_fr}</div>} */}
       {ipa}
       {gloss}
       {gloss_fr}

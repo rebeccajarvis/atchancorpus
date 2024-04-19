@@ -22,12 +22,12 @@ var State = ReactRouter.State;
 // Loaded from static files in the repository rather than from lingsync.
 
 // Static file with sentences.
-// var sentence_url = '/story_compiler/sentences.json';
-var sentence_url = 'FHB/fhb_sentences.json'
+var sentence_url = '/story_compiler/sentences.json';
+// var sentence_url = 'FHB/fhb_sentences.json'
 
 // Static file with stories.
-// var story_url = '/story_compiler/story_index.json';
-var story_url = 'FHB/fhb_stories.json'
+var story_url = '/story_compiler/story_index.json';
+// var story_url = 'FHB/fhb_stories.json'
 
 var global_show_french = true;
 
@@ -2191,15 +2191,27 @@ var Sentence = React.createClass({
     
     // interlinear gloss alignment
     if (this.props.show_gloss) {
-      var morphemes = sentence.morphemes.split(' ');
+      // var morphemes = sentence.morphemes.split(' ');
+      // var glosses = sentence.gloss.split(' ');
+      // var pairs = _.zip(morphemes, glosses);
+      // // render one inline block div containing morpheme and gloss per word
+      // var glosses = _(pairs).map(function(x, i){
+      //   var morpheme = x[0];
+      //   var gloss = x[1];
+      //   // return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{morpheme}<br/>{gloss}</div>
+      //   return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{gloss}</div>
+      // }.bind(this)).value();
+      // gloss = <span>{glosses}<br/></span>;
+
+      var orthography = sentence.orthography.split(' ');
       var glosses = sentence.gloss.split(' ');
-      var pairs = _.zip(morphemes, glosses);
+      var pairs = _.zip(orthography, glosses);
       // render one inline block div containing morpheme and gloss per word
       var glosses = _(pairs).map(function(x, i){
-        var morpheme = x[0];
+        var orthography = x[0];
         var gloss = x[1];
-        // return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{morpheme}<br/>{gloss}</div>
-        return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{gloss}</div>
+        // return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{morpheme}<br/>{gloss_fr}</div>
+        return <div style={{display: "inline-block", marginRight: "5px"}} key={i}><b>{orthography}</b><br/>{gloss}</div>
       }.bind(this)).value();
       gloss = <span>{glosses}<br/></span>;
     }

@@ -22,10 +22,12 @@ var State = ReactRouter.State;
 // Loaded from static files in the repository rather than from lingsync.
 
 // Static file with sentences.
-var sentence_url = '/FHB/fhb_sentences.json';
+// var sentence_url = '/story_compiler/sentences.json';
+var sentence_url = 'FHB/fhb_sentences.json'
 
 // Static file with stories.
-var story_url = '/FHB/fhb_stories.json';
+// var story_url = '/story_compiler/story_index.json';
+var story_url = 'FHB/fhb_stories.json'
 
 var global_show_french = true;
 
@@ -847,38 +849,37 @@ var StoryView = React.createClass({
   //toggles interlinear gloss or not
   toggleGloss: function() {
     var new_show_gloss = !this.state.show_gloss;
-    var new_show_gloss_fr = this.state.show_gloss_fr;
+    // var new_show_gloss_fr = this.state.show_gloss_fr;
     var new_story_view = this.state.story_view;
     if(new_show_gloss) {
       new_story_view = false;
     }
     this.setState({show_gloss: new_show_gloss,
-                   show_gloss_fr: new_show_gloss_fr,
                     story_view: new_story_view});
   },
-  toggleGlossFR: function() {
-    var new_show_gloss = this.state.show_gloss;
-    var new_show_gloss_fr = !this.state.show_gloss_fr;
-    var new_story_view = this.state.story_view;
-    if(new_show_gloss_fr) {
-      new_story_view = false;
-    }
-    this.setState({show_gloss: new_show_gloss,
-                   show_gloss_fr: new_show_gloss_fr,
-                    story_view: new_story_view});
-  },
+  // toggleGlossFR: function() {
+  //   // var new_show_gloss = this.state.show_gloss;
+  //   var new_show_gloss_fr = !this.state.show_gloss_fr;
+  //   var new_story_view = this.state.story_view;
+  //   if(new_show_gloss_fr) {
+  //     new_story_view = false;
+  //   }
+  //   this.setState({show_gloss: this.state.show_gloss,
+  //                  show_gloss_fr: new_show_gloss_fr,
+  //                   story_view: new_story_view});
+  // },
   //toggles story view
   toggleStoryView: function() {
     var new_show_gloss = this.state.show_gloss;
-    var new_show_gloss_fr = this.state.show_gloss_fr;
+    // var new_show_gloss_fr = this.state.show_gloss_fr;
     var new_story_view = !this.state.story_view;
     var new_french_view = this.state.french_view; // EDIT
     if(new_story_view) {
       new_show_gloss = false;
-      new_show_gloss_fr = false;
+      // new_show_gloss_fr = false;
     }
     this.setState({show_gloss: new_show_gloss,
-                   show_gloss_fr: new_show_gloss_fr,
+                  //  show_gloss_fr: new_show_gloss_fr,
                     story_view: new_story_view,
                     french_view: new_french_view}); // EDIT
   },
@@ -944,8 +945,10 @@ var StoryView = React.createClass({
         function(x){
           return <Sentence key={x.key}
                     sentence={x.value.sentence}
+                    show_ipa={this.state.show_ipa}
                     show_gloss={this.state.show_gloss}
-                    show_gloss_fr={this.state.show_gloss_fr}/>;
+                    show_french={false}/>;
+                    // show_gloss_fr={this.state.show_gloss_fr}/>;
         }.bind(this)
       ).value();
     }
@@ -964,12 +967,12 @@ var StoryView = React.createClass({
               </div>
             </div>
 
-            <div className="field">
+            {/* <div className="field">
               <div className="ui slider checkbox">
                 <input type="radio" name="throughput" checked={this.state.show_gloss_fr} onChange={this.toggleGlossFR}> </input>
                 <label>Show GlossesFR</label>
               </div>
-            </div>
+            </div> */}
 
             <div className="field">
               <div className="ui slider checkbox">
@@ -1004,6 +1007,7 @@ var StoryViewFR = React.createClass({
     return {sentence: {data: [], loaded: false},
             story: {data: [], loaded: false},
             show_gloss: false,
+            show_gloss_fr: false,
             story_view: false, 
             french_view: true, // EDIT: added french toggle
             french_story: {data: [], loaded: false}
@@ -1045,27 +1049,55 @@ var StoryViewFR = React.createClass({
   getStoryAuthor: function() {
     return _.get(this.getStory(), 'author', "");
   },
-  //toggles interlinear gloss or not
-  toggleGloss: function() {
-    var new_show_gloss = !this.state.show_gloss;
+  // toggles IPA
+  toggleIPA: function() {
+    var new_show_ipa = !this.state.show_ipa;
     var new_story_view = this.state.story_view;
-    if(new_show_gloss) {
+    if (new_show_ipa) {
       new_story_view = false;
     }
-    this.setState({show_gloss: new_show_gloss,
+    this.setState({show_ipa: new_show_ipa,
+                  //   show_gloss: new_show_gloss,
+                  //  show_gloss_fr: this.state.show_gloss_fr,
+                   story_view: new_story_view});
+  },
+  //toggles interlinear gloss or not
+  toggleGloss: function() {
+    var new_show_gloss_fr = !this.state.show_gloss_fr;
+    // var new_show_gloss_fr = this.state.show_gloss_fr;
+    var new_story_view = this.state.story_view;
+    if(new_show_gloss_fr) {
+      new_story_view = false;
+    }
+    this.setState({show_gloss_fr: new_show_gloss_fr,
+                  //  show_gloss_fr: this.state.show_gloss_fr,
                     story_view: new_story_view});
   },
+  // toggleGlossFR: function() {
+  //   // var new_show_gloss = this.state.show_gloss;
+  //   var new_show_gloss_fr = !this.state.show_gloss_fr;
+  //   var new_story_view = this.state.story_view;
+  //   if(new_show_gloss_fr) {
+  //     new_story_view = false;
+  //   }
+  //   this.setState({show_gloss: this.state.show_gloss,
+  //                  show_gloss_fr: new_show_gloss_fr,
+  //                   story_view: new_story_view});
+  // },
   //toggles story view
   toggleStoryView: function() {
-    var new_show_gloss = this.state.show_gloss;
+    // var new_show_gloss = this.state.show_gloss;
+    var new_show_gloss_fr = this.state.show_gloss_fr;
     var new_story_view = !this.state.story_view;
-    // var new_french_view = this.state.french_view; // EDIT
+    var new_french_view = this.state.french_view; // EDIT
     if(new_story_view) {
-      new_show_gloss = false;
+      // new_show_gloss = false;
+      new_show_gloss_fr = false;
     }
-    this.setState({show_gloss: new_show_gloss,
+    this.setState({// show_gloss: new_show_gloss,
+                   show_gloss_fr: new_show_gloss_fr,
                     story_view: new_story_view,
-                    french_view: global_show_french}); // EDIT
+                    french_view: new_french_view}); // EDIT
   },
   //renders component
   render: function() {
@@ -1094,7 +1126,7 @@ var StoryViewFR = React.createClass({
                   <div key={x.key + "-1"} className="eight wide column"
                         style={{"padding": "0px"}}>
                     <Sentence sentence={x.value.sentence}
-                              only_utterance="true" />
+                              only_orthography="true" />
                   </div>
                 ),
                 (
@@ -1131,7 +1163,8 @@ var StoryViewFR = React.createClass({
         function(x){
           return <Sentence key={x.key}
                     sentence={x.value.sentence}
-                    show_gloss={this.state.show_gloss}/>;
+                    show_gloss={this.state.show_gloss_fr}
+                    show_french={true}/>;
         }.bind(this)
       ).value();
     }
@@ -1149,7 +1182,7 @@ var StoryViewFR = React.createClass({
 
             <div className="field">
               <div className="ui slider checkbox">
-                <input type="radio" name="throughput" checked={this.state.show_gloss} onChange={this.toggleGloss}> </input>
+                <input type="radio" name="throughput" checked={this.state.show_gloss_fr} onChange={this.toggleGloss}> </input>
                 <label>Show Glosses FR</label>
               </div>
             </div>
@@ -2117,7 +2150,15 @@ var Sentence = React.createClass({
   render: function() {
     var gloss = '';
     var gloss_fr = '';
+    var ipa = '';
+    var orthography = '';
+    var show_french = false;
+    var lang_display;
     var sentence = this.props.sentence;
+
+    if (!(this.props.show_gloss || this.props.show_gloss_fr)) {
+      orthography = <b>{sentence.orthography}</b>;
+    }
 
     if (this.props.only_orthography) {
       return <div style={{marginBottom: "10px"}}>
@@ -2137,11 +2178,16 @@ var Sentence = React.createClass({
       </div>;
     }
 
-    // if (this.props.show_ipa) {
-    //   return <div style={{marginBottom: "10px"}}>
-    //     {sentence.ipa}
-    //   </div>;
-    // }
+    if (this.props.show_ipa) {
+      ipa =  <div style={{marginBottom: "10px"}}>
+        {sentence.morphemes}
+      </div>;
+    }
+
+    if (this.props.show_french) {
+      lang_display = <span>{sentence.french}<br/></span>
+    }
+    else {lang_display = <span>{sentence.translation}<br/></span>}
     
     // interlinear gloss alignment
     if (this.props.show_gloss) {
@@ -2152,37 +2198,50 @@ var Sentence = React.createClass({
       var glosses = _(pairs).map(function(x, i){
         var morpheme = x[0];
         var gloss = x[1];
-        return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{morpheme}<br/>{gloss}</div>
+        // return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{morpheme}<br/>{gloss}</div>
+        return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{gloss}</div>
       }.bind(this)).value();
       gloss = <span>{glosses}<br/></span>;
     }
 
     if (this.props.show_gloss_fr) {
-      var morphemes = sentence.morphemes.split(' ');
+      // var morphemes = sentence.morphemes.split(' ');
+      // var glosses_fr = sentence.gloss_fr.split(' ');
+      // var pairs = _.zip(morphemes, glosses_fr);
+      // // render one inline block div containing morpheme and gloss per word
+      // var glosses_fr = _(pairs).map(function(x, i){
+      //   var morpheme = x[0];
+      //   var gloss_fr = x[1];
+      //   // return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{morpheme}<br/>{gloss_fr}</div>
+      //   return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{gloss_fr}</div>
+      // }.bind(this)).value();
+      // gloss_fr = <span>{glosses_fr}<br/></span>;
+
+      var orthography = sentence.orthography.split(' ');
       var glosses_fr = sentence.gloss_fr.split(' ');
-      var pairs = _.zip(morphemes, glosses_fr);
+      var pairs = _.zip(orthography, glosses_fr);
       // render one inline block div containing morpheme and gloss per word
       var glosses_fr = _(pairs).map(function(x, i){
-        var morpheme = x[0];
+        var orthography = x[0];
         var gloss_fr = x[1];
-        return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{morpheme}<br/>{gloss_fr}</div>
+        // return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{morpheme}<br/>{gloss_fr}</div>
+        return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{orthography}<br/>{gloss_fr}</div>
       }.bind(this)).value();
       gloss_fr = <span>{glosses_fr}<br/></span>;
-      // return <div style={{marginBottom: "10px"}}>
-      //   {sentence.gloss_fr}
-      // </div>;
     }
 
     // render utterance and translation
     return <div style={{marginBottom: "10px"}}>
       <b>{sentence.orthography}</b><br/>
-      {/* {ipa} */}
+      {/* {<div style={{display: "inline-block", marginRight: "5px"}} key={i}>{orthography}<br/>{gloss_fr}</div>} */}
+      {ipa}
       {gloss}
       {gloss_fr}
-      {<span>{sentence.translation}<br/></span>}
-      {sentence.french}
+      {/* {<span>{sentence.translation}<br/></span>}
+      {sentence.french} */}
+      {lang_display}
     </div>
-  } // EDIT: sentence.translation to <span>{sentence.translation}<br/></span> to add french
+  }
 });
 
 

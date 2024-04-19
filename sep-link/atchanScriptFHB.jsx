@@ -801,7 +801,7 @@ var StoryView = React.createClass({
   getInitialState: function() {
     return {sentence: {data: [], loaded: false},
             story: {data: [], loaded: false},
-            show_ipa: false,
+            show_ipa: true,
             show_orthography: false,
             show_gloss: false,
             show_gloss_fr: false,
@@ -856,6 +856,10 @@ var StoryView = React.createClass({
     }
     this.setState({show_gloss: new_show_gloss,
                     story_view: new_story_view});
+  },
+  toggleIPA: function() {
+    var new_show_ipa = !this.state.show_ipa;
+    this.setState({show_ipa: new_show_ipa});
   },
   // toggleGlossFR: function() {
   //   // var new_show_gloss = this.state.show_gloss;
@@ -945,7 +949,7 @@ var StoryView = React.createClass({
         function(x){
           return <Sentence key={x.key}
                     sentence={x.value.sentence}
-                    show_ipa={this.state.show_ipa}
+                    // show_ipa={this.state.show_ipa}
                     show_gloss={this.state.show_gloss}
                     show_french={false}/>;
                     // show_gloss_fr={this.state.show_gloss_fr}/>;
@@ -1008,6 +1012,7 @@ var StoryViewFR = React.createClass({
             story: {data: [], loaded: false},
             show_gloss: false,
             show_gloss_fr: false,
+            show_ipa: false,
             story_view: false, 
             french_view: true, // EDIT: added french toggle
             french_story: {data: [], loaded: false}
@@ -1061,17 +1066,30 @@ var StoryViewFR = React.createClass({
                   //  show_gloss_fr: this.state.show_gloss_fr,
                    story_view: new_story_view});
   },
+  showIPAToggle: function() {
+    if (this.state.show_gloss_fr) {
+      return <div className="field">
+        <div className="ui slider checkbox">
+        <input type="radio" name="throughput" checked={this.state.show_ipa} onChange={this.toggleIPA}> </input>
+        <label>Show IPA</label>
+      </div>
+    </div>
+    }
+    else {return;}
+  },
   //toggles interlinear gloss or not
   toggleGloss: function() {
     var new_show_gloss_fr = !this.state.show_gloss_fr;
     // var new_show_gloss_fr = this.state.show_gloss_fr;
     var new_story_view = this.state.story_view;
-    if(new_show_gloss_fr) {
+    if (new_show_gloss_fr) {
       new_story_view = false;
+      new_show_ipa = false;
     }
     this.setState({show_gloss_fr: new_show_gloss_fr,
+                   show_ipa: new_show_ipa,
                   //  show_gloss_fr: this.state.show_gloss_fr,
-                    story_view: new_story_view});
+                   story_view: new_story_view});
   },
   // toggleGlossFR: function() {
   //   // var new_show_gloss = this.state.show_gloss;
@@ -1093,9 +1111,11 @@ var StoryViewFR = React.createClass({
     if(new_story_view) {
       // new_show_gloss = false;
       new_show_gloss_fr = false;
+      // new_show_ipa = false;
     }
     this.setState({// show_gloss: new_show_gloss,
-                   show_gloss_fr: new_show_gloss_fr,
+                    show_gloss_fr: new_show_gloss_fr,
+                    // show_ipa: new_show_ipa,
                     story_view: new_story_view,
                     french_view: new_french_view}); // EDIT
   },
@@ -1164,6 +1184,7 @@ var StoryViewFR = React.createClass({
           return <Sentence key={x.key}
                     sentence={x.value.sentence}
                     show_gloss_fr={this.state.show_gloss_fr}
+                    show_ipa={this.state.show_ipa}
                     show_french={true}/>;
         }.bind(this)
       ).value();
@@ -1186,6 +1207,8 @@ var StoryViewFR = React.createClass({
                 <label>Show Glosses FR</label>
               </div>
             </div>
+
+            {this.showIPAToggle()}
 
             <div className="field">
               <div className="ui slider checkbox">
@@ -2150,9 +2173,10 @@ var Sentence = React.createClass({
   render: function() {
     var gloss = '';
     var gloss_fr = '';
-    var ipa = '';
+    // var ipa = '';
     var orthography = '';
-    var show_french = false;
+    // var show_french = false;
+    // var show_ipa = true;
     var lang_display;
     var sentence = this.props.sentence;
 
@@ -2202,16 +2226,24 @@ var Sentence = React.createClass({
       //   return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{gloss}</div>
       // }.bind(this)).value();
       // gloss = <span>{glosses}<br/></span>;
-
-      var orthography = sentence.orthography.split(' ');
-      var glosses = sentence.gloss.split(' ');
-      var pairs = _.zip(orthography, glosses);
+      if (this.props.show_ipa) {
+        var morphemes = sentence.morphemes.split(' ');
+        var glosses = sentence.gloss.split(' ');
+        var pairs = _.zip(morphemes, glosses);
+      }
+      else {
+        var orthography = sentence.orthography.split(' ');
+        var glosses = sentence.gloss.split(' ');
+        var pairs = _.zip(orthography, glosses);
+      }
+      
+      // var pairs = _.zip(orthography, glosses);
       // render one inline block div containing morpheme and gloss per word
       var glosses = _(pairs).map(function(x, i){
-        var orthography = x[0];
+        var morpheme = x[0];
         var gloss = x[1];
         // return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{morpheme}<br/>{gloss_fr}</div>
-        return <div style={{display: "inline-block", marginRight: "5px"}} key={i}><b>{orthography}</b><br/>{gloss}</div>
+        return <div style={{display: "inline-block", marginRight: "5px"}} key={i}><b>{morpheme}</b><br/>{gloss}</div>
       }.bind(this)).value();
       gloss = <span>{glosses}<br/></span>;
     }
@@ -2229,15 +2261,24 @@ var Sentence = React.createClass({
       // }.bind(this)).value();
       // gloss_fr = <span>{glosses_fr}<br/></span>;
 
-      var orthography = sentence.orthography.split(' ');
-      var glosses_fr = sentence.gloss_fr.split(' ');
-      var pairs = _.zip(orthography, glosses_fr);
+      if (this.props.show_ipa) {
+        var morphemes = sentence.morphemes.split(' ');
+        var glosses_fr = sentence.gloss_fr.split(' ');
+        var pairs = _.zip(morphemes, glosses_fr);
+      }
+      else {
+        var orthography = sentence.orthography.split(' ');
+        var glosses_fr = sentence.gloss_fr.split(' ');
+        var pairs = _.zip(orthography, glosses_fr);
+      }
+      
+      // var pairs = _.zip(orthography, glosses);
       // render one inline block div containing morpheme and gloss per word
       var glosses_fr = _(pairs).map(function(x, i){
-        var orthography = x[0];
+        var alignment_ref = x[0];
         var gloss_fr = x[1];
         // return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{morpheme}<br/>{gloss_fr}</div>
-        return <div style={{display: "inline-block", marginRight: "5px"}} key={i}><b>{orthography}</b><br/>{gloss_fr}</div>
+        return <div style={{display: "inline-block", marginRight: "5px"}} key={i}><b>{alignment_ref}</b><br/>{gloss_fr}</div>
       }.bind(this)).value();
       gloss_fr = <span>{glosses_fr}<br/></span>;
     }
@@ -2245,7 +2286,7 @@ var Sentence = React.createClass({
     // render utterance and translation
     return <div style={{marginBottom: "10px"}}>
       <b>{sentence.orthography}</b><br/>
-      {ipa}
+      {/* {ipa} */}
       {gloss}
       {gloss_fr}
       {/* {<span>{sentence.translation}<br/></span>}

@@ -84,7 +84,8 @@ var Homepage = React.createClass(
 
       <h1 className='ui dividing header'>Atchan Song and Story Corpus</h1>
 
-      {/* <img className="ui medium right floated rounded image" src="./images/Nuba-berge.jpg"></img> */}
+      <img className="ui medium center floated rounded image" src="./images/Anono_street.jpg"></img>
+      <img className="ui medium center floated rounded image" src="./images/Blockhauss_ceremony.jpg"></img>
   
   <p>This website contains a collection of texts, songs, and stories in the Atchan language (also known as Ébrié). 
       Atchan is a language spoken by the Tchaman people (also called the Ébrié people), who live in approximately sixty villages located within and near the city of Abidjan, Côte d’Ivoire’s economic capital. 
@@ -131,14 +132,39 @@ var HomepageFR = React.createClass(
 
       <h1 className='ui dividing header'>Recueil de contes et chants Atchan </h1>
       <h2 >ÁCAN NANMƐ LÊ ÁLƐ́BHƆ́ </h2>
+ 
+      {/* <h2> */}
+      {/* <div class="ui segment">
+      <div class="ui two column grid">
+        <div class="column">
+          <div class="ui segment">
+            <img className="ui floated medium spaced rounded image" src="./images/Anono_street.jpg"></img>
+          </div>
+        </div>
+        <div class="column">
+          <div class="ui segment">
+            <img className="ui floated medium spaced rounded image" src="./images/Blockhauss_ceremony.jpg"></img>
+          </div>
+        </div>
+      </div> */}
+      
+      {/* </h2> */}
+      <div class="ui segment">
+      <div class="ui medium images">
+        <img className="ui floated medium spaced rounded image" src="./images/Anono_street.jpg"></img>
+        <img className="ui floated medium spaced rounded image" src="./images/Blockhauss_ceremony.jpg"></img>
+      </div>
+      {/* <div class="ui dividing header"></div> */}
+      </div>
+    {/* <div class="ui horizontal divider"></div> */}
+    {/* </div> */}
 
-      {/* <img className="ui medium right floated rounded image" src="./images/Nuba-berge.jpg"></img> */}
-  
     <p> Ce site web fait la collection de textes, chansons et contes en langue atchan plus connue sous le nom ébrié. 
       Cette langue est parlée par les Ébrié qui se nomment eux-mêmes Tchaman et qui vivent dans une soixantaine de villages tous situés à Abidjan (actuelle capitale de la Côte d'Ivoire) et ses alentours. 
       Selon la classification de Williamson & Blench (2000:18), l'atchan forme, avec le nghlwa (mbatto), le sous-groupe Potou, lui-même issu du groupe Kwa appartenant à la Famille Niger-Congo. 
       Les éléments collectés ici vous permettront d'apprendre davantage sur le peuple, sa langue et ses us et coutumes.   </p> 
   
+    {/* </div>  */}
     <p> Ce site est une collaboration entre Dr Yao Maxime Dido, Professeur de linguistique à l'Université Alassane Ouattara de Bouaké (Côte d'Ivoire) et des linguistes de l'Université de Berkeley en Californie aux USA. 
       Dr Dido a participé à la mise en place de l'orthographe de l'atchan avec le Prof. Rémy Bôle-Richard, un linguiste spécialiste des langues Ouest-Africaines, qui en est le concepteur.</p>
     
@@ -2497,7 +2523,7 @@ var App = React.createClass({
             <div className="ui slider checkbox">
             <input type="radio" name="toggle_lang" checked={global_show_french} onChange={this.toggleLang}> </input>
             
-            <label>French 🇫🇷</label>
+            <label>Français 🇫🇷</label>
             </div>
           </div>
       {/* <Link to={gloss} className='right item' ref='glossingPopupActivator'>{gloss_label}

@@ -808,7 +808,7 @@ var StoryView = React.createClass({
   getInitialState: function() {
     return {sentence: {data: [], loaded: false},
             story: {data: [], loaded: false},
-            show_ipa: true,
+            show_ipa: false,
             show_orthography: false,
             show_gloss: false,
             show_gloss_fr: false,
@@ -860,25 +860,34 @@ var StoryView = React.createClass({
     var new_story_view = this.state.story_view;
     if(new_show_gloss) {
       new_story_view = false;
+      new_show_ipa = false;
     }
     this.setState({show_gloss: new_show_gloss,
-                    story_view: new_story_view});
+                   show_ipa: new_show_ipa,
+                   story_view: new_story_view});
   },
   toggleIPA: function() {
     var new_show_ipa = !this.state.show_ipa;
-    this.setState({show_ipa: new_show_ipa});
+    var new_story_view = this.state.story_view;
+    if (new_show_ipa) {
+      new_story_view = false;
+    }
+    this.setState({show_ipa: new_show_ipa,
+                  //   show_gloss: new_show_gloss,
+                  //  show_gloss_fr: this.state.show_gloss_fr,
+                   story_view: new_story_view});
   },
-  // toggleGlossFR: function() {
-  //   // var new_show_gloss = this.state.show_gloss;
-  //   var new_show_gloss_fr = !this.state.show_gloss_fr;
-  //   var new_story_view = this.state.story_view;
-  //   if(new_show_gloss_fr) {
-  //     new_story_view = false;
-  //   }
-  //   this.setState({show_gloss: this.state.show_gloss,
-  //                  show_gloss_fr: new_show_gloss_fr,
-  //                   story_view: new_story_view});
-  // },
+  showIPAToggle: function() {
+    if (this.state.show_gloss) {
+      return <div className="field">
+        <div className="ui slider checkbox">
+        <input type="radio" name="throughput" checked={this.state.show_ipa} onChange={this.toggleIPA}> </input>
+        <label>Show IPA</label>
+      </div>
+    </div>
+    }
+    else {return;}
+  },
   //toggles story view
   toggleStoryView: function() {
     var new_show_gloss = this.state.show_gloss;
@@ -956,8 +965,8 @@ var StoryView = React.createClass({
         function(x){
           return <Sentence key={x.key}
                     sentence={x.value.sentence}
-                    // show_ipa={this.state.show_ipa}
                     show_gloss={this.state.show_gloss}
+                    show_ipa={this.state.show_ipa}
                     show_french={false}/>;
                     // show_gloss_fr={this.state.show_gloss_fr}/>;
         }.bind(this)
@@ -978,12 +987,7 @@ var StoryView = React.createClass({
               </div>
             </div>
 
-            {/* <div className="field">
-              <div className="ui slider checkbox">
-                <input type="radio" name="throughput" checked={this.state.show_gloss_fr} onChange={this.toggleGlossFR}> </input>
-                <label>Show GlossesFR</label>
-              </div>
-            </div> */}
+            {this.showIPAToggle()}
 
             <div className="field">
               <div className="ui slider checkbox">

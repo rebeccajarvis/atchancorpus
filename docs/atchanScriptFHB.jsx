@@ -87,7 +87,7 @@ var Homepage = React.createClass(
 
     <div className="ui segment">
     <img className="ui medium spaced rounded image" src="./images/Anono_street.jpg"></img>
-    <img className="ui medium spaced rounded image" src="./images/Blockhauss_ceremony.jpg"></img>
+    <img className="ui medium spaced rounded image" src="./images/Blockhauss_ceremony.JPG"></img>
     </div>
         
     <p>This website contains a collection of texts, songs, and stories in the Atchan language (also known as Ébrié). 

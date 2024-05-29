@@ -22,7 +22,7 @@ var State = ReactRouter.State;
 // Loaded from static files in the repository rather than from lingsync.
 
 // Static file with sentences.
-var sentence_url = '/story_compiler/sentences.json';
+var sentence_url = 'story_compiler/sentences.json';
 // var sentence_url = 'FHB/fhb_sentences.json'
 
 // Static file with stories.

@@ -138,7 +138,7 @@ var HomepageFR = React.createClass(
 
       <div className="ui segment">
       <img className="ui medium spaced rounded image" src="./images/Anono_street.jpg"></img>
-      <img className="ui medium spaced rounded image" src="./images/Blockhauss_ceremony.jpg"></img>
+      <img className="ui medium spaced rounded image" src="./images/Blockhauss_ceremony.JPG"></img>
       </div>
 
     <p> Ce site web fait la collection de textes, chansons et contes en langue atchan plus connue sous le nom ébrié. 

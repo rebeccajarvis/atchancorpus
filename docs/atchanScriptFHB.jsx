@@ -1225,7 +1225,7 @@ var StoryViewFR = React.createClass({
         <h1>{this.getStoryName()}</h1> de {this.getStoryAuthor()} <div className="ui form">
 
           <div className="grouped fields">
-            <label>View Options FR</label>
+            <label>Options d'Affichage</label>
 
             <div className="field">
               <div className="ui slider checkbox">

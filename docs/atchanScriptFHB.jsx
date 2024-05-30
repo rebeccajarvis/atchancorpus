@@ -1096,7 +1096,7 @@ var StoryViewFR = React.createClass({
       return <div className="field">
         <div className="ui slider checkbox">
         <input type="radio" name="throughput" checked={this.state.show_ipa} onChange={this.toggleIPA}> </input>
-        <label>Show IPA</label>
+        <label>Show IPA FR</label>
       </div>
     </div>
     }

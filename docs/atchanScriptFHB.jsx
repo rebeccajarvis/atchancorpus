@@ -2486,8 +2486,8 @@ var App = React.createClass({
       ortho_label = 'Orthographe'
       // dictionary = 'DictionaryFR'
       // search = 'SearchFR'
-      // gloss = 'GlossesFR'
-      // gloss_label = 'GlossingFR'
+      gloss = 'GlossesFR'
+      gloss_label = 'GlossingFR'
     }
     else {
       homepage = 'Homepage'
@@ -2498,8 +2498,8 @@ var App = React.createClass({
       ortho_label = 'Orthography'
       // dictionary = 'Dictionary'
       // search = 'Search'
-      // gloss = 'Glosses'
-      // gloss_label = 'Glossing'
+      gloss = 'Glosses'
+      gloss_label = 'Glossing'
     }
 
     return <div className='ui main text container'> 

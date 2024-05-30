@@ -2584,15 +2584,15 @@ var routes = <Route handler={App}>
   <Route path = '/text/story/:key' handler={StoryView} name='Story' />
   <Route path = '/text/story/:key/FR' handler={StoryViewFR} name='StoryFR' />
 
-  <Route path = '/dict' handler={DictBox} name='Dictionary'>
-    <Route path = '/dict'
-            handler={DictView} name='Dict' />
-    <Route path = '/dict/concordance/:morpheme/:definition'
-            handler={ConcordanceView} name='Concordance' />
+  // <Route path = '/dict' handler={DictBox} name='Dictionary'>
+  //   <Route path = '/dict'
+  //           handler={DictView} name='Dict' />
+  //   <Route path = '/dict/concordance/:morpheme/:definition'
+  //           handler={ConcordanceView} name='Concordance' />
 
-  <Route path = '/search' handler={SearchPage} name='Search' />
-  <Route path = '/glosses' handler={Glosspage} name='Glosses' />
-  <Route path = '/glosses/FR' handler={GlosspageFR} name='GlossesFR' />
+  // <Route path = '/search' handler={SearchPage} name='Search' />
+  // <Route path = '/glosses' handler={Glosspage} name='Glosses' />
+  // <Route path = '/glosses/FR' handler={GlosspageFR} name='GlossesFR' />
 
   </Route>
 </Route>

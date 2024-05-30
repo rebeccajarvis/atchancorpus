@@ -2509,10 +2509,10 @@ var App = React.createClass({
           <Link className='item' to={homepage} >{about}</Link> 
           <Link className='item' to={orthography} >{ortho_label}</Link>
           <Link className='item' to={texts} >{texts_label}</Link>
-          {/* trying to disable concordance tab <Link className='item' to='Dictionary' >Concordance</Link> */}
+          {/* concordance tab is hidden - uncomment this line to re-show <Link className='item' to='Dictionary' >Concordance</Link> */}
           {/* line below is for link checking, can remove */}
           {/* <Link className='item' to='Dictionary' >{this.getPath()}</Link> */} 
-          {/* trying to disable search tab <Link className='item' to='Search' >Search</Link> */}
+          {/* search tab is hidden - uncomment this line to re-show <Link className='item' to='Search' >Search</Link> */}
           {/* added french toggle */}
           <div className='item'>
             <div className="ui slider checkbox">
@@ -2524,7 +2524,7 @@ var App = React.createClass({
       {/* <Link to={gloss} className='right item' ref='glossingPopupActivator'>{gloss_label}
           <i className="dropdown icon"></i>
       </Link> */}
-          <Link className='item' to={gloss} >{gloss_label}</Link>
+          {/* glossing tab is hidden - uncomment this line to re-show <Link className='item' to={gloss} >{gloss_label}</Link> */}
       {/* <div ref='glossingPopup' className='ui small popup bottom left transition hidden'>
           <div className='ui two column center aligned grid'>
             <div className='row'>

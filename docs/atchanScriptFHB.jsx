@@ -2518,7 +2518,7 @@ var App = React.createClass({
             <div className="ui slider checkbox">
             <input type="radio" name="toggle_lang" checked={global_show_french} onChange={this.toggleLang}> </input>
             
-            <label>Français 🇫🇷</label>
+            <label>Français 🇨🇮</label>
             </div>
           </div>
       {/* <Link to={gloss} className='right item' ref='glossingPopupActivator'>{gloss_label}

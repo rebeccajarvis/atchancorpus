@@ -1196,7 +1196,7 @@ var StoryViewFR = React.createClass({
             </div>
             <div className="eight wide column"
                 style={{"padding": "0px"}}>
-                <h2>French</h2>
+                <h2>Français</h2>
             </div>
           {sentence_rows}
           </div>

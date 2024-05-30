@@ -1230,7 +1230,7 @@ var StoryViewFR = React.createClass({
             <div className="field">
               <div className="ui slider checkbox">
                 <input type="radio" name="throughput" checked={this.state.show_gloss_fr} onChange={this.toggleGloss}> </input>
-                <label>Show Glosses FR</label>
+                <label>Afficher les gloses</label>
               </div>
             </div>
 
@@ -1239,7 +1239,7 @@ var StoryViewFR = React.createClass({
             <div className="field">
               <div className="ui slider checkbox">
                 <input type="radio" name="throughput" checked={this.state.story_view} onChange={this.toggleStoryView}> </input>
-                <label>Story View FR</label>
+                <label>Lire l'histoire</label>
               </div>
             </div>
 

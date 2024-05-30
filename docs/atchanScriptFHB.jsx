@@ -403,8 +403,8 @@ var OrthographyFR = React.createClass(
           <h1 className='ui dividing header'>Orthography</h1>
           <table className='ui celled table '>
           <thead>
-            <tr><th>IPA</th>
-            <th>Orthographe</th>
+            <tr><th>API</th>
+            <th><b>Orthographe</b></th>
             <th>Example (de le livre de Bôle-Richard et Dido)</th>
           </tr></thead>
 

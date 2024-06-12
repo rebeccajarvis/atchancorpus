@@ -1,5 +1,5 @@
 {
-    "total_rows": 36,
+    "total_rows": 40,
     "offset": 0,
     "rows": [
         {
@@ -15,7 +15,7 @@
                     "judgement": "",
                     "utterance": "In Côte d'Ivoire,",
                     "morphemes": "ló ɟɔ̃-sɛ̃ khúɓɛ́",
-                    "orthography": "ló jɔn-sɛn khúbhɛ́",
+                    "orthography": "l\\'o jɔn-sɛn khúbhɛ́",
                     "gloss": "dem elephant-tusk village",
                     "gloss_fr": "le elephant-défense village",
                     "translation": "In Côte d'Ivoire,",
@@ -41,7 +41,7 @@
                 "sentence": {
                     "judgement": "",
                     "utterance": "when the white man came,",
-                    "morphemes": "ɡã́-ɡã́ mɛ̃́ ɛ̃́ ma ɛ̃́ ma e",
+                    "morphemes": "ɡã́-ɡã́ mɛ̃́ ɛ̃́ ma ɛ̃́ ma e",
                     "orthography": "gángán mɛ́n ń ma ń ma (e)",
                     "gloss": "white.person 3sg.str 3sg.pfv come.pfv 3sg.pfv come.pfv emph",
                     "gloss_fr": "blanc obj.3sg 3sg.acp venir 3sg.acp venir emph",
@@ -68,7 +68,7 @@
                 "sentence": {
                     "judgement": "",
                     "utterance": "what he calls 'super' is what's great.",
-                    "morphemes": "á-jí khɛ̃́ ã́ che super ɗi á-jí ɲcréɲcré",
+                    "morphemes": "á-jí khɛ̃́ ã́ che super ɗi á-jí ɲcréɲcré",
                     "orthography": "áyí khɛ́n án che super li áyí créncré",
                     "gloss": "cm-thing rel 3sg.ipfv call super cop cm-thing mighty",
                     "gloss_fr": "chose que 3sg appeler super être chose saint",
@@ -122,7 +122,7 @@
                 "sentence": {
                     "judgement": "",
                     "utterance": "when the white man came,",
-                    "morphemes": "ɡã́ɡã́ mɛ̃́ ɛ̃́ ma ɛ̃́ ma e",
+                    "morphemes": "ɡã́ɡã́ mɛ̃́ ɛ̃́ ma ɛ̃́ ma e",
                     "orthography": "gán-gán mɛ́n ń ma ń ma (e)",
                     "gloss": "white.person 3sg.str 3sg.pfv come.pfv 3sg.pfv come.pfv emph",
                     "gloss_fr": "blanc obj.3sg 3sg.acp venir 3sg.acp venir emph",
@@ -149,7 +149,7 @@
                 "sentence": {
                     "judgement": "",
                     "utterance": "what he calls 'super' is what's great.",
-                    "morphemes": "á-jí khɛ̃́ ã́ che super ɗi á-jí ɲcréɲcré",
+                    "morphemes": "á-jí khɛ̃́ ã́ che super ɗi á-jí ɲcréɲcré",
                     "orthography": "áyí khɛ́n án che super li áyí créncré",
                     "gloss": "cm-thing rel 3sg.ipfv call super cop cm-thing mighty",
                     "gloss_fr": "chose que 3sg.acp appeler super être chose saint",
@@ -176,7 +176,7 @@
                 "sentence": {
                     "judgement": "",
                     "utterance": "what he calls 'super' is what's great.",
-                    "morphemes": "á-jí khɛ̃́ ã́ che super ɗi á-jí ɲcréɲcré",
+                    "morphemes": "á-jí khɛ̃́ ã́ che super ɗi á-jí ɲcréɲcré",
                     "orthography": "áyí khɛ́n án che super li áyí créncré",
                     "gloss": "cm-thing rel 3sg.ipfv call super cop cm-thing mighty",
                     "gloss_fr": "chose que 3sg.acp appeler super être chose saint",
@@ -257,7 +257,7 @@
                 "sentence": {
                     "judgement": "",
                     "utterance": "Go out, come see them!",
-                    "morphemes": "hɔ̃́ thã́ndi ɔ̃́ ma wú wo",
+                    "morphemes": "hɔ̃́ thã́ndi ɔ̃́ ma wú wo",
                     "orthography": "hɔ́n thándi ɔ́n ma wú wo",
                     "gloss": "2pl.str leave 2pl come see 3pl.str",
                     "gloss_fr": "obj.2pL sortir 2pl venir voir 3pl",
@@ -284,7 +284,7 @@
                 "sentence": {
                     "judgement": "",
                     "utterance": "What he calls 'super' is what's great.",
-                    "morphemes": "á-jí ã́ che super ɗi á-jí créɲcré",
+                    "morphemes": "á-jí ã́ che super ɗi á-jí créɲcré",
                     "orthography": "áyí án che super li áyí créncré",
                     "gloss": "cm-thing 3sg.ipfv call super cop cm-thing mighty",
                     "gloss_fr": "choose 3sg appeler super être chose saint",
@@ -365,7 +365,7 @@
                 "sentence": {
                     "judgement": "",
                     "utterance": "Go out, come see them!",
-                    "morphemes": "hɔ̃́ thã́ndi ɔ̃́ ma wú wo",
+                    "morphemes": "hɔ̃́ thã́ndi ɔ̃́ ma wú wo",
                     "orthography": "hɔ́n thándi ɔ́n ma wú wo",
                     "gloss": "2pl.str leave 2pl come see 3pl",
                     "gloss_fr": "obj.2pl sortir 2pl venir voir 3pl",
@@ -473,7 +473,7 @@
                 "sentence": {
                     "judgement": "",
                     "utterance": "our backs are super too.",
-                    "morphemes": "lo mã́ɲɟi mɛ̃ lɔ super",
+                    "morphemes": "lo mã́ɲɟi mɛ̃ lɔ super",
                     "orthography": "lo mánji mɛn lɔ super",
                     "gloss": "1pl.str behind 3sg.str also super",
                     "gloss_fr": "1pl arrière obj.3sg aussi super",
@@ -716,7 +716,7 @@
                 "sentence": {
                     "judgement": "",
                     "utterance": "their backs are super too.",
-                    "morphemes": "wo mã́ɲɟi mɛ̃ lɔ super",
+                    "morphemes": "wo mã́ɲɟi mɛ̃ lɔ super",
                     "orthography": "wo mánji mɛn lɔ super",
                     "gloss": "3pl.str back 3sg.str also super",
                     "gloss_fr": "3pl arrière obj.3sg aussi super",
@@ -742,14 +742,14 @@
                 "story": "1",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "The republic of Côte d'Ivoire,",
-                    "morphemes": "ɟɔ̃-sɛ̃ ɡotho féchwe pasa",
-                    "orthography": "jɔnsɛn gotho féchwe pasa",
-                    "gloss": "elephant-tusk country celebration people",
-                    "gloss_fr": "éléphant-défense pays peuple public",
-                    "translation": "The republic of Côte d'Ivoire,",
-                    "french": "La république de la Côte d'Ivoire,",
-                    "timestamps": "00:00:00,676 --> 00:00:05,069",
+                    "utterance": "The children of the Hebrews have brought the branches.",
+                    "morphemes": "ebrø mjɔ́ khwɛ̃ fɔ̃́ ɟe tho",
+                    "orthography": "hébreu nmyɔ́ khwɛn fɔ́n je tho",
+                    "gloss": "Hebrew.fr child.pl pick.up branch brandish top",
+                    "gloss_fr": "Hébreu enfants porter rameau brandir haut",
+                    "translation": "The children of the Hebrews have brought the branches.",
+                    "french": "Les enfants hébreux ont porté les rameaux.",
+                    "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
@@ -769,14 +769,14 @@
                 "story": "1",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "the inhabitants, you send your condolences.",
-                    "morphemes": "á-théɟi-nɛ̃́ khúmbrɛ̃ e-tɛ́ hɔ̃́ jɔ́-ka",
-                    "orthography": "áthéjinɛ́n khúúnbrɛn etɛ́ hɔ́n yɔ́ka",
-                    "gloss": "cm-people-assoc.pl all prog-make 2pl.str let-part",
-                    "gloss_fr": "habitant.pl tout faire.prog obj.2pl apaisement",
-                    "translation": "the inhabitants, you send your condolences.",
-                    "french": "les habitants, vous souhaitez vos condoléances.",
-                    "timestamps": "00:00:05,725 --> 00:00:10,248",
+                    "utterance": "They shout out 'Hosanna.'",
+                    "morphemes": "we nú khwɛ́ ozana",
+                    "orthography": "wo elú khwɛ́ ozana",
+                    "gloss": "3pl.prog yell shout Hosanna.fr",
+                    "gloss_fr": "3pl.prog pousser cri Hosanna",
+                    "translation": "They shout out 'Hosanna.'",
+                    "french": "Ils crient 'Hosanna.'",
+                    "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
@@ -796,14 +796,14 @@
                 "story": "1",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "The elder of the country,",
-                    "morphemes": "hɔ̃́ khúɓɛ́ nãnã́",
-                    "orthography": "hɔ́n khúbhɛ́ nannán",
-                    "gloss": "2pl.str village elder",
-                    "gloss_fr": "poss.2pl village doyen",
-                    "translation": "The elder of the country,",
-                    "french": "Le doyen du pays,",
-                    "timestamps": "00:00:10,766 --> 00:00:12,640",
+                    "utterance": "David's child is coming.",
+                    "morphemes": "davíde mi e-ɓá",
+                    "orthography": "davíde nmi ebhá",
+                    "gloss": "David child prog-come",
+                    "gloss_fr": "David enfant prog-venir",
+                    "translation": "David's child is coming.",
+                    "french": "Le fils de Davide est en train de venir.",
+                    "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
@@ -823,6 +823,114 @@
                 "story": "1",
                 "sentence": {
                     "judgement": "",
+                    "utterance": "It's him who is sitting on the donkey.",
+                    "morphemes": "mɛ̃́ nɔ̃́ ɛ̃́ chre frimu mi tho",
+                    "orthography": "mɛ́n nɔ̂n ń chre frímú nmi tho",
+                    "gloss": "3sg.str foc 3sg.nom.pfv sit donkey child top",
+                    "gloss_fr": "3sg foc 3sg.acp s'asseoir âne enfant haut",
+                    "translation": "It's him who is sitting on the donkey.",
+                    "french": "C'est lui qui est assis sur l'ânon.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "31",
+            "key": [
+                "2",
+                31,
+                "31"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The republic of Côte d'Ivoire,",
+                    "morphemes": "ɟɔ̃-sɛ̃ ɡotho féchwe pasa",
+                    "orthography": "jɔnsɛn gotho féchwe pasa",
+                    "gloss": "elephant-tusk country celebration people",
+                    "gloss_fr": "éléphant-défense pays peuple public",
+                    "translation": "The republic of Côte d'Ivoire,",
+                    "french": "La république de la Côte d'Ivoire,",
+                    "timestamps": "00:00:00,676 --> 00:00:05,069",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "32",
+            "key": [
+                "2",
+                32,
+                "32"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "the inhabitants, you send your condolences.",
+                    "morphemes": "á-théɟi-nɛ̃́ khúmbrɛ̃ e-tɛ́ hɔ̃́ jɔ́-ka",
+                    "orthography": "áthéjinɛ́n khúúnbrɛn etɛ́ hɔ́n yɔ́ka",
+                    "gloss": "cm-people-assoc.pl all prog-make 2pl.str let-part",
+                    "gloss_fr": "habitant.pl tout faire.prog obj.2pl apaisement",
+                    "translation": "the inhabitants, you send your condolences.",
+                    "french": "les habitants, vous souhaitez vos condoléances.",
+                    "timestamps": "00:00:05,725 --> 00:00:10,248",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "33",
+            "key": [
+                "2",
+                33,
+                "33"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The elder of the country,",
+                    "morphemes": "hɔ̃́ khúɓɛ́ nãnã́",
+                    "orthography": "hɔ́n khúbhɛ́ nannán",
+                    "gloss": "2pl.str village elder",
+                    "gloss_fr": "poss.2pl village doyen",
+                    "translation": "The elder of the country,",
+                    "french": "Le doyen du pays,",
+                    "timestamps": "00:00:10,766 --> 00:00:12,640",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "34",
+            "key": [
+                "2",
+                34,
+                "34"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
                     "utterance": "Félix Houphouët-Boigny, has left you today.",
                     "morphemes": "felisufwebwaɲi jɔ khɛ̃́ a jɔ hɔ̃́ kalé ɲcɛ̃́",
                     "orthography": "Félix Houphouët Boigny yɔ khɛ́n a yɔ hɔ́n kalé ncɛ́n",
@@ -840,18 +948,18 @@
             }
         },
         {
-            "id": "31",
+            "id": "35",
             "key": [
-                "1",
-                31,
-                "31"
+                "2",
+                35,
+                "35"
             ],
             "value": {
-                "story": "1",
+                "story": "2",
                 "sentence": {
                     "judgement": "",
                     "utterance": "Henri Konan Bédié, he sat on his throne.",
-                    "morphemes": "ãrikonãbɛdje ɛ̃́ ché nɛ phɛ̃́ mɛ̃",
+                    "morphemes": "ãrikonãbɛdje ɛ̃́ ché nɛ phɛ̃́ mɛ̃",
                     "orthography": "Henri Konan Bédié ń che nkɛ phɛ́n nmɛn",
                     "gloss": "Henri Konan Bédié 3sg.pfv sit.pfv 3sg.obv throne on",
                     "gloss_fr": "Henri Konan Bédié 3sg.acp s'asseoir obj.3sg throne extrémité",
@@ -867,14 +975,14 @@
             }
         },
         {
-            "id": "32",
+            "id": "36",
             "key": [
-                "1",
-                32,
-                "32"
+                "2",
+                36,
+                "36"
             ],
             "value": {
-                "story": "1",
+                "story": "2",
                 "sentence": {
                     "judgement": "",
                     "utterance": "What he has done for Côte d'Ivoire,",
@@ -894,14 +1002,14 @@
             }
         },
         {
-            "id": "33",
+            "id": "37",
             "key": [
-                "1",
-                33,
-                "33"
+                "2",
+                37,
+                "37"
             ],
             "value": {
-                "story": "1",
+                "story": "2",
                 "sentence": {
                     "judgement": "",
                     "utterance": "you have friendliness,",
@@ -921,14 +1029,14 @@
             }
         },
         {
-            "id": "34",
+            "id": "38",
             "key": [
-                "1",
-                34,
-                "34"
+                "2",
+                38,
+                "38"
             ],
             "value": {
-                "story": "1",
+                "story": "2",
                 "sentence": {
                     "judgement": "",
                     "utterance": "understanding,",
@@ -948,14 +1056,14 @@
             }
         },
         {
-            "id": "35",
+            "id": "39",
             "key": [
-                "1",
-                35,
-                "35"
+                "2",
+                39,
+                "39"
             ],
             "value": {
-                "story": "1",
+                "story": "2",
                 "sentence": {
                     "judgement": "",
                     "utterance": "and tranquility.",

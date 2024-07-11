@@ -1,5 +1,5 @@
 {
-    "total_rows": 40,
+    "total_rows": 48,
     "offset": 0,
     "rows": [
         {
@@ -15,7 +15,7 @@
                     "judgement": "",
                     "utterance": "In Côte d'Ivoire,",
                     "morphemes": "ló ɟɔ̃-sɛ̃ khúɓɛ́",
-                    "orthography": "l\\'o jɔn-sɛn khúbhɛ́",
+                    "orthography": "ló jɔn-sɛn khúbhɛ́",
                     "gloss": "dem elephant-tusk village",
                     "gloss_fr": "le elephant-défense village",
                     "translation": "In Côte d'Ivoire,",
@@ -41,7 +41,7 @@
                 "sentence": {
                     "judgement": "",
                     "utterance": "when the white man came,",
-                    "morphemes": "ɡã́-ɡã́ mɛ̃́ ɛ̃́ ma ɛ̃́ ma e",
+                    "morphemes": "ɡã́-ɡã́ mɛ̃́ ɛ̃́ ma ɛ̃́ ma e",
                     "orthography": "gángán mɛ́n ń ma ń ma (e)",
                     "gloss": "white.person 3sg.str 3sg.pfv come.pfv 3sg.pfv come.pfv emph",
                     "gloss_fr": "blanc obj.3sg 3sg.acp venir 3sg.acp venir emph",
@@ -68,7 +68,7 @@
                 "sentence": {
                     "judgement": "",
                     "utterance": "what he calls 'super' is what's great.",
-                    "morphemes": "á-jí khɛ̃́ ã́ che super ɗi á-jí ɲcréɲcré",
+                    "morphemes": "á-jí khɛ̃́ ã́ che super ɗi á-jí ɲcréɲcré",
                     "orthography": "áyí khɛ́n án che super li áyí créncré",
                     "gloss": "cm-thing rel 3sg.ipfv call super cop cm-thing mighty",
                     "gloss_fr": "chose que 3sg appeler super être chose saint",
@@ -122,7 +122,7 @@
                 "sentence": {
                     "judgement": "",
                     "utterance": "when the white man came,",
-                    "morphemes": "ɡã́ɡã́ mɛ̃́ ɛ̃́ ma ɛ̃́ ma e",
+                    "morphemes": "ɡã́ɡã́ mɛ̃́ ɛ̃́ ma ɛ̃́ ma e",
                     "orthography": "gán-gán mɛ́n ń ma ń ma (e)",
                     "gloss": "white.person 3sg.str 3sg.pfv come.pfv 3sg.pfv come.pfv emph",
                     "gloss_fr": "blanc obj.3sg 3sg.acp venir 3sg.acp venir emph",
@@ -149,7 +149,7 @@
                 "sentence": {
                     "judgement": "",
                     "utterance": "what he calls 'super' is what's great.",
-                    "morphemes": "á-jí khɛ̃́ ã́ che super ɗi á-jí ɲcréɲcré",
+                    "morphemes": "á-jí khɛ̃́ ã́ che super ɗi á-jí ɲcréɲcré",
                     "orthography": "áyí khɛ́n án che super li áyí créncré",
                     "gloss": "cm-thing rel 3sg.ipfv call super cop cm-thing mighty",
                     "gloss_fr": "chose que 3sg.acp appeler super être chose saint",
@@ -176,7 +176,7 @@
                 "sentence": {
                     "judgement": "",
                     "utterance": "what he calls 'super' is what's great.",
-                    "morphemes": "á-jí khɛ̃́ ã́ che super ɗi á-jí ɲcréɲcré",
+                    "morphemes": "á-jí khɛ̃́ ã́ che super ɗi á-jí ɲcréɲcré",
                     "orthography": "áyí khɛ́n án che super li áyí créncré",
                     "gloss": "cm-thing rel 3sg.ipfv call super cop cm-thing mighty",
                     "gloss_fr": "chose que 3sg.acp appeler super être chose saint",
@@ -257,7 +257,7 @@
                 "sentence": {
                     "judgement": "",
                     "utterance": "Go out, come see them!",
-                    "morphemes": "hɔ̃́ thã́ndi ɔ̃́ ma wú wo",
+                    "morphemes": "hɔ̃́ thã́ndi ɔ̃́ ma wú wo",
                     "orthography": "hɔ́n thándi ɔ́n ma wú wo",
                     "gloss": "2pl.str leave 2pl come see 3pl.str",
                     "gloss_fr": "obj.2pL sortir 2pl venir voir 3pl",
@@ -284,7 +284,7 @@
                 "sentence": {
                     "judgement": "",
                     "utterance": "What he calls 'super' is what's great.",
-                    "morphemes": "á-jí ã́ che super ɗi á-jí créɲcré",
+                    "morphemes": "á-jí ã́ che super ɗi á-jí créɲcré",
                     "orthography": "áyí án che super li áyí créncré",
                     "gloss": "cm-thing 3sg.ipfv call super cop cm-thing mighty",
                     "gloss_fr": "choose 3sg appeler super être chose saint",
@@ -365,7 +365,7 @@
                 "sentence": {
                     "judgement": "",
                     "utterance": "Go out, come see them!",
-                    "morphemes": "hɔ̃́ thã́ndi ɔ̃́ ma wú wo",
+                    "morphemes": "hɔ̃́ thã́ndi ɔ̃́ ma wú wo",
                     "orthography": "hɔ́n thándi ɔ́n ma wú wo",
                     "gloss": "2pl.str leave 2pl come see 3pl",
                     "gloss_fr": "obj.2pl sortir 2pl venir voir 3pl",
@@ -473,7 +473,7 @@
                 "sentence": {
                     "judgement": "",
                     "utterance": "our backs are super too.",
-                    "morphemes": "lo mã́ɲɟi mɛ̃ lɔ super",
+                    "morphemes": "lo mã́ɲɟi mɛ̃ lɔ super",
                     "orthography": "lo mánji mɛn lɔ super",
                     "gloss": "1pl.str behind 3sg.str also super",
                     "gloss_fr": "1pl arrière obj.3sg aussi super",
@@ -716,7 +716,7 @@
                 "sentence": {
                     "judgement": "",
                     "utterance": "their backs are super too.",
-                    "morphemes": "wo mã́ɲɟi mɛ̃ lɔ super",
+                    "morphemes": "wo mã́ɲɟi mɛ̃ lɔ super",
                     "orthography": "wo mánji mɛn lɔ super",
                     "gloss": "3pl.str back 3sg.str also super",
                     "gloss_fr": "3pl arrière obj.3sg aussi super",
@@ -850,14 +850,14 @@
                 "story": "2",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "The republic of Côte d'Ivoire,",
-                    "morphemes": "ɟɔ̃-sɛ̃ ɡotho féchwe pasa",
-                    "orthography": "jɔnsɛn gotho féchwe pasa",
-                    "gloss": "elephant-tusk country celebration people",
-                    "gloss_fr": "éléphant-défense pays peuple public",
-                    "translation": "The republic of Côte d'Ivoire,",
-                    "french": "La république de la Côte d'Ivoire,",
-                    "timestamps": "00:00:00,676 --> 00:00:05,069",
+                    "utterance": "I will praise you every day.",
+                    "morphemes": "mɛ̃ mã́ nri hɛ hwa á-ká khúmbrɛ̃",
+                    "orthography": "mɛn mán lri hɛ hwa áká khúúnbrɛn",
+                    "gloss": "1sg fut praise 2sg.str part cm-time all",
+                    "gloss_fr": "1sg AUX+FUT louer obj.2sg part.v temps tout",
+                    "translation": "I will praise you every day.",
+                    "french": "Je vais te louer chaque jour.",
+                    "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
@@ -877,14 +877,14 @@
                 "story": "2",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "the inhabitants, you send your condolences.",
-                    "morphemes": "á-théɟi-nɛ̃́ khúmbrɛ̃ e-tɛ́ hɔ̃́ jɔ́-ka",
-                    "orthography": "áthéjinɛ́n khúúnbrɛn etɛ́ hɔ́n yɔ́ka",
-                    "gloss": "cm-people-assoc.pl all prog-make 2pl.str let-part",
-                    "gloss_fr": "habitant.pl tout faire.prog obj.2pl apaisement",
-                    "translation": "the inhabitants, you send your condolences.",
-                    "french": "les habitants, vous souhaitez vos condoléances.",
-                    "timestamps": "00:00:05,725 --> 00:00:10,248",
+                    "utterance": "I will praise you every day.",
+                    "morphemes": "mɛ̃ mã́ nri hɛ hwa á-ká khúmbrɛ̃",
+                    "orthography": "mɛn mán lri hɛ hwa áká khúúnbrɛn",
+                    "gloss": "1sg fut praise 2sg.str part cm-time all",
+                    "gloss_fr": "1sg AUX+FUT louer obj.2sg part.v temps tout",
+                    "translation": "I will praise you every day.",
+                    "french": "Je vais te louer chaque jour.",
+                    "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
@@ -904,14 +904,14 @@
                 "story": "2",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "The elder of the country,",
-                    "morphemes": "hɔ̃́ khúɓɛ́ nãnã́",
-                    "orthography": "hɔ́n khúbhɛ́ nannán",
-                    "gloss": "2pl.str village elder",
-                    "gloss_fr": "poss.2pl village doyen",
-                    "translation": "The elder of the country,",
-                    "french": "Le doyen du pays,",
-                    "timestamps": "00:00:10,766 --> 00:00:12,640",
+                    "utterance": "The good things you have done for me,",
+                    "morphemes": "hɛ jí ɓwá ɛ tɛ sé mɛ̃",
+                    "orthography": "hɛ yí bhwá ɛ tɛ sé mɛn",
+                    "gloss": "2sg.str thing good 2sg do give 1sg.str",
+                    "gloss_fr": "poss.2sg chose bonne 2sg faire donner obj.1sg",
+                    "translation": "The good things you have done for me,",
+                    "french": "Les bonnes choses que tu as fait pour moi,",
+                    "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
@@ -931,14 +931,14 @@
                 "story": "2",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "Félix Houphouët-Boigny, has left you today.",
-                    "morphemes": "felisufwebwaɲi jɔ khɛ̃́ a jɔ hɔ̃́ kalé ɲcɛ̃́",
-                    "orthography": "Félix Houphouët Boigny yɔ khɛ́n a yɔ hɔ́n kalé ncɛ́n",
-                    "gloss": "Félix Houphouët Boigny let rel 3.inan let 2pl.str part today",
-                    "gloss_fr": "Félix Houphouët Boigny laisser rel qui quitter obj.2pl part.v aujourd'hui",
-                    "translation": "Félix Houphouët-Boigny, has left you today.",
-                    "french": "Félix Houphouët Boigny, vous a laissé aujourd'hui.",
-                    "timestamps": "00:00:12,987 --> 00:00:21,416",
+                    "utterance": "I will never forget. ",
+                    "morphemes": "ló ɓwé ɓa lé ɗjaɗí mɛ̃",
+                    "orthography": "ló bhwe bhâ lé lyali mɛn",
+                    "gloss": "dem word fut neg forget 1sg.str",
+                    "gloss_fr": "la parole AUX+FUT neg oublier obj.1sg",
+                    "translation": "I will never forget. ",
+                    "french": "je ne vais jamais oublier. ",
+                    "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
@@ -958,14 +958,14 @@
                 "story": "2",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "Henri Konan Bédié, he sat on his throne.",
-                    "morphemes": "ãrikonãbɛdje ɛ̃́ ché nɛ phɛ̃́ mɛ̃",
-                    "orthography": "Henri Konan Bédié ń che nkɛ phɛ́n nmɛn",
-                    "gloss": "Henri Konan Bédié 3sg.pfv sit.pfv 3sg.obv throne on",
-                    "gloss_fr": "Henri Konan Bédié 3sg.acp s'asseoir obj.3sg throne extrémité",
-                    "translation": "Henri Konan Bédié, he sat on his throne.",
-                    "french": "Henri Konan Bédié, il est assis sur son trône.",
-                    "timestamps": "00:00:22,539 --> 00:00:30,833",
+                    "utterance": "May God bless you always.",
+                    "morphemes": "ɛ̃́-ŋɡuhá lé á-hwáɗri ó ɡɛ hɛ́ créncré",
+                    "orthography": "ńguhá lê áhwálri ó gɛ hɛ créncré",
+                    "gloss": "cm-glory with cm-praise sbjv find 2sg.str mighty",
+                    "gloss_fr": "gloire avec louange inj trouver obj.2sg saint",
+                    "translation": "May God bless you always.",
+                    "french": "Que Dieu te bénisse toujours.",
+                    "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
@@ -985,14 +985,14 @@
                 "story": "2",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "What he has done for Côte d'Ivoire,",
-                    "morphemes": "a chɛ se lo ɟɔ̃-sɛ̃ khúɓɛ́",
-                    "orthography": "a chɛ se lo jɔnsɛn khúbhɛ́",
-                    "gloss": "3.inan cause.pfv give 1pl elephant-tusk village",
-                    "gloss_fr": "ça causer donner notre éléphant-défense village",
-                    "translation": "What he has done for Côte d'Ivoire,",
-                    "french": "Ce qu'il a fait pour la Côte d'Ivoire,",
-                    "timestamps": "00:00:31,587 --> 00:00:36,178",
+                    "utterance": "The good things you have done for me,",
+                    "morphemes": "hɛ jí ɓwá ɛ tɛ sé mɛ̃",
+                    "orthography": "hɛ yí bhwá ɛ tɛ sé mɛn",
+                    "gloss": "2sg.str thing good 2sg do give 1sg.str",
+                    "gloss_fr": "poss.2sg chose bonne 2sg faire donner obj.1sg",
+                    "translation": "The good things you have done for me,",
+                    "french": "Les bonnes choses que tu as fait pour moi,",
+                    "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
@@ -1012,14 +1012,14 @@
                 "story": "2",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "you have friendliness,",
-                    "morphemes": "ɔ̃́ pɛ á-phɔ́-pɔ́-li",
-                    "orthography": "ɔ́n pɛ áphɔ̂pɔli",
-                    "gloss": "2pl have cm-body-happiness-eat.nmlz",
-                    "gloss_fr": "2pl avoir l'amour",
-                    "translation": "you have friendliness,",
-                    "french": "vous avez la convivialité,",
-                    "timestamps": "00:00:36,399 --> 00:00:38,600",
+                    "utterance": "I will never forget. ",
+                    "morphemes": "ló ɓwé ɓa lé ɗjaɗí mɛ̃",
+                    "orthography": "ló bhwe bhâ lé lyali mɛn",
+                    "gloss": "dem word fut neg forget 1sg.str",
+                    "gloss_fr": "la parole AUX+FUT neg oublier obj.1sg",
+                    "translation": "I will never forget. ",
+                    "french": "je ne vais jamais oublier. ",
+                    "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
@@ -1039,6 +1039,222 @@
                 "story": "2",
                 "sentence": {
                     "judgement": "",
+                    "utterance": "May God bless you always.",
+                    "morphemes": "ɛ̃́-ŋɡuhá lé á-hwáɗri ó ɡɛ hɛ́ créncré",
+                    "orthography": "ńguhá lê áhwálri ó gɛ hɛ créncré",
+                    "gloss": "cm-glory with cm-praise sbjv find 2sg.str mighty",
+                    "gloss_fr": "gloire avec louange inj trouver obj.2sg saint",
+                    "translation": "May God bless you always.",
+                    "french": "Que Dieu te bénisse toujours.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "39",
+            "key": [
+                "3",
+                39,
+                "39"
+            ],
+            "value": {
+                "story": "3",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The republic of Côte d'Ivoire,",
+                    "morphemes": "ɟɔ̃-sɛ̃ ɡotho féchwe pasa",
+                    "orthography": "jɔnsɛn gotho féchwe pasa",
+                    "gloss": "elephant-tusk country celebration people",
+                    "gloss_fr": "éléphant-défense pays peuple public",
+                    "translation": "The republic of Côte d'Ivoire,",
+                    "french": "La république de la Côte d'Ivoire,",
+                    "timestamps": "00:00:00,676 --> 00:00:05,069",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "40",
+            "key": [
+                "3",
+                40,
+                "40"
+            ],
+            "value": {
+                "story": "3",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "the inhabitants, you send your condolences.",
+                    "morphemes": "á-théɟi-nɛ̃́ khúmbrɛ̃ e-tɛ́ hɔ̃́ jɔ́-ka",
+                    "orthography": "áthéjinɛ́n khúúnbrɛn etɛ́ hɔ́n yɔ́ka",
+                    "gloss": "cm-people-assoc.pl all prog-make 2pl.str let-part",
+                    "gloss_fr": "habitant.pl tout faire.prog obj.2pl apaisement",
+                    "translation": "the inhabitants, you send your condolences.",
+                    "french": "les habitants, vous souhaitez vos condoléances.",
+                    "timestamps": "00:00:05,725 --> 00:00:10,248",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "41",
+            "key": [
+                "3",
+                41,
+                "41"
+            ],
+            "value": {
+                "story": "3",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The elder of the country,",
+                    "morphemes": "hɔ̃́ khúɓɛ́ nãnã́",
+                    "orthography": "hɔ́n khúbhɛ́ nannán",
+                    "gloss": "2pl.str village elder",
+                    "gloss_fr": "poss.2pl village doyen",
+                    "translation": "The elder of the country,",
+                    "french": "Le doyen du pays,",
+                    "timestamps": "00:00:10,766 --> 00:00:12,640",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "42",
+            "key": [
+                "3",
+                42,
+                "42"
+            ],
+            "value": {
+                "story": "3",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "Félix Houphouët-Boigny, has left you today.",
+                    "morphemes": "felisufwebwaɲi jɔ khɛ̃́ a jɔ hɔ̃́ kalé ɲcɛ̃́",
+                    "orthography": "Félix Houphouët Boigny yɔ khɛ́n a yɔ hɔ́n kalé ncɛ́n",
+                    "gloss": "Félix Houphouët Boigny let rel 3.inan let 2pl.str part today",
+                    "gloss_fr": "Félix Houphouët Boigny laisser rel qui quitter obj.2pl part.v aujourd'hui",
+                    "translation": "Félix Houphouët-Boigny, has left you today.",
+                    "french": "Félix Houphouët Boigny, vous a laissé aujourd'hui.",
+                    "timestamps": "00:00:12,987 --> 00:00:21,416",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "43",
+            "key": [
+                "3",
+                43,
+                "43"
+            ],
+            "value": {
+                "story": "3",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "Henri Konan Bédié, he sat on his throne.",
+                    "morphemes": "ãrikonãbɛdje ɛ̃́ ché nɛ phɛ̃́ mɛ̃",
+                    "orthography": "Henri Konan Bédié ń che nkɛ phɛ́n nmɛn",
+                    "gloss": "Henri Konan Bédié 3sg.pfv sit.pfv 3sg.obv throne on",
+                    "gloss_fr": "Henri Konan Bédié 3sg.acp s'asseoir obj.3sg throne extrémité",
+                    "translation": "Henri Konan Bédié, he sat on his throne.",
+                    "french": "Henri Konan Bédié, il est assis sur son trône.",
+                    "timestamps": "00:00:22,539 --> 00:00:30,833",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "44",
+            "key": [
+                "3",
+                44,
+                "44"
+            ],
+            "value": {
+                "story": "3",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "What he has done for Côte d'Ivoire,",
+                    "morphemes": "a chɛ se lo ɟɔ̃-sɛ̃ khúɓɛ́",
+                    "orthography": "a chɛ se lo jɔnsɛn khúbhɛ́",
+                    "gloss": "3.inan cause.pfv give 1pl elephant-tusk village",
+                    "gloss_fr": "ça causer donner notre éléphant-défense village",
+                    "translation": "What he has done for Côte d'Ivoire,",
+                    "french": "Ce qu'il a fait pour la Côte d'Ivoire,",
+                    "timestamps": "00:00:31,587 --> 00:00:36,178",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "45",
+            "key": [
+                "3",
+                45,
+                "45"
+            ],
+            "value": {
+                "story": "3",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "you have friendliness,",
+                    "morphemes": "ɔ̃́ pɛ á-phɔ́-pɔ́-li",
+                    "orthography": "ɔ́n pɛ áphɔ̂pɔli",
+                    "gloss": "2pl have cm-body-happiness-eat.nmlz",
+                    "gloss_fr": "2pl avoir l'amour",
+                    "translation": "you have friendliness,",
+                    "french": "vous avez la convivialité,",
+                    "timestamps": "00:00:36,399 --> 00:00:38,600",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "46",
+            "key": [
+                "3",
+                46,
+                "46"
+            ],
+            "value": {
+                "story": "3",
+                "sentence": {
+                    "judgement": "",
                     "utterance": "understanding,",
                     "morphemes": "ɛ̃́-mɛ̃́-brɛ-lí",
                     "orthography": "nmɛ́n-brɛlí",
@@ -1056,14 +1272,14 @@
             }
         },
         {
-            "id": "39",
+            "id": "47",
             "key": [
-                "2",
-                39,
-                "39"
+                "3",
+                47,
+                "47"
             ],
             "value": {
-                "story": "2",
+                "story": "3",
                 "sentence": {
                     "judgement": "",
                     "utterance": "and tranquility.",

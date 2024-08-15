@@ -533,7 +533,7 @@ var OrthographyFR = React.createClass(
           <tr>
               <td data-label="IPA">r</td>
               <td data-label="Orthography">r</td>
-              <td data-label="Example">bwri ‘ratte’</td>
+              <td data-label="Example">bwri ‘rat’</td>
           </tr>
           <tr>
             <td data-label="IPA">ɲ</td>
@@ -543,7 +543,7 @@ var OrthographyFR = React.createClass(
           <tr>
             <td data-label="IPA">ŋʷ</td>
             <td data-label="Orthography"><b>w</b></td>
-            <td data-label="Example">wan ‘ramperl’</td>
+            <td data-label="Example">wan ‘ramper’</td>
           </tr>
           <tr>
               <td data-label="IPA">i</td>

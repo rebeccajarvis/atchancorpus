@@ -1,5 +1,5 @@
 {
-    "total_rows": 85,
+    "total_rows": 93,
     "offset": 0,
     "rows": [
         {
@@ -2288,6 +2288,222 @@
                     "gloss_fr": "2sg donner obj.1sg la force 1sg aimer poss.1sg ami",
                     "translation": "give me the strength to love my neighbor.",
                     "french": "faut me donner la force pour aimer mon frère.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "85",
+            "key": [
+                "7",
+                85,
+                "85"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "I give glory to God",
+                    "morphemes": "mɛ̃ mó ɛ̃́ŋɡuhá se hwãnthe",
+                    "orthography": "mɛn mó ńguhá se Hwanthe",
+                    "gloss": "1sg take glory give lord",
+                    "gloss_fr": "1sg prendre gloire donner Dieu",
+                    "translation": "I give glory to God",
+                    "french": "Je rends gloire à Dieu",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "86",
+            "key": [
+                "7",
+                86,
+                "86"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "I will praise him everyday",
+                    "morphemes": "á-ká khúmbrɛ̃ mã́ nri nɛ hwa",
+                    "orthography": "áká khúúnbrɛn maán nri nkɛ hwa",
+                    "gloss": "cm-time all fut praise 3sg part",
+                    "gloss_fr": "temps tout AUX+FUT louer obj.3sg part.tv",
+                    "translation": "I will praise him everyday",
+                    "french": "Je vais le louer chaque jour",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "87",
+            "key": [
+                "7",
+                87,
+                "87"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "I give glory to God",
+                    "morphemes": "mɛ̃ mó ɛ̃́-ŋɡuhá se hwãnthe",
+                    "orthography": "mɛn mó ńguhá se Hwanthe",
+                    "gloss": "1sg take glory give lord",
+                    "gloss_fr": "1sg prendre gloire donner Dieu",
+                    "translation": "I give glory to God",
+                    "french": "Je rends gloire à Dieu",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "88",
+            "key": [
+                "7",
+                88,
+                "88"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "I will praise him everyday",
+                    "morphemes": "á-ká khúmbrɛ̃ mã́ nri nɛ hwa",
+                    "orthography": "áká khúúnbrɛn maán nri nkɛ hwa",
+                    "gloss": "cm-time all fut praise 3sg part",
+                    "gloss_fr": "temps tout AUX+FUT louer obj.2sg part.tv",
+                    "translation": "I will praise him everyday",
+                    "french": "Je vais le louer chaque jour",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "89",
+            "key": [
+                "7",
+                89,
+                "89"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "I want God to be my glory",
+                    "morphemes": "mɛ̃́ nɛ̃ lé hwãnthe olí mɛ̃ ɛ̃́-ŋɡuhá",
+                    "orthography": "mɛɛ́n nɛn lé Hwánthe olí mɛn nguhá",
+                    "gloss": "1sg want that lord cop 1sg glory",
+                    "gloss_fr": "1sg vouloir que Dieu  poss.1sg gloire",
+                    "translation": "I want God to be my glory",
+                    "french": "Je veux que le Seigneur soit ma gloire",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "90",
+            "key": [
+                "7",
+                90,
+                "90"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "You are the good people",
+                    "morphemes": "hɔ̃́ khɛ̃́ ɔ̃́ ni thɛ̃-ɓwá-mã́",
+                    "orthography": "hɔ́n khɛ́n ɔ́n ni nthɛ́nbhwámán",
+                    "gloss": "2pl rel 2pl cop good.person",
+                    "gloss_fr": " que 2pl  débonnaires",
+                    "translation": "You are the good people",
+                    "french": "Vous qui êtes des débonnaires",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "91",
+            "key": [
+                "7",
+                91,
+                "91"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "Listen to what I say",
+                    "morphemes": "á ɲɔ̃́ sálé ɔ̃́ ɲé mɛ̃ ɓwé",
+                    "orthography": "á yɔ́n sâlée ɔ́n yé mɛn bhwé",
+                    "gloss": "3.inan good that 2pl hear 1sg words",
+                    "gloss_fr": "pr bon que 2pl écouter poss.1sg mots",
+                    "translation": "Listen to what I say",
+                    "french": "écoutez ce que je dis",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "92",
+            "key": [
+                "7",
+                92,
+                "92"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "and be joyous",
+                    "morphemes": "á ɲɔ̃́ sálé ɔ̃́ ní phɔ́há",
+                    "orthography": "á yɔn sâlée ɔ́n ní phɔ̂há",
+                    "gloss": "3.inan good that 2pl cop happiness",
+                    "gloss_fr": "pr bon que 2pl etre joie",
+                    "translation": "and be joyous",
+                    "french": "et soyez dans la joie",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",

@@ -1,5 +1,5 @@
 {
-    "total_rows": 7,
+    "total_rows": 8,
     "rows": [
         {
             "id": "0",
@@ -69,6 +69,16 @@
                 "name_fr": "Áyí brɛn chanson",
                 "author": "Madame Cynthia N’Diadan",
                 "link": "https://www.youtube.com/embed/AhBHbdQGyjo?si=U_58-XJOl2UVbjCT"
+            }
+        },
+        {
+            "id": "7",
+            "key": "7",
+            "value": {
+                "name": "Glory to God song",
+                "name_fr": "Gloire à Dieu chanson",
+                "author": "Madame Adele Kossike",
+                "link": "https://www.youtube.com/embed/ucdmAiHPD3I?si=0vZ0Miq-0EjsMGGj"
             }
         }
     ]

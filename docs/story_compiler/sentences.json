@@ -1,5 +1,5 @@
 {
-    "total_rows": 93,
+    "total_rows": 101,
     "offset": 0,
     "rows": [
         {
@@ -13,13 +13,13 @@
                 "story": "0",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "In Côte d'Ivoire,",
-                    "morphemes": "ló ɟɔ̃-sɛ̃ khúɓɛ́",
-                    "orthography": "ló jɔn-sɛn khúbhɛ́",
-                    "gloss": "dem elephant-tusk village",
-                    "gloss_fr": "le elephant-défense village",
-                    "translation": "In Côte d'Ivoire,",
-                    "french": "À Côte d'Ivoire,",
+                    "utterance": "Everything you do is good,",
+                    "morphemes": "hɛ jí khúmbrɛ̃ ɛ tɛ́ á ɲɔ̃",
+                    "orthography": "hɛ yí khúúnbrɛn ɛ tɛ́ á yɔn",
+                    "gloss": "2sg.str thing all 2sg.nom do.ipfv 3.inan be.good",
+                    "gloss_fr": "      ",
+                    "translation": "Everything you do is good,",
+                    "french": "Tout ce que tu fais est bon,",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -40,13 +40,13 @@
                 "story": "0",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "when the white man came,",
-                    "morphemes": "ɡã́-ɡã́ mɛ̃́ ɛ̃́ ma ɛ̃́ ma e",
-                    "orthography": "gángán mɛ́n ń ma ń ma (e)",
-                    "gloss": "white.person 3sg.str 3sg.pfv come.pfv 3sg.pfv come.pfv emph",
-                    "gloss_fr": "blanc obj.3sg 3sg.acp venir 3sg.acp venir emph",
-                    "translation": "when the white man came,",
-                    "french": "quand le blanc, il est venu,",
+                    "utterance": "is good, is good.",
+                    "morphemes": "á ɲɔ̃ á ɲɔ̃",
+                    "orthography": "á yɔn á yɔn",
+                    "gloss": "3.inan be.good 3.inan be.good",
+                    "gloss_fr": "   ",
+                    "translation": "is good, is good.",
+                    "french": "est bon, est bon.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -67,13 +67,13 @@
                 "story": "0",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "what he calls 'super' is what's great.",
-                    "morphemes": "á-jí khɛ̃́ ã́ che super ɗi á-jí ɲcréɲcré",
-                    "orthography": "áyí khɛ́n án che super li áyí créncré",
-                    "gloss": "cm-thing rel 3sg.ipfv call super cop cm-thing mighty",
-                    "gloss_fr": "chose que 3sg appeler super être chose saint",
-                    "translation": "what he calls 'super' is what's great.",
-                    "french": "ce qu'il appelle 'super' c'est la qualité.",
+                    "utterance": "Who can know what you think?",
+                    "morphemes": "thábɛ̃ lephã nɔ̃̂ a ɓa ɡɛ ɲɛ̃́ hɛ hɛ̃́mphe ɛ ɓú",
+                    "orthography": "thábɛn lephan nɔ̂n a bha gɛ yɛ́n hɛ hɛ́nphe ɛ bhú",
+                    "gloss": "who person foc 3.res fut can know 2sg.str thought 2sg.nom think.ipfv",
+                    "gloss_fr": "          ",
+                    "translation": "Who can know what you think?",
+                    "french": "Qui peut savoir ce que tu penses?",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -94,13 +94,13 @@
                 "story": "0",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "In Côte d'Ivoire,",
-                    "morphemes": "ló ɟɔ̃-sɛ̃ khúɓɛ́",
-                    "orthography": "ló jɔn-sɛn khúbhɛ́",
-                    "gloss": "dem elephant-tusk village",
-                    "gloss_fr": "le elephant-défense village",
-                    "translation": "In Côte d'Ivoire,",
-                    "french": "À Côte d'Ivoire,",
+                    "utterance": "Who can see what you see?",
+                    "morphemes": "thábɛ̃ nɔ̃́ a ɓa ɡɛ wú hɛ jí ɛ wú",
+                    "orthography": "thábɛn nɔ̂n a bha gɛ wú hɛ yí ɛ wú",
+                    "gloss": "who foc 3.res fut can see 2sg.str thing 2sg.nom see.ipfv",
+                    "gloss_fr": "         ",
+                    "translation": "Who can see what you see?",
+                    "french": "Qui peut voir ce que tu vois?",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -121,13 +121,13 @@
                 "story": "0",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "when the white man came,",
-                    "morphemes": "ɡã́ɡã́ mɛ̃́ ɛ̃́ ma ɛ̃́ ma e",
-                    "orthography": "gán-gán mɛ́n ń ma ń ma (e)",
-                    "gloss": "white.person 3sg.str 3sg.pfv come.pfv 3sg.pfv come.pfv emph",
-                    "gloss_fr": "blanc obj.3sg 3sg.acp venir 3sg.acp venir emph",
-                    "translation": "when the white man came,",
-                    "french": "quand le blanc, il est venu,",
+                    "utterance": "It's you who is the master of everything.",
+                    "morphemes": "hɛ nɔ̃́ ɛ ɗi á-jí khúmbrɛ̃ ó-the",
+                    "orthography": "hɛ nɔ̂n ɛ li áyí khúúnbrɛn óthe",
+                    "gloss": "2sg.str foc 2sg.nom cop cm-thing all con-father",
+                    "gloss_fr": "      ",
+                    "translation": "It's you who is the master of everything.",
+                    "french": "C'est toi qui est le maître de tout.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -148,13 +148,13 @@
                 "story": "0",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "what he calls 'super' is what's great.",
-                    "morphemes": "á-jí khɛ̃́ ã́ che super ɗi á-jí ɲcréɲcré",
-                    "orthography": "áyí khɛ́n án che super li áyí créncré",
-                    "gloss": "cm-thing rel 3sg.ipfv call super cop cm-thing mighty",
-                    "gloss_fr": "chose que 3sg.acp appeler super être chose saint",
-                    "translation": "what he calls 'super' is what's great.",
-                    "french": "ce qu'il appelle 'super' c'est la qualité.",
+                    "utterance": "There are a lot of people but he chooses one.",
+                    "morphemes": "o tɛ ɓrɔ́ɓrɔ́ bɛ̃ ló khɛ̃́ brɛ tɛ nɔ̃̂ a sã",
+                    "orthography": "o tɛ bhrɔ́bhrɔ́ bɛn ló khɛ́n brɛ tɛ nɔ̂n a san",
+                    "gloss": "pro.indef cop a.lot indef dem rel one cop foc 3.res choose",
+                    "gloss_fr": "          ",
+                    "translation": "There are a lot of people but he chooses one.",
+                    "french": "Il y a beaucoup des personnes mais il choisit un.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -175,13 +175,13 @@
                 "story": "0",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "what he calls 'super' is what's great.",
-                    "morphemes": "á-jí khɛ̃́ ã́ che super ɗi á-jí ɲcréɲcré",
-                    "orthography": "áyí khɛ́n án che super li áyí créncré",
-                    "gloss": "cm-thing rel 3sg.ipfv call super cop cm-thing mighty",
-                    "gloss_fr": "chose que 3sg.acp appeler super être chose saint",
-                    "translation": "what he calls 'super' is what's great.",
-                    "french": "ce qu'il appelle 'super' c'est la qualité.",
+                    "utterance": "Approach, do not be afraid !",
+                    "morphemes": "ɔ̃́ ti ɓá hɛ̃́mɛ̃ ɔ̃́ ne só khú",
+                    "orthography": "ɔ́n ti bha hɛ́nmɛn ɔ́n ne só khú",
+                    "gloss": "2pl.nom approach come front 2pl.nom neg fear part",
+                    "gloss_fr": "       ",
+                    "translation": "Approach, do not be afraid !",
+                    "french": "Approchez, n'ayez pas peur !",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -202,6 +202,222 @@
                 "story": "0",
                 "sentence": {
                     "judgement": "",
+                    "utterance": "The hand of God is good.",
+                    "morphemes": "ɲãkã mɔ̃́ trɛ hɔ̃́ tho",
+                    "orthography": "yankan mɔ́n trɛ hɔ́n tho",
+                    "gloss": "God hand stay 2pl.str top",
+                    "gloss_fr": "    ",
+                    "translation": "The hand of God is good.",
+                    "french": "Le main de Dieu est bon.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "8",
+            "key": [
+                "1",
+                8,
+                "8"
+            ],
+            "value": {
+                "story": "1",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "In Côte d'Ivoire,",
+                    "morphemes": "ló ɟɔ̃-sɛ̃ khúɓɛ́",
+                    "orthography": "l\\'o jɔn-sɛn khúbhɛ́",
+                    "gloss": "dem elephant-tusk village",
+                    "gloss_fr": "le elephant-défense village",
+                    "translation": "In Côte d'Ivoire,",
+                    "french": "À Côte d'Ivoire,",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "9",
+            "key": [
+                "1",
+                9,
+                "9"
+            ],
+            "value": {
+                "story": "1",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "when the white man came,",
+                    "morphemes": "ɡã́-ɡã́ mɛ̃́ ɛ̃́ ma ɛ̃́ ma e",
+                    "orthography": "gángán mɛ́n ń ma ń ma (e)",
+                    "gloss": "white.person 3sg.str 3sg.pfv come.pfv 3sg.pfv come.pfv emph",
+                    "gloss_fr": "blanc obj.3sg 3sg.acp venir 3sg.acp venir emph",
+                    "translation": "when the white man came,",
+                    "french": "quand le blanc, il est venu,",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "10",
+            "key": [
+                "1",
+                10,
+                "10"
+            ],
+            "value": {
+                "story": "1",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "what he calls 'super' is what's great.",
+                    "morphemes": "á-jí khɛ̃́ ã́ che super ɗi á-jí ɲcréɲcré",
+                    "orthography": "áyí khɛ́n án che super li áyí créncré",
+                    "gloss": "cm-thing rel 3sg.ipfv call super cop cm-thing mighty",
+                    "gloss_fr": "chose que 3sg appeler super être chose saint",
+                    "translation": "what he calls 'super' is what's great.",
+                    "french": "ce qu'il appelle 'super' c'est la qualité.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "11",
+            "key": [
+                "1",
+                11,
+                "11"
+            ],
+            "value": {
+                "story": "1",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "In Côte d'Ivoire,",
+                    "morphemes": "ló ɟɔ̃-sɛ̃ khúɓɛ́",
+                    "orthography": "ló jɔn-sɛn khúbhɛ́",
+                    "gloss": "dem elephant-tusk village",
+                    "gloss_fr": "le elephant-défense village",
+                    "translation": "In Côte d'Ivoire,",
+                    "french": "À Côte d'Ivoire,",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "12",
+            "key": [
+                "1",
+                12,
+                "12"
+            ],
+            "value": {
+                "story": "1",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "when the white man came,",
+                    "morphemes": "ɡã́ɡã́ mɛ̃́ ɛ̃́ ma ɛ̃́ ma e",
+                    "orthography": "gán-gán mɛ́n ń ma ń ma (e)",
+                    "gloss": "white.person 3sg.str 3sg.pfv come.pfv 3sg.pfv come.pfv emph",
+                    "gloss_fr": "blanc obj.3sg 3sg.acp venir 3sg.acp venir emph",
+                    "translation": "when the white man came,",
+                    "french": "quand le blanc, il est venu,",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "13",
+            "key": [
+                "1",
+                13,
+                "13"
+            ],
+            "value": {
+                "story": "1",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "what he calls 'super' is what's great.",
+                    "morphemes": "á-jí khɛ̃́ ã́ che super ɗi á-jí ɲcréɲcré",
+                    "orthography": "áyí khɛ́n án che super li áyí créncré",
+                    "gloss": "cm-thing rel 3sg.ipfv call super cop cm-thing mighty",
+                    "gloss_fr": "chose que 3sg.acp appeler super être chose saint",
+                    "translation": "what he calls 'super' is what's great.",
+                    "french": "ce qu'il appelle 'super' c'est la qualité.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "14",
+            "key": [
+                "1",
+                14,
+                "14"
+            ],
+            "value": {
+                "story": "1",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "what he calls 'super' is what's great.",
+                    "morphemes": "á-jí khɛ̃́ ã́ che super ɗi á-jí ɲcréɲcré",
+                    "orthography": "áyí khɛ́n án che super li áyí créncré",
+                    "gloss": "cm-thing rel 3sg.ipfv call super cop cm-thing mighty",
+                    "gloss_fr": "chose que 3sg.acp appeler super être chose saint",
+                    "translation": "what he calls 'super' is what's great.",
+                    "french": "ce qu'il appelle 'super' c'est la qualité.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "15",
+            "key": [
+                "1",
+                15,
+                "15"
+            ],
+            "value": {
+                "story": "1",
+                "sentence": {
+                    "judgement": "",
                     "utterance": "Today is a good day,",
                     "morphemes": "ɛ̃-ɲcɛ̃́ nɔ̃́ a li ló bicɔ e",
                     "orthography": "ncɛ́n nɔ̂n a li ló bicɔ (e)",
@@ -219,14 +435,14 @@
             }
         },
         {
-            "id": "8",
+            "id": "16",
             "key": [
-                "0",
-                8,
-                "8"
+                "1",
+                16,
+                "16"
             ],
             "value": {
-                "story": "0",
+                "story": "1",
                 "sentence": {
                     "judgement": "",
                     "utterance": "the super girls are coming.",
@@ -246,18 +462,18 @@
             }
         },
         {
-            "id": "9",
+            "id": "17",
             "key": [
-                "0",
-                9,
-                "9"
+                "1",
+                17,
+                "17"
             ],
             "value": {
-                "story": "0",
+                "story": "1",
                 "sentence": {
                     "judgement": "",
                     "utterance": "Go out, come see them!",
-                    "morphemes": "hɔ̃́ thã́ndi ɔ̃́ ma wú wo",
+                    "morphemes": "hɔ̃́ thã́ndi ɔ̃́ ma wú wo",
                     "orthography": "hɔ́n thándi ɔ́n ma wú wo",
                     "gloss": "2pl.str leave 2pl come see 3pl.str",
                     "gloss_fr": "obj.2pL sortir 2pl venir voir 3pl",
@@ -273,18 +489,18 @@
             }
         },
         {
-            "id": "10",
+            "id": "18",
             "key": [
-                "0",
-                10,
-                "10"
+                "1",
+                18,
+                "18"
             ],
             "value": {
-                "story": "0",
+                "story": "1",
                 "sentence": {
                     "judgement": "",
                     "utterance": "What he calls 'super' is what's great.",
-                    "morphemes": "á-jí ã́ che super ɗi á-jí créɲcré",
+                    "morphemes": "á-jí ã́ che super ɗi á-jí créɲcré",
                     "orthography": "áyí án che super li áyí créncré",
                     "gloss": "cm-thing 3sg.ipfv call super cop cm-thing mighty",
                     "gloss_fr": "choose 3sg appeler super être chose saint",
@@ -300,14 +516,14 @@
             }
         },
         {
-            "id": "11",
+            "id": "19",
             "key": [
-                "0",
-                11,
-                "11"
+                "1",
+                19,
+                "19"
             ],
             "value": {
-                "story": "0",
+                "story": "1",
                 "sentence": {
                     "judgement": "",
                     "utterance": "Today is a good day,",
@@ -327,14 +543,14 @@
             }
         },
         {
-            "id": "12",
+            "id": "20",
             "key": [
-                "0",
-                12,
-                "12"
+                "1",
+                20,
+                "20"
             ],
             "value": {
-                "story": "0",
+                "story": "1",
                 "sentence": {
                     "judgement": "",
                     "utterance": "the super girls are coming.",
@@ -354,18 +570,18 @@
             }
         },
         {
-            "id": "13",
+            "id": "21",
             "key": [
-                "0",
-                13,
-                "13"
+                "1",
+                21,
+                "21"
             ],
             "value": {
-                "story": "0",
+                "story": "1",
                 "sentence": {
                     "judgement": "",
                     "utterance": "Go out, come see them!",
-                    "morphemes": "hɔ̃́ thã́ndi ɔ̃́ ma wú wo",
+                    "morphemes": "hɔ̃́ thã́ndi ɔ̃́ ma wú wo",
                     "orthography": "hɔ́n thándi ɔ́n ma wú wo",
                     "gloss": "2pl.str leave 2pl come see 3pl",
                     "gloss_fr": "obj.2pl sortir 2pl venir voir 3pl",
@@ -381,14 +597,14 @@
             }
         },
         {
-            "id": "14",
+            "id": "22",
             "key": [
-                "0",
-                14,
-                "14"
+                "1",
+                22,
+                "22"
             ],
             "value": {
-                "story": "0",
+                "story": "1",
                 "sentence": {
                     "judgement": "",
                     "utterance": "The Tchagba Dogba girls,",
@@ -408,14 +624,14 @@
             }
         },
         {
-            "id": "15",
+            "id": "23",
             "key": [
-                "0",
-                15,
-                "15"
+                "1",
+                23,
+                "23"
             ],
             "value": {
-                "story": "0",
+                "story": "1",
                 "sentence": {
                     "judgement": "",
                     "utterance": "we are coming walking.",
@@ -435,14 +651,14 @@
             }
         },
         {
-            "id": "16",
+            "id": "24",
             "key": [
-                "0",
-                16,
-                "16"
+                "1",
+                24,
+                "24"
             ],
             "value": {
-                "story": "0",
+                "story": "1",
                 "sentence": {
                     "judgement": "",
                     "utterance": "Our fronts are super,",
@@ -462,18 +678,18 @@
             }
         },
         {
-            "id": "17",
+            "id": "25",
             "key": [
-                "0",
-                17,
-                "17"
+                "1",
+                25,
+                "25"
             ],
             "value": {
-                "story": "0",
+                "story": "1",
                 "sentence": {
                     "judgement": "",
                     "utterance": "our backs are super too.",
-                    "morphemes": "lo mã́ɲɟi mɛ̃ lɔ super",
+                    "morphemes": "lo mã́ɲɟi mɛ̃ lɔ super",
                     "orthography": "lo mánji mɛn lɔ super",
                     "gloss": "1pl.str behind 3sg.str also super",
                     "gloss_fr": "1pl arrière obj.3sg aussi super",
@@ -489,14 +705,14 @@
             }
         },
         {
-            "id": "18",
+            "id": "26",
             "key": [
-                "0",
-                18,
-                "18"
+                "1",
+                26,
+                "26"
             ],
             "value": {
-                "story": "0",
+                "story": "1",
                 "sentence": {
                     "judgement": "",
                     "utterance": "The way we talk is super too.",
@@ -506,222 +722,6 @@
                     "gloss_fr": "1pl parole obj.3sg aussi super",
                     "translation": "The way we talk is super too.",
                     "french": "Notre manière de parler aussi est super.",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "19",
-            "key": [
-                "0",
-                19,
-                "19"
-            ],
-            "value": {
-                "story": "0",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "The way we laugh is super too.",
-                    "morphemes": "lo ɗja-phí mɛ̃ lɔ super",
-                    "orthography": "lo lyaphí mɛn lɔ super",
-                    "gloss": "1pl.str part-laugh.nmlz 3sg.str also super",
-                    "gloss_fr": "1pl rire obj.3sg aussi super",
-                    "translation": "The way we laugh is super too.",
-                    "french": "Notre manière de rire aussi est super.",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "20",
-            "key": [
-                "0",
-                20,
-                "20"
-            ],
-            "value": {
-                "story": "0",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "The way we do things is super too.",
-                    "morphemes": "lo jí-tɛ́ mɛ̃ lɔ super",
-                    "orthography": "lo yítɛ́ mɛn lɔ super",
-                    "gloss": "1pl.str thing-do.nmlz 3sg.str also super",
-                    "gloss_fr": "1pl chose-faire obj.3sg aussi super",
-                    "translation": "The way we do things is super too.",
-                    "french": "Notre manière de faire aussi est super.",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "21",
-            "key": [
-                "0",
-                21,
-                "21"
-            ],
-            "value": {
-                "story": "0",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "Our pagne (fabric) is also super.",
-                    "morphemes": "lo dɛɡɔ̃ mɛ̃ lɔ super",
-                    "orthography": "lo dɛgɔn mɛn lɔ super",
-                    "gloss": "1pl.str pagne 3sg.str also super",
-                    "gloss_fr": "1pl pagne obj.3sg aussi super",
-                    "translation": "Our pagne (fabric) is also super.",
-                    "french": "Notre pagne aussi est super.",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "22",
-            "key": [
-                "0",
-                22,
-                "22"
-            ],
-            "value": {
-                "story": "0",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "Our shoes are also super.",
-                    "morphemes": "lo ŋɡbawa mɛ̃ lɔ super",
-                    "orthography": "lo ngbawa mɛn lɔ super",
-                    "gloss": "1pl.str shoes 3sg.str also super",
-                    "gloss_fr": "1pl chaussures obj.3sg aussi super",
-                    "translation": "Our shoes are also super.",
-                    "french": "Nos chaussures aussi sont superbes.",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "23",
-            "key": [
-                "0",
-                23,
-                "23"
-            ],
-            "value": {
-                "story": "0",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "The Tchagba Dogba girls,",
-                    "morphemes": "ló cháɡba dɔɡba mjé-ɓjɔ́ ɛ",
-                    "orthography": "ló Tchagba Dogba myébhyɔ́ ɛ",
-                    "gloss": "dem Tchagba Dogba woman.pl-child emph",
-                    "gloss_fr": "le Tchagba Dogba femme.pl-enfant emph",
-                    "translation": "The Tchagba Dogba girls,",
-                    "french": "Les filles Tchagba Dogba,",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "24",
-            "key": [
-                "0",
-                24,
-                "24"
-            ],
-            "value": {
-                "story": "0",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "they are coming walking.",
-                    "morphemes": "wo é-nɛ̃ si wo e-ɓá ɛ",
-                    "orthography": "wo énɛn si wo e-bhá ɛ",
-                    "gloss": "3pl prog-walk part 3pl prog-come emph",
-                    "gloss_fr": "3pl prog-marcher part 3pl prog-venir emph",
-                    "translation": "they are coming walking.",
-                    "french": "elles sont en train de marcher pour venir.",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "25",
-            "key": [
-                "0",
-                25,
-                "25"
-            ],
-            "value": {
-                "story": "0",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "Their fronts are super,",
-                    "morphemes": "wo hɛ̃́mɛ̃ mɛ̃ lɔ super",
-                    "orthography": "wo hɛ́nmɛn mɛn lɔ super",
-                    "gloss": "3pl.str front 3sg.str also super",
-                    "gloss_fr": "3pl visage obj.3sg aussi super",
-                    "translation": "Their fronts are super,",
-                    "french": "Ses devantures sont superbes,",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "26",
-            "key": [
-                "0",
-                26,
-                "26"
-            ],
-            "value": {
-                "story": "0",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "their backs are super too.",
-                    "morphemes": "wo mã́ɲɟi mɛ̃ lɔ super",
-                    "orthography": "wo mánji mɛn lɔ super",
-                    "gloss": "3pl.str back 3sg.str also super",
-                    "gloss_fr": "3pl arrière obj.3sg aussi super",
-                    "translation": "their backs are super too.",
-                    "french": "ses derrières aussi sont superbes.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -742,13 +742,13 @@
                 "story": "1",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "The children of the Hebrews have brought the branches.",
-                    "morphemes": "ebrø mjɔ́ khwɛ̃ fɔ̃́ ɟe tho",
-                    "orthography": "hébreu nmyɔ́ khwɛn fɔ́n je tho",
-                    "gloss": "Hebrew.fr child.pl pick.up branch brandish top",
-                    "gloss_fr": "Hébreu enfants porter rameau brandir haut",
-                    "translation": "The children of the Hebrews have brought the branches.",
-                    "french": "Les enfants hébreux ont porté les rameaux.",
+                    "utterance": "The way we laugh is super too.",
+                    "morphemes": "lo ɗja-phí mɛ̃ lɔ super",
+                    "orthography": "lo lyaphí mɛn lɔ super",
+                    "gloss": "1pl.str part-laugh.nmlz 3sg.str also super",
+                    "gloss_fr": "1pl rire obj.3sg aussi super",
+                    "translation": "The way we laugh is super too.",
+                    "french": "Notre manière de rire aussi est super.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -769,13 +769,13 @@
                 "story": "1",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "They shout out 'Hosanna.'",
-                    "morphemes": "we nú khwɛ́ ozana",
-                    "orthography": "wo elú khwɛ́ ozana",
-                    "gloss": "3pl.prog yell shout Hosanna.fr",
-                    "gloss_fr": "3pl.prog pousser cri Hosanna",
-                    "translation": "They shout out 'Hosanna.'",
-                    "french": "Ils crient 'Hosanna.'",
+                    "utterance": "The way we do things is super too.",
+                    "morphemes": "lo jí-tɛ́ mɛ̃ lɔ super",
+                    "orthography": "lo yítɛ́ mɛn lɔ super",
+                    "gloss": "1pl.str thing-do.nmlz 3sg.str also super",
+                    "gloss_fr": "1pl chose-faire obj.3sg aussi super",
+                    "translation": "The way we do things is super too.",
+                    "french": "Notre manière de faire aussi est super.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -796,13 +796,13 @@
                 "story": "1",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "David's child is coming.",
-                    "morphemes": "davíde mi e-ɓá",
-                    "orthography": "davíde nmi ebhá",
-                    "gloss": "David child prog-come",
-                    "gloss_fr": "David enfant prog-venir",
-                    "translation": "David's child is coming.",
-                    "french": "Le fils de Davide est en train de venir.",
+                    "utterance": "Our pagne (fabric) is also super.",
+                    "morphemes": "lo dɛɡɔ̃ mɛ̃ lɔ super",
+                    "orthography": "lo dɛgɔn mɛn lɔ super",
+                    "gloss": "1pl.str pagne 3sg.str also super",
+                    "gloss_fr": "1pl pagne obj.3sg aussi super",
+                    "translation": "Our pagne (fabric) is also super.",
+                    "french": "Notre pagne aussi est super.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -823,13 +823,13 @@
                 "story": "1",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "It's him who is sitting on the donkey.",
-                    "morphemes": "mɛ̃́ nɔ̃́ ɛ̃́ chre frimu mi tho",
-                    "orthography": "mɛ́n nɔ̂n ń chre frímú nmi tho",
-                    "gloss": "3sg.str foc 3sg.nom.pfv sit donkey child top",
-                    "gloss_fr": "3sg foc 3sg.acp s'asseoir âne enfant haut",
-                    "translation": "It's him who is sitting on the donkey.",
-                    "french": "C'est lui qui est assis sur l'ânon.",
+                    "utterance": "Our shoes are also super.",
+                    "morphemes": "lo ŋɡbawa mɛ̃ lɔ super",
+                    "orthography": "lo ngbawa mɛn lɔ super",
+                    "gloss": "1pl.str shoes 3sg.str also super",
+                    "gloss_fr": "1pl chaussures obj.3sg aussi super",
+                    "translation": "Our shoes are also super.",
+                    "french": "Nos chaussures aussi sont superbes.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -842,21 +842,21 @@
         {
             "id": "31",
             "key": [
-                "2",
+                "1",
                 31,
                 "31"
             ],
             "value": {
-                "story": "2",
+                "story": "1",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "There aren't two generations called Djéhou.",
-                    "morphemes": "á-ɓɛ́ k\u001dhɛ̃́ wo é-che ɟewú á lé ɗi mɔ̃ é",
-                    "orthography": "Ábhɛ́ khɛ́n wo éche Jewú á le li nmɔn é.",
-                    "gloss": "cm-generation rel 3pl prog-call Djéhou 3.inan neg cop two emph",
-                    "gloss_fr": "génération rel 3pl prog-appeler Djéhou pr neg être deux emph",
-                    "translation": "There aren't two generations called Djéhou.",
-                    "french": "Il n'y a pas deux générations qu'on appelle Djéhou.",
+                    "utterance": "The Tchagba Dogba girls,",
+                    "morphemes": "ló cháɡba dɔɡba mjé-ɓjɔ́ ɛ",
+                    "orthography": "ló Tchagba Dogba myébhyɔ́ ɛ",
+                    "gloss": "dem Tchagba Dogba woman.pl-child emph",
+                    "gloss_fr": "le Tchagba Dogba femme.pl-enfant emph",
+                    "translation": "The Tchagba Dogba girls,",
+                    "french": "Les filles Tchagba Dogba,",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -869,21 +869,21 @@
         {
             "id": "32",
             "key": [
-                "2",
+                "1",
                 32,
                 "32"
             ],
             "value": {
-                "story": "2",
+                "story": "1",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "There aren't two or three generations called Djéhou.",
-                    "morphemes": "á-ɓɛ́ k\u001dhɛ̃́ wo é-che ɟewú á lé ɗi mɔ̃ le ɗi ɓwaɗjá",
-                    "orthography": "Ábhɛ́ khɛ́n wo éche Jewú á le li nmɔn le li bhwalyá",
-                    "gloss": "cm-generation rel 3pl prog-call Djéhou 3.inan neg cop two neg cop three",
-                    "gloss_fr": "génération rel 3pl prog-appeler Djéhou pr neg être deux neg être trois",
-                    "translation": "There aren't two or three generations called Djéhou.",
-                    "french": "Il n'y a pas deux ni trois générations qu'on appelle Djéhou.",
+                    "utterance": "they are coming walking.",
+                    "morphemes": "wo é-nɛ̃ si wo e-ɓá ɛ",
+                    "orthography": "wo énɛn si wo e-bhá ɛ",
+                    "gloss": "3pl prog-walk part 3pl prog-come emph",
+                    "gloss_fr": "3pl prog-marcher part 3pl prog-venir emph",
+                    "translation": "they are coming walking.",
+                    "french": "elles sont en train de marcher pour venir.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -896,21 +896,21 @@
         {
             "id": "33",
             "key": [
-                "2",
+                "1",
                 33,
                 "33"
             ],
             "value": {
-                "story": "2",
+                "story": "1",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "It's us who are the elders.",
-                    "morphemes": "á-ɓɛ́ ɓrɔ́khó nɔ̃̂ ó che lo é",
-                    "orthography": "Ábhɛ́ bhrɔ́khó nɔ̂n ó che lo é.",
-                    "gloss": "cm-generation elder foc pro.indef call 1pl emph",
-                    "gloss_fr": "génération aîné foc 1pl appeler obj.1pl emph",
-                    "translation": "It's us who are the elders.",
-                    "french": "C'est nous qui sommes les aînés.",
+                    "utterance": "Their fronts are super,",
+                    "morphemes": "wo hɛ̃́mɛ̃ mɛ̃ lɔ super",
+                    "orthography": "wo hɛ́nmɛn mɛn lɔ super",
+                    "gloss": "3pl.str front 3sg.str also super",
+                    "gloss_fr": "3pl visage obj.3sg aussi super",
+                    "translation": "Their fronts are super,",
+                    "french": "Ses devantures sont superbes,",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -923,21 +923,21 @@
         {
             "id": "34",
             "key": [
-                "2",
+                "1",
                 34,
                 "34"
             ],
             "value": {
-                "story": "2",
+                "story": "1",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "There aren't two generations called Djéhou.",
-                    "morphemes": "á-ɓɛ́ khɛ̃́ wo é-che ɟewú á lé ɗi mɔ̃ é",
-                    "orthography": "Ábhɛ́ khɛ́n wo éche Jewú á le li nmɔn é.",
-                    "gloss": "cm-generation rel 3pl prog-call Djéhou 3.inan neg cop two emph",
-                    "gloss_fr": "génération rel 3pl prog-appeler Djéhou pr neg être deux emph",
-                    "translation": "There aren't two generations called Djéhou.",
-                    "french": "Il n'y a pas deux générations qu'on appelle Djéhou. ",
+                    "utterance": "their backs are super too.",
+                    "morphemes": "wo mã́ɲɟi mɛ̃ lɔ super",
+                    "orthography": "wo mánji mɛn lɔ super",
+                    "gloss": "3pl.str back 3sg.str also super",
+                    "gloss_fr": "3pl arrière obj.3sg aussi super",
+                    "translation": "their backs are super too.",
+                    "french": "ses derrières aussi sont superbes.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -958,13 +958,13 @@
                 "story": "2",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "There aren't two or three generations called Djéhou.",
-                    "morphemes": "á-ɓɛ́ wo é-che ɟewú á lé ɗi mɔ̃ le ɗi ɓwaɗjá",
-                    "orthography": "Ábhɛ́ wo éche Jewú á le li nmɔn, le li bhwalyá,",
-                    "gloss": "cm-generation 3pl prog-call Djéhou 3.inan neg cop two neg cop three",
-                    "gloss_fr": "génération 3pl prog-appeler Djéhou pr neg être deux neg être trois",
-                    "translation": "There aren't two or three generations called Djéhou.",
-                    "french": "Il n'y a pas deux ni trois générations qu'on appelle Djéhou.",
+                    "utterance": "The children of the Hebrews have brought the branches.",
+                    "morphemes": "ebrø mjɔ́ khwɛ̃ fɔ̃́ ɟe tho",
+                    "orthography": "hébreu nmyɔ́ khwɛn fɔ́n je tho",
+                    "gloss": "Hebrew.fr child.pl pick.up branch brandish top",
+                    "gloss_fr": "Hébreu enfants porter rameau brandir haut",
+                    "translation": "The children of the Hebrews have brought the branches.",
+                    "french": "Les enfants hébreux ont porté les rameaux.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -985,13 +985,13 @@
                 "story": "2",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "It's us who are the elders.",
-                    "morphemes": "á-ɓɛ́ ɓrɔ́khó nɔ̃̂ ó che lo é",
-                    "orthography": "Ábhɛ́ bhrɔ́khó nɔ̂n ó che lo é.",
-                    "gloss": "cm-generation elder foc pro.indef call 1pl emph",
-                    "gloss_fr": "génération aîné foc 1pl appeler 1pl emph",
-                    "translation": "It's us who are the elders.",
-                    "french": "C'est nous qui sommes les aînés.",
+                    "utterance": "They shout out 'Hosanna.'",
+                    "morphemes": "we nú khwɛ́ ozana",
+                    "orthography": "wo elú khwɛ́ ozana",
+                    "gloss": "3pl.prog yell shout Hosanna.fr",
+                    "gloss_fr": "3pl.prog pousser cri Hosanna",
+                    "translation": "They shout out 'Hosanna.'",
+                    "french": "Ils crient 'Hosanna.'",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -1012,13 +1012,13 @@
                 "story": "2",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "It's the truth, Djéhou, make peace and talk about other things.",
-                    "morphemes": "ló mímí ɟewú ɔ̃́ jɔ́ ɓwe ká lé a",
-                    "orthography": "Ló mímí Jewú ɔ́n yɔ́ bhwe ká lé a,",
-                    "gloss": "dem truth Djéhou 2pl let matter rest part emph",
-                    "gloss_fr": "la vérité Djéhou 2pl laisser affaire rester v.part emph",
-                    "translation": "It's the truth, Djéhou, make peace and talk about other things.",
-                    "french": "C'est la vérité, Djéhou, faites la paix et parlons d'autre chose.",
+                    "utterance": "David's child is coming.",
+                    "morphemes": "davíde mi e-ɓá",
+                    "orthography": "davíde nmi ebhá",
+                    "gloss": "David child prog-come",
+                    "gloss_fr": "David enfant prog-venir",
+                    "translation": "David's child is coming.",
+                    "french": "Le fils de Davide est en train de venir.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -1039,8 +1039,224 @@
                 "story": "2",
                 "sentence": {
                     "judgement": "",
+                    "utterance": "It's him who is sitting on the donkey.",
+                    "morphemes": "mɛ̃́ nɔ̃́ ɛ̃́ chre frimu mi tho",
+                    "orthography": "mɛ́n nɔ̂n ń chre frímú nmi tho",
+                    "gloss": "3sg.str foc 3sg.nom.pfv sit donkey child top",
+                    "gloss_fr": "3sg foc 3sg.acp s'asseoir âne enfant haut",
+                    "translation": "It's him who is sitting on the donkey.",
+                    "french": "C'est lui qui est assis sur l'ânon.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "39",
+            "key": [
+                "3",
+                39,
+                "39"
+            ],
+            "value": {
+                "story": "3",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "There aren't two generations called Djéhou.",
+                    "morphemes": "á-ɓɛ́ k\u001dhɛ̃́ wo é-che ɟewú á lé ɗi mɔ̃ é",
+                    "orthography": "Ábhɛ́ khɛ́n wo éche Jewú á le li nmɔn é.",
+                    "gloss": "cm-generation rel 3pl prog-call Djéhou 3.inan neg cop two emph",
+                    "gloss_fr": "génération rel 3pl prog-appeler Djéhou pr neg être deux emph",
+                    "translation": "There aren't two generations called Djéhou.",
+                    "french": "Il n'y a pas deux générations qu'on appelle Djéhou.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "40",
+            "key": [
+                "3",
+                40,
+                "40"
+            ],
+            "value": {
+                "story": "3",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "There aren't two or three generations called Djéhou.",
+                    "morphemes": "á-ɓɛ́ k\u001dhɛ̃́ wo é-che ɟewú á lé ɗi mɔ̃ le ɗi ɓwaɗjá",
+                    "orthography": "Ábhɛ́ khɛ́n wo éche Jewú á le li nmɔn le li bhwalyá",
+                    "gloss": "cm-generation rel 3pl prog-call Djéhou 3.inan neg cop two neg cop three",
+                    "gloss_fr": "génération rel 3pl prog-appeler Djéhou pr neg être deux neg être trois",
+                    "translation": "There aren't two or three generations called Djéhou.",
+                    "french": "Il n'y a pas deux ni trois générations qu'on appelle Djéhou.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "41",
+            "key": [
+                "3",
+                41,
+                "41"
+            ],
+            "value": {
+                "story": "3",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "It's us who are the elders.",
+                    "morphemes": "á-ɓɛ́ ɓrɔ́khó nɔ̃̂ ó che lo é",
+                    "orthography": "Ábhɛ́ bhrɔ́khó nɔ̂n ó che lo é.",
+                    "gloss": "cm-generation elder foc pro.indef call 1pl emph",
+                    "gloss_fr": "génération aîné foc 1pl appeler obj.1pl emph",
+                    "translation": "It's us who are the elders.",
+                    "french": "C'est nous qui sommes les aînés.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "42",
+            "key": [
+                "3",
+                42,
+                "42"
+            ],
+            "value": {
+                "story": "3",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "There aren't two generations called Djéhou.",
+                    "morphemes": "á-ɓɛ́ khɛ̃́ wo é-che ɟewú á lé ɗi mɔ̃ é",
+                    "orthography": "Ábhɛ́ khɛ́n wo éche Jewú á le li nmɔn é.",
+                    "gloss": "cm-generation rel 3pl prog-call Djéhou 3.inan neg cop two emph",
+                    "gloss_fr": "génération rel 3pl prog-appeler Djéhou pr neg être deux emph",
+                    "translation": "There aren't two generations called Djéhou.",
+                    "french": "Il n'y a pas deux générations qu'on appelle Djéhou. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "43",
+            "key": [
+                "3",
+                43,
+                "43"
+            ],
+            "value": {
+                "story": "3",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "There aren't two or three generations called Djéhou.",
+                    "morphemes": "á-ɓɛ́ wo é-che ɟewú á lé ɗi mɔ̃ le ɗi ɓwaɗjá",
+                    "orthography": "Ábhɛ́ wo éche Jewú á le li nmɔn, le li bhwalyá,",
+                    "gloss": "cm-generation 3pl prog-call Djéhou 3.inan neg cop two neg cop three",
+                    "gloss_fr": "génération 3pl prog-appeler Djéhou pr neg être deux neg être trois",
+                    "translation": "There aren't two or three generations called Djéhou.",
+                    "french": "Il n'y a pas deux ni trois générations qu'on appelle Djéhou.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "44",
+            "key": [
+                "3",
+                44,
+                "44"
+            ],
+            "value": {
+                "story": "3",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "It's us who are the elders.",
+                    "morphemes": "á-ɓɛ́ ɓrɔ́khó nɔ̃̂ ó che lo é",
+                    "orthography": "Ábhɛ́ bhrɔ́khó nɔ̂n ó che lo é.",
+                    "gloss": "cm-generation elder foc pro.indef call 1pl emph",
+                    "gloss_fr": "génération aîné foc 1pl appeler 1pl emph",
+                    "translation": "It's us who are the elders.",
+                    "french": "C'est nous qui sommes les aînés.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "45",
+            "key": [
+                "3",
+                45,
+                "45"
+            ],
+            "value": {
+                "story": "3",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "It's the truth, Djéhou, make peace and talk about other things.",
+                    "morphemes": "ló mímí ɟewú ɔ̃́ jɔ́ ɓwe ká lé a",
+                    "orthography": "Ló mímí Jewú ɔ́n yɔ́ bhwe ká lé a,",
+                    "gloss": "dem truth Djéhou 2pl let matter rest part emph",
+                    "gloss_fr": "la vérité Djéhou 2pl laisser affaire rester v.part emph",
+                    "translation": "It's the truth, Djéhou, make peace and talk about other things.",
+                    "french": "C'est la vérité, Djéhou, faites la paix et parlons d'autre chose.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "46",
+            "key": [
+                "3",
+                46,
+                "46"
+            ],
+            "value": {
+                "story": "3",
+                "sentence": {
+                    "judgement": "",
                     "utterance": "Dear friends, make peace and talk about other things.",
-                    "morphemes": "lo ɟɔ̃ ɔ̃́ jɔ́ ɓwe ká lé o-tɔ ɓwe nãŋkɛ",
+                    "morphemes": "lo ɟɔ̃ ɔ̃́ jɔ́ ɓwe ká lé o-tɔ ɓwe nãŋkɛ",
                     "orthography": "Lo jɔn ɔ́n yɔ́ bhwe ká lé otɔ bhwe nankɛ",
                     "gloss": "1pl friend.pl 2pl let matter rest part pro.indef-speak word other",
                     "gloss_fr": "poss.1pl amis 2pl laisser affaire rester v.part 1pl-parler parole autre",
@@ -1056,14 +1272,14 @@
             }
         },
         {
-            "id": "39",
+            "id": "47",
             "key": [
-                "2",
-                39,
-                "39"
+                "3",
+                47,
+                "47"
             ],
             "value": {
-                "story": "2",
+                "story": "3",
                 "sentence": {
                     "judgement": "",
                     "utterance": "Because the generation of the elders",
@@ -1083,239 +1299,23 @@
             }
         },
         {
-            "id": "40",
+            "id": "48",
             "key": [
-                "2",
-                40,
-                "40"
+                "3",
+                48,
+                "48"
             ],
             "value": {
-                "story": "2",
+                "story": "3",
                 "sentence": {
                     "judgement": "",
                     "utterance": "is settled.",
-                    "morphemes": "á-ɓɛ́-mã́ khúmbrɛ̃ ɓá ɓá a nɛ̃ lo",
+                    "morphemes": "á-ɓɛ́-mã́ khúmbrɛ̃ ɓá ɓá a nɛ̃ lo",
                     "orthography": "ábhɛ́mán khúúnbrɛn bhâ bhá a nɛn lo.",
                     "gloss": "cm-generation-pl all fut come emph voilà 1pl",
                     "gloss_fr": "génération-pl tout AUX+FUT venir emph voilà 1pl",
                     "translation": "is settled.",
                     "french": "est fixée.",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "41",
-            "key": [
-                "2",
-                41,
-                "41"
-            ],
-            "value": {
-                "story": "2",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "Young women, come out!",
-                    "morphemes": "ɛ̃́-mje-ɓjɔ́ ɔ̃́ thã́ndi ɡbãhɛ̃́",
-                    "orthography": "Ńmyebhyɔ́ ɔ́n thándi gbanhɛ́n",
-                    "gloss": "pl-woman-child 2pl come.out entrance",
-                    "gloss_fr": "pl-fille 2pl sortir entrée",
-                    "translation": "Young women, come out!",
-                    "french": "Les jeunes filles, sortez ! ",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "42",
-            "key": [
-                "2",
-                42,
-                "42"
-            ],
-            "value": {
-                "story": "2",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "Everyone is talking about you.",
-                    "morphemes": "ɓaɡo ɡreɓɛ e-lɛ́ wo mɛ̃́",
-                    "orthography": "bhago grebhɛ elɛ́ wo nmɛ́n",
-                    "gloss": "crowd forty prog-discuss 3pl part",
-                    "gloss_fr": "foule quarante prog-calomnier 3pl v.part",
-                    "translation": "Everyone is talking about you.",
-                    "french": "Tout le monde est en train de vous calomnier.",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "43",
-            "key": [
-                "2",
-                43,
-                "43"
-            ],
-            "value": {
-                "story": "2",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "Young women of Djéhou, come out!",
-                    "morphemes": "ɟewú ɛ̃́-mje-ɓjɔ́ thã́ndi ɡbãhɛ̃́",
-                    "orthography": "Jewú ńmyebhyɔ́ thandi gbanhɛ́n",
-                    "gloss": "Djéhou pl-woman-child come.out entrance",
-                    "gloss_fr": "Djéhou pl-fille sortir entrée",
-                    "translation": "Young women of Djéhou, come out!",
-                    "french": "Les jeunes filles de Djéhou, sortez ! ",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "44",
-            "key": [
-                "2",
-                44,
-                "44"
-            ],
-            "value": {
-                "story": "2",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "Everyone is talking about you.",
-                    "morphemes": "ɓaɡo ɡreɓɛ e-lɛ́ wo mɛ̃́ a",
-                    "orthography": "bhago grebhɛ elɛ́ wo nmɛ́n a.",
-                    "gloss": "crowd forty prog-discuss 3pl foc emph",
-                    "gloss_fr": "foule quarante prog-calomnier 3pl foc emph",
-                    "translation": "Everyone is talking about you.",
-                    "french": "Tout le monde est en train de vous calomnier.",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "45",
-            "key": [
-                "2",
-                45,
-                "45"
-            ],
-            "value": {
-                "story": "2",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "Some say that they're from Dahomey (Benin or Togo),",
-                    "morphemes": "do-bɛ̃ lɛ́ lé dãmejá mje",
-                    "orthography": "Dobɛn lɛ́ lé dan-meyá nmye,",
-                    "gloss": "some-indef say.ipfv that Dahomey woman.pl",
-                    "gloss_fr": "certains dire que Dahomey femmes",
-                    "translation": "Some say that they're from Dahomey (Benin or Togo),",
-                    "french": "Certains disent qu'elles sont du Dahomey (Bénin ou Togo),",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "46",
-            "key": [
-                "2",
-                46,
-                "46"
-            ],
-            "value": {
-                "story": "2",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "others say that they're from Sikasso (Mali, Niger).",
-                    "morphemes": "do-bɛ̃ lɛ́ lé sikaso mje",
-                    "orthography": "dobɛn lɛ́ lé sikasô nmye.",
-                    "gloss": "some-indef say.ipfv that Sikasso woman.pl",
-                    "gloss_fr": "certains dire que Sikasso femmes",
-                    "translation": "others say that they're from Sikasso (Mali, Niger).",
-                    "french": "d'autres disent qu'elles sont de Sikasso (Mali, Niger). ",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "47",
-            "key": [
-                "2",
-                47,
-                "47"
-            ],
-            "value": {
-                "story": "2",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "The young women of Blessoué Djéhou are from the Antilles,",
-                    "morphemes": "bleswe ɟewú mje-ɓjɔ́ thjɛ́zi mje-ɓjɔ́",
-                    "orthography": "Bleswê Jewú nmyebhyɔ́ Thyɛ́zi nmyebhyɔ́",
-                    "gloss": "Blessoué Djéhou woman.pl-child Antilles woman.pl-child",
-                    "gloss_fr": "Blessoué Djéhou filles Antillaises filles",
-                    "translation": "The young women of Blessoué Djéhou are from the Antilles,",
-                    "french": "Les jeunes filles de Blessoué Djéhou sont des Antillaises,",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "48",
-            "key": [
-                "2",
-                48,
-                "48"
-            ],
-            "value": {
-                "story": "2",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "the young women of Blessoué Djéhou are Americans.",
-                    "morphemes": "lo bleswe ɟewú mje-ɓjɔ́ amehrikɛ̃ mje",
-                    "orthography": "lo Bleswê Jewú nmyebhyɔ́, Amehrikɛn nmye",
-                    "gloss": "dem Blessoué Djéhou woman.pl-child American woman.pl",
-                    "gloss_fr": "les Blessoué Djéhou filles Americaine femmes",
-                    "translation": "the young women of Blessoué Djéhou are Americans.",
-                    "french": "les jeunes filles de Blessoué Djéhou sont des Américaines.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -1336,13 +1336,13 @@
                 "story": "3",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "I will praise you every day.",
-                    "morphemes": "mɛ̃ mã́ nri hɛ hwa á-ká khúmbrɛ̃",
-                    "orthography": "mɛn mán lri hɛ hwa áká khúúnbrɛn",
-                    "gloss": "1sg fut praise 2sg.str part cm-time all",
-                    "gloss_fr": "1sg AUX+FUT louer obj.2sg part.v temps tout",
-                    "translation": "I will praise you every day.",
-                    "french": "Je vais te louer chaque jour.",
+                    "utterance": "Young women, come out!",
+                    "morphemes": "ɛ̃́-mje-ɓjɔ́ ɔ̃́ thã́ndi ɡbãhɛ̃́",
+                    "orthography": "Ńmyebhyɔ́ ɔ́n thándi gbanhɛ́n",
+                    "gloss": "pl-woman-child 2pl come.out entrance",
+                    "gloss_fr": "pl-fille 2pl sortir entrée",
+                    "translation": "Young women, come out!",
+                    "french": "Les jeunes filles, sortez ! ",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -1363,13 +1363,13 @@
                 "story": "3",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "I will praise you every day.",
-                    "morphemes": "mɛ̃ mã́ nri hɛ hwa á-ká khúmbrɛ̃",
-                    "orthography": "mɛn mán lri hɛ hwa áká khúúnbrɛn",
-                    "gloss": "1sg fut praise 2sg.str part cm-time all",
-                    "gloss_fr": "1sg AUX+FUT louer obj.2sg part.v temps tout",
-                    "translation": "I will praise you every day.",
-                    "french": "Je vais te louer chaque jour.",
+                    "utterance": "Everyone is talking about you.",
+                    "morphemes": "ɓaɡo ɡreɓɛ e-lɛ́ wo mɛ̃́",
+                    "orthography": "bhago grebhɛ elɛ́ wo nmɛ́n",
+                    "gloss": "crowd forty prog-discuss 3pl part",
+                    "gloss_fr": "foule quarante prog-calomnier 3pl v.part",
+                    "translation": "Everyone is talking about you.",
+                    "french": "Tout le monde est en train de vous calomnier.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -1390,13 +1390,13 @@
                 "story": "3",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "The good things you have done for me,",
-                    "morphemes": "hɛ jí ɓwá ɛ tɛ sé mɛ̃",
-                    "orthography": "hɛ yí bhwá ɛ tɛ sé mɛn",
-                    "gloss": "2sg.str thing good 2sg do give 1sg.str",
-                    "gloss_fr": "poss.2sg chose bonne 2sg faire donner obj.1sg",
-                    "translation": "The good things you have done for me,",
-                    "french": "Les bonnes choses que tu as fait pour moi,",
+                    "utterance": "Young women of Djéhou, come out!",
+                    "morphemes": "ɟewú ɛ̃́-mje-ɓjɔ́ thã́ndi ɡbãhɛ̃́",
+                    "orthography": "Jewú ńmyebhyɔ́ thandi gbanhɛ́n",
+                    "gloss": "Djéhou pl-woman-child come.out entrance",
+                    "gloss_fr": "Djéhou pl-fille sortir entrée",
+                    "translation": "Young women of Djéhou, come out!",
+                    "french": "Les jeunes filles de Djéhou, sortez ! ",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -1417,13 +1417,13 @@
                 "story": "3",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "I will never forget. ",
-                    "morphemes": "ló ɓwé ɓa lé ɗjaɗí mɛ̃",
-                    "orthography": "ló bhwe bhâ lé lyali mɛn",
-                    "gloss": "dem word fut neg forget 1sg.str",
-                    "gloss_fr": "la parole AUX+FUT neg oublier obj.1sg",
-                    "translation": "I will never forget. ",
-                    "french": "je ne vais jamais oublier. ",
+                    "utterance": "Everyone is talking about you.",
+                    "morphemes": "ɓaɡo ɡreɓɛ e-lɛ́ wo mɛ̃́ a",
+                    "orthography": "bhago grebhɛ elɛ́ wo nmɛ́n a.",
+                    "gloss": "crowd forty prog-discuss 3pl foc emph",
+                    "gloss_fr": "foule quarante prog-calomnier 3pl foc emph",
+                    "translation": "Everyone is talking about you.",
+                    "french": "Tout le monde est en train de vous calomnier.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -1444,13 +1444,13 @@
                 "story": "3",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "May honor and glory be yours, Jesus.",
-                    "morphemes": "ɛ̃́-ŋɡuhá lé á-hwáɗri ó ɡɛ hɛ́ créncré",
-                    "orthography": "ńguhá lê áhwálri ó gɛ hɛ créncré",
-                    "gloss": "cm-glory with cm-praise sbjv find 2sg.str mighty",
-                    "gloss_fr": "gloire avec louange inj trouver obj.2sg saint",
-                    "translation": "May honor and glory be yours, Jesus.",
-                    "french": "Que l'honneur et la gloire te reviennent Jésus.",
+                    "utterance": "Some say that they're from Dahomey (Benin or Togo),",
+                    "morphemes": "do-bɛ̃ lɛ́ lé dãmejá mje",
+                    "orthography": "Dobɛn lɛ́ lé dan-meyá nmye,",
+                    "gloss": "some-indef say.ipfv that Dahomey woman.pl",
+                    "gloss_fr": "certains dire que Dahomey femmes",
+                    "translation": "Some say that they're from Dahomey (Benin or Togo),",
+                    "french": "Certains disent qu'elles sont du Dahomey (Bénin ou Togo),",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -1471,13 +1471,13 @@
                 "story": "3",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "The good things you have done for me,",
-                    "morphemes": "hɛ jí ɓwá ɛ tɛ sé mɛ̃",
-                    "orthography": "hɛ yí bhwá ɛ tɛ sé mɛn",
-                    "gloss": "2sg.str thing good 2sg do give 1sg.str",
-                    "gloss_fr": "poss.2sg chose bonne 2sg faire donner obj.1sg",
-                    "translation": "The good things you have done for me,",
-                    "french": "Les bonnes choses que tu as fait pour moi,",
+                    "utterance": "others say that they're from Sikasso (Mali, Niger).",
+                    "morphemes": "do-bɛ̃ lɛ́ lé sikaso mje",
+                    "orthography": "dobɛn lɛ́ lé sikasô nmye.",
+                    "gloss": "some-indef say.ipfv that Sikasso woman.pl",
+                    "gloss_fr": "certains dire que Sikasso femmes",
+                    "translation": "others say that they're from Sikasso (Mali, Niger).",
+                    "french": "d'autres disent qu'elles sont de Sikasso (Mali, Niger). ",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -1498,13 +1498,13 @@
                 "story": "3",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "I will never forget. ",
-                    "morphemes": "ló ɓwé ɓa lé ɗjaɗí mɛ̃",
-                    "orthography": "ló bhwe bhâ lé lyali mɛn",
-                    "gloss": "dem word fut neg forget 1sg.str",
-                    "gloss_fr": "la parole AUX+FUT neg oublier obj.1sg",
-                    "translation": "I will never forget. ",
-                    "french": "je ne vais jamais oublier. ",
+                    "utterance": "The young women of Blessoué Djéhou are from the Antilles,",
+                    "morphemes": "bleswe ɟewú mje-ɓjɔ́ thjɛ́zi mje-ɓjɔ́",
+                    "orthography": "Bleswê Jewú nmyebhyɔ́ Thyɛ́zi nmyebhyɔ́",
+                    "gloss": "Blessoué Djéhou woman.pl-child Antilles woman.pl-child",
+                    "gloss_fr": "Blessoué Djéhou filles Antillaises filles",
+                    "translation": "The young women of Blessoué Djéhou are from the Antilles,",
+                    "french": "Les jeunes filles de Blessoué Djéhou sont des Antillaises,",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -1525,13 +1525,13 @@
                 "story": "3",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "May God bless you always.",
-                    "morphemes": "ɛ̃́-ŋɡuhá lé á-hwáɗri ó ɡɛ hɛ́ créncré",
-                    "orthography": "ńguhá lê áhwálri ó gɛ hɛ créncré",
-                    "gloss": "cm-glory with cm-praise sbjv find 2sg.str mighty",
-                    "gloss_fr": "gloire avec louange inj trouver obj.2sg saint",
-                    "translation": "May God bless you always.",
-                    "french": "Que Dieu te bénisse toujours.",
+                    "utterance": "the young women of Blessoué Djéhou are Americans.",
+                    "morphemes": "lo bleswe ɟewú mje-ɓjɔ́ amehrikɛ̃ mje",
+                    "orthography": "lo Bleswê Jewú nmyebhyɔ́, Amehrikɛn nmye",
+                    "gloss": "dem Blessoué Djéhou woman.pl-child American woman.pl",
+                    "gloss_fr": "les Blessoué Djéhou filles Americaine femmes",
+                    "translation": "the young women of Blessoué Djéhou are Americans.",
+                    "french": "les jeunes filles de Blessoué Djéhou sont des Américaines.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -1552,13 +1552,13 @@
                 "story": "4",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "The Tchaman group is present,",
-                    "morphemes": "cá-mã́ ɓrɛ hɛ̃́ khwa lé",
-                    "orthography": "Cámán bhrɛ hɛ́n khwa lé",
-                    "gloss": "Tchaman-pl unite pass be.present.pl part",
-                    "gloss_fr": "Tchamans réunisser passer être.present v.part",
-                    "translation": "The Tchaman group is present,",
-                    "french": "Le groupe Atchan est present, ",
+                    "utterance": "I will praise you every day.",
+                    "morphemes": "mɛ̃ mã́ nri hɛ hwa á-ká khúmbrɛ̃",
+                    "orthography": "mɛn mán lri hɛ hwa áká khúúnbrɛn",
+                    "gloss": "1sg fut praise 2sg.str part cm-time all",
+                    "gloss_fr": "1sg AUX+FUT louer obj.2sg part.v temps tout",
+                    "translation": "I will praise you every day.",
+                    "french": "Je vais te louer chaque jour.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -1579,13 +1579,13 @@
                 "story": "4",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "they are numerous.",
-                    "morphemes": "cá-mã́ ɡreɓɛ ɓrɛ hɛ̃́ khwa lé",
-                    "orthography": "Cámán grebhɛ bhrɛ hɛ́n khwa lé,",
-                    "gloss": "Tchaman-pl forty unite pass be.present.pl part",
-                    "gloss_fr": "Tchamans quarante réunisser passer être.present v.part",
-                    "translation": "they are numerous.",
-                    "french": "ils sont nombreux.",
+                    "utterance": "I will praise you every day.",
+                    "morphemes": "mɛ̃ mã́ nri hɛ hwa á-ká khúmbrɛ̃",
+                    "orthography": "mɛn mán lri hɛ hwa áká khúúnbrɛn",
+                    "gloss": "1sg fut praise 2sg.str part cm-time all",
+                    "gloss_fr": "1sg AUX+FUT louer obj.2sg part.v temps tout",
+                    "translation": "I will praise you every day.",
+                    "french": "Je vais te louer chaque jour.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -1606,13 +1606,13 @@
                 "story": "4",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "The large number of Tchagbas,",
-                    "morphemes": "o krãmã cháɡba pásá ɡreɓɛ",
-                    "orthography": "o kranman Chágba pasá grebhɛ",
-                    "gloss": "pro.indef say Tchagba audience forty",
-                    "gloss_fr": "1pl dire Tchagba public quarante",
-                    "translation": "The large number of Tchagbas,",
-                    "french": "Le grand nombre des Tchagbas, ",
+                    "utterance": "The good things you have done for me,",
+                    "morphemes": "hɛ jí ɓwá ɛ tɛ sé mɛ̃",
+                    "orthography": "hɛ yí bhwá ɛ tɛ sé mɛn",
+                    "gloss": "2sg.str thing good 2sg do give 1sg.str",
+                    "gloss_fr": "poss.2sg chose bonne 2sg faire donner obj.1sg",
+                    "translation": "The good things you have done for me,",
+                    "french": "Les bonnes choses que tu as fait pour moi,",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -1633,13 +1633,13 @@
                 "story": "4",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "the door has been open to let them through.",
-                    "morphemes": "phwã si se lo ɓa hɛ̃-e",
-                    "orthography": "phwan si se lo bha hɛn-e,",
-                    "gloss": "open.pfv door give.pfv 1pl come pass-emph",
-                    "gloss_fr": "ouvrir porte donner 1pl venir passer-emph",
-                    "translation": "the door has been open to let them through.",
-                    "french": "on a ouvert les portes pour laisser le passage.",
+                    "utterance": "I will never forget. ",
+                    "morphemes": "ló ɓwé ɓa lé ɗjaɗí mɛ̃",
+                    "orthography": "ló bhwe bhâ lé lyali mɛn",
+                    "gloss": "dem word fut neg forget 1sg.str",
+                    "gloss_fr": "la parole AUX+FUT neg oublier obj.1sg",
+                    "translation": "I will never forget. ",
+                    "french": "je ne vais jamais oublier. ",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -1660,13 +1660,13 @@
                 "story": "4",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "Let's go look for N'Cho Norbert; he will come through.",
-                    "morphemes": "o do lo nʃɔ nɔbɛ ã mã́ hɛ̃́-ã",
-                    "orthography": "o do lo Ncho Norbert an man hɛ́n-an.",
-                    "gloss": "pro.indef bring go N'Cho Norbert 3sg fut pass-emph",
-                    "gloss_fr": "1pl apporter aller N'Cho Norbert 3sg AUX+FUT passer-emph",
-                    "translation": "Let's go look for N'Cho Norbert; he will come through.",
-                    "french": "Allons-y chercher N'Cho Norbert, il va passer. ",
+                    "utterance": "May honor and glory be yours, Jesus.",
+                    "morphemes": "ɛ̃́-ŋɡuhá lé á-hwáɗri ó ɡɛ hɛ́ créncré",
+                    "orthography": "ńguhá lê áhwálri ó gɛ hɛ créncré",
+                    "gloss": "cm-glory with cm-praise sbjv find 2sg.str mighty",
+                    "gloss_fr": "gloire avec louange inj trouver obj.2sg saint",
+                    "translation": "May honor and glory be yours, Jesus.",
+                    "french": "Que l'honneur et la gloire te reviennent Jésus.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -1687,13 +1687,13 @@
                 "story": "4",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "We've come out; here we are.",
-                    "morphemes": "lo thãndi lo e-ɓá nɛ̃ lo nɛ̃ lo",
-                    "orthography": "Lo thandi lo ebhá, nɛn lo nɛn lo,",
-                    "gloss": "1pl come.out.pfv 1pl prog-come voilà 1pl voilà 1pl",
-                    "gloss_fr": "1pl sortir 1pl prog-venir voilà 1pl voilà 1pl",
-                    "translation": "We've come out; here we are.",
-                    "french": "Nous sommes sortis, voilà.",
+                    "utterance": "The good things you have done for me,",
+                    "morphemes": "hɛ jí ɓwá ɛ tɛ sé mɛ̃",
+                    "orthography": "hɛ yí bhwá ɛ tɛ sé mɛn",
+                    "gloss": "2sg.str thing good 2sg do give 1sg.str",
+                    "gloss_fr": "poss.2sg chose bonne 2sg faire donner obj.1sg",
+                    "translation": "The good things you have done for me,",
+                    "french": "Les bonnes choses que tu as fait pour moi,",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -1714,13 +1714,13 @@
                 "story": "4",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "We carried our stuff; here we are.",
-                    "morphemes": "lo ha jí wo e-ɓá nɛ̃ lo nɛ̃ lo",
-                    "orthography": "lo ha yí wo ebhá, nɛn lo nɛn lo,",
-                    "gloss": "1pl carry.pfv thing 3pl prog-come voilà 1pl voilà 1pl",
-                    "gloss_fr": "1pl charger chose 3pl prog-venir voilà 1pl voilà 1pl",
-                    "translation": "We carried our stuff; here we are.",
-                    "french": "Nous avons chargé des baggages, voilà.",
+                    "utterance": "I will never forget. ",
+                    "morphemes": "ló ɓwé ɓa lé ɗjaɗí mɛ̃",
+                    "orthography": "ló bhwe bhâ lé lyali mɛn",
+                    "gloss": "dem word fut neg forget 1sg.str",
+                    "gloss_fr": "la parole AUX+FUT neg oublier obj.1sg",
+                    "translation": "I will never forget. ",
+                    "french": "je ne vais jamais oublier. ",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -1741,13 +1741,13 @@
                 "story": "4",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "The Agban girls are well-dressed; they are arriving.",
-                    "morphemes": "aɡbã mje-ɓjɔ ɡo ndu wo e-ɓá wo e-lé hɔ̃́ mɔ̃́ lê ɔ̃́ ma wú wo",
-                    "orthography": "Agban nmyebhyɔ go ndu, wo ebhá, wo elé hɔ́n nmɔ́n lê ɔ́n ma wú wo.",
-                    "gloss": "Agban woman.pl-child wash.pfv water 3pl prog-come 3pl prog-wave 2pl arm that 2pl fut see 3pl",
-                    "gloss_fr": "Agban filles laver eau 3pl prog-venir 3pl prog-agiter 2pl bras que 2pl AUX+FUT voir 3pl",
-                    "translation": "The Agban girls are well-dressed; they are arriving.",
-                    "french": "Les filles Agban sont bien habillées, elles arrivent. ",
+                    "utterance": "May God bless you always.",
+                    "morphemes": "ɛ̃́-ŋɡuhá lé á-hwáɗri ó ɡɛ hɛ́ créncré",
+                    "orthography": "ńguhá lê áhwálri ó gɛ hɛ créncré",
+                    "gloss": "cm-glory with cm-praise sbjv find 2sg.str mighty",
+                    "gloss_fr": "gloire avec louange inj trouver obj.2sg saint",
+                    "translation": "May God bless you always.",
+                    "french": "Que Dieu te bénisse toujours.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -1760,198 +1760,9 @@
         {
             "id": "65",
             "key": [
-                "4",
+                "5",
                 65,
                 "65"
-            ],
-            "value": {
-                "story": "4",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "Don't hide,",
-                    "morphemes": "ɔ̃́ ne wá hrɔmã",
-                    "orthography": "Ɔ́n ne wá hrɔman",
-                    "gloss": "2pl neg run hide",
-                    "gloss_fr": "2pl neg courir cacher",
-                    "translation": "Don't hide,",
-                    "french": "Ne vous cachez pas,",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "66",
-            "key": [
-                "4",
-                66,
-                "66"
-            ],
-            "value": {
-                "story": "4",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "afterwards, you'll saw that you didn't see anything that the Agbans did.",
-                    "morphemes": "a-ɟi o nɛ́ ɔ̃́ ne wu aɡbã jí-e",
-                    "orthography": "àji o nkɛ́ ɔ́n ne wu Agban yí-e.",
-                    "gloss": "cm-after   2pl neg see Agban thing-emph",
-                    "gloss_fr": "après   2pl neg voir Agban chose-emph",
-                    "translation": "afterwards, you'll saw that you didn't see anything that the Agbans did.",
-                    "french": "après vous allez dire que vous n'avez rien vu de ce que les Agban ont fait. ",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "67",
-            "key": [
-                "4",
-                67,
-                "67"
-            ],
-            "value": {
-                "story": "4",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "We're well-dressed, we're arriving; here we are.",
-                    "morphemes": "lo ɡo ndu lo e-ɓá nɛ̃ lo nɛ̃ lo",
-                    "orthography": "Lo go ndu lo ebhá, nɛn lo nɛn lo",
-                    "gloss": "1pl wash.pfv water 1pl prog-come voilà 1pl voilà 1pl",
-                    "gloss_fr": "1pl laver eau 1pl prog-venir voilà 1pl voilà 1pl",
-                    "translation": "We're well-dressed, we're arriving; here we are.",
-                    "french": "Nous sommes bien habillés, nous arrivons, voilà. ",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "68",
-            "key": [
-                "4",
-                68,
-                "68"
-            ],
-            "value": {
-                "story": "4",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "We've carried our stuff; here we are.",
-                    "morphemes": "lo ha jí wo e-ɓá nɛ̃ lo nɛ̃ lo",
-                    "orthography": "lo ha yí wo ebhá, nɛn lo nɛn lo,",
-                    "gloss": "1pl carry.pfv thing 3pl prog-come voilà 1pl voilà 1pl",
-                    "gloss_fr": "1pl charger chose 3pl prog-venir voilà 1pl voilà 1pl",
-                    "translation": "We've carried our stuff; here we are.",
-                    "french": "Nous avons chargé des baggages, voilà. ",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "69",
-            "key": [
-                "4",
-                69,
-                "69"
-            ],
-            "value": {
-                "story": "4",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "Agban N'Guessan is well-dressed; they're arriving.",
-                    "morphemes": "aɡbã nɟesã ɡo ndu wo e-ɓá wo e-lé hɔ̃́ mɔ̃́ lê ɔ̃́ ma wú wo",
-                    "orthography": "Agban njésan go ndu wo ebhá, wo elé hɔ́n nmɔ́n lê ɔ́n ma wú wo.",
-                    "gloss": "Agban N'Guessan wash.pfv water 3pl prog-come 3pl prog-wave 2pl arm that 2pl fut see 3pl",
-                    "gloss_fr": "Agban N'Guessan laver eau 3pl prog-venir 3pl prog-agiter 2pl bras que 2pl AUX+FUT voir 3pl",
-                    "translation": "Agban N'Guessan is well-dressed; they're arriving.",
-                    "french": "Agban N'Guessan est bien habillé, ils arrivent. ",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "70",
-            "key": [
-                "4",
-                70,
-                "70"
-            ],
-            "value": {
-                "story": "4",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "Don't hide,",
-                    "morphemes": "ɔ̃́ ne wá hrɔmã",
-                    "orthography": "Ɔ́n ne wá hrɔman",
-                    "gloss": "2pl neg run hide",
-                    "gloss_fr": "2pl neg courir cacher",
-                    "translation": "Don't hide,",
-                    "french": "Ne vous cachez pas,",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "71",
-            "key": [
-                "4",
-                71,
-                "71"
-            ],
-            "value": {
-                "story": "4",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "afterwards, you'll say that you didn't see anything that the Agbans did.",
-                    "morphemes": "a-ɟi o nɛ́ ɔ̃́ ne wu aɡbã jí-e",
-                    "orthography": "àji o nkɛ́ ɔ́n ne wu Agban yí-e.",
-                    "gloss": "cm-after   2pl neg see Agban thing-emph",
-                    "gloss_fr": "après   2pl neg voir Agban chose-emph",
-                    "translation": "afterwards, you'll say that you didn't see anything that the Agbans did.",
-                    "french": "après vous allez dire que vous n'avez rien vu de ce que les Agban ont fait.",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "72",
-            "key": [
-                "5",
-                72,
-                "72"
             ],
             "value": {
                 "story": "5",
@@ -1974,11 +1785,11 @@
             }
         },
         {
-            "id": "73",
+            "id": "66",
             "key": [
                 "5",
-                73,
-                "73"
+                66,
+                "66"
             ],
             "value": {
                 "story": "5",
@@ -2001,19 +1812,19 @@
             }
         },
         {
-            "id": "74",
+            "id": "67",
             "key": [
                 "5",
-                74,
-                "74"
+                67,
+                "67"
             ],
             "value": {
                 "story": "5",
                 "sentence": {
                     "judgement": "",
                     "utterance": "The elder of the country,",
-                    "morphemes": "hɔ̃́ khúɓɛ́ nãnã́",
-                    "orthography": "hɔ́n khúbhɛ́ nannán",
+                    "morphemes": "hɔ̃́ khúɓɛ́ nãnã́",
+                    "orthography": "hɔ́n khúbhɛ́ nannán",
                     "gloss": "2pl.str village elder",
                     "gloss_fr": "poss.2pl village doyen",
                     "translation": "The elder of the country,",
@@ -2028,11 +1839,11 @@
             }
         },
         {
-            "id": "75",
+            "id": "68",
             "key": [
                 "5",
-                75,
-                "75"
+                68,
+                "68"
             ],
             "value": {
                 "story": "5",
@@ -2055,18 +1866,18 @@
             }
         },
         {
-            "id": "76",
+            "id": "69",
             "key": [
                 "5",
-                76,
-                "76"
+                69,
+                "69"
             ],
             "value": {
                 "story": "5",
                 "sentence": {
                     "judgement": "",
                     "utterance": "Henri Konan Bédié, he sat on his throne.",
-                    "morphemes": "ãrikonãbɛdje ɛ̃́ ché nɛ phɛ̃́ mɛ̃",
+                    "morphemes": "ãrikonãbɛdje ɛ̃́ ché nɛ phɛ̃́ mɛ̃",
                     "orthography": "Henri Konan Bédié ń che nkɛ phɛ́n nmɛn",
                     "gloss": "Henri Konan Bédié 3sg.pfv sit.pfv 3sg.obv throne on",
                     "gloss_fr": "Henri Konan Bédié 3sg.acp s'asseoir obj.3sg throne extrémité",
@@ -2082,11 +1893,11 @@
             }
         },
         {
-            "id": "77",
+            "id": "70",
             "key": [
                 "5",
-                77,
-                "77"
+                70,
+                "70"
             ],
             "value": {
                 "story": "5",
@@ -2109,11 +1920,11 @@
             }
         },
         {
-            "id": "78",
+            "id": "71",
             "key": [
                 "5",
-                78,
-                "78"
+                71,
+                "71"
             ],
             "value": {
                 "story": "5",
@@ -2136,11 +1947,11 @@
             }
         },
         {
-            "id": "79",
+            "id": "72",
             "key": [
                 "5",
-                79,
-                "79"
+                72,
+                "72"
             ],
             "value": {
                 "story": "5",
@@ -2163,11 +1974,11 @@
             }
         },
         {
-            "id": "80",
+            "id": "73",
             "key": [
                 "5",
-                80,
-                "80"
+                73,
+                "73"
             ],
             "value": {
                 "story": "5",
@@ -2190,11 +2001,11 @@
             }
         },
         {
-            "id": "81",
+            "id": "74",
             "key": [
                 "6",
-                81,
-                "81"
+                74,
+                "74"
             ],
             "value": {
                 "story": "6",
@@ -2217,11 +2028,11 @@
             }
         },
         {
-            "id": "82",
+            "id": "75",
             "key": [
                 "6",
-                82,
-                "82"
+                75,
+                "75"
             ],
             "value": {
                 "story": "6",
@@ -2244,11 +2055,11 @@
             }
         },
         {
-            "id": "83",
+            "id": "76",
             "key": [
                 "6",
-                83,
-                "83"
+                76,
+                "76"
             ],
             "value": {
                 "story": "6",
@@ -2271,11 +2082,11 @@
             }
         },
         {
-            "id": "84",
+            "id": "77",
             "key": [
                 "6",
-                84,
-                "84"
+                77,
+                "77"
             ],
             "value": {
                 "story": "6",
@@ -2298,6 +2109,195 @@
             }
         },
         {
+            "id": "78",
+            "key": [
+                "7",
+                78,
+                "78"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The Tchaman group is present,",
+                    "morphemes": "cá-mã́ ɓrɛ hɛ̃́ khwa lé",
+                    "orthography": "Cámán bhrɛ hɛ́n khwa lé",
+                    "gloss": "Tchaman-pl unite pass be.present.pl part",
+                    "gloss_fr": "Tchamans réunisser passer être.present v.part",
+                    "translation": "The Tchaman group is present,",
+                    "french": "Le groupe Atchan est present, ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "79",
+            "key": [
+                "7",
+                79,
+                "79"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "they are numerous.",
+                    "morphemes": "cá-mã́ ɡreɓɛ ɓrɛ hɛ̃́ khwa lé",
+                    "orthography": "Cámán grebhɛ bhrɛ hɛ́n khwa lé,",
+                    "gloss": "Tchaman-pl forty unite pass be.present.pl part",
+                    "gloss_fr": "Tchamans quarante réunisser passer être.present v.part",
+                    "translation": "they are numerous.",
+                    "french": "ils sont nombreux.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "80",
+            "key": [
+                "7",
+                80,
+                "80"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The large number of Tchagbas,",
+                    "morphemes": "o krãmã cháɡba pásá ɡreɓɛ",
+                    "orthography": "o kranman Chágba pasá grebhɛ",
+                    "gloss": "pro.indef say Tchagba audience forty",
+                    "gloss_fr": "1pl dire Tchagba public quarante",
+                    "translation": "The large number of Tchagbas,",
+                    "french": "Le grand nombre des Tchagbas, ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "81",
+            "key": [
+                "7",
+                81,
+                "81"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "the door has been open to let them through.",
+                    "morphemes": "phwã si se lo ɓa hɛ̃-e",
+                    "orthography": "phwan si se lo bha hɛn-e,",
+                    "gloss": "open.pfv door give.pfv 1pl come pass-emph",
+                    "gloss_fr": "ouvrir porte donner 1pl venir passer-emph",
+                    "translation": "the door has been open to let them through.",
+                    "french": "on a ouvert les portes pour laisser le passage.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "82",
+            "key": [
+                "7",
+                82,
+                "82"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "Let's go look for N'Cho Norbert; he will come through.",
+                    "morphemes": "o do lo nʃɔ nɔbɛ ã mã́ hɛ̃́-ã",
+                    "orthography": "o do lo Ncho Norbert an man hɛ́n-an.",
+                    "gloss": "pro.indef bring go N'Cho Norbert 3sg fut pass-emph",
+                    "gloss_fr": "1pl apporter aller N'Cho Norbert 3sg AUX+FUT passer-emph",
+                    "translation": "Let's go look for N'Cho Norbert; he will come through.",
+                    "french": "Allons-y chercher N'Cho Norbert, il va passer. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "83",
+            "key": [
+                "7",
+                83,
+                "83"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "We've come out; here we are.",
+                    "morphemes": "lo thãndi lo e-ɓá nɛ̃ lo nɛ̃ lo",
+                    "orthography": "Lo thandi lo ebhá, nɛn lo nɛn lo,",
+                    "gloss": "1pl come.out.pfv 1pl prog-come voilà 1pl voilà 1pl",
+                    "gloss_fr": "1pl sortir 1pl prog-venir voilà 1pl voilà 1pl",
+                    "translation": "We've come out; here we are.",
+                    "french": "Nous sommes sortis, voilà.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "84",
+            "key": [
+                "7",
+                84,
+                "84"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "We carried our stuff; here we are.",
+                    "morphemes": "lo ha jí wo e-ɓá nɛ̃ lo nɛ̃ lo",
+                    "orthography": "lo ha yí wo ebhá, nɛn lo nɛn lo,",
+                    "gloss": "1pl carry.pfv thing 3pl prog-come voilà 1pl voilà 1pl",
+                    "gloss_fr": "1pl charger chose 3pl prog-venir voilà 1pl voilà 1pl",
+                    "translation": "We carried our stuff; here we are.",
+                    "french": "Nous avons chargé des baggages, voilà.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
             "id": "85",
             "key": [
                 "7",
@@ -2308,13 +2308,13 @@
                 "story": "7",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "I give glory to God",
-                    "morphemes": "mɛ̃ mó ɛ̃́ŋɡuhá se hwãnthe",
-                    "orthography": "mɛn mó ńguhá se Hwanthe",
-                    "gloss": "1sg take glory give lord",
-                    "gloss_fr": "1sg prendre gloire donner Dieu",
-                    "translation": "I give glory to God",
-                    "french": "Je rends gloire à Dieu",
+                    "utterance": "The Agban girls are well-dressed; they are arriving.",
+                    "morphemes": "aɡbã mje-ɓjɔ ɡo ndu wo e-ɓá wo e-lé hɔ̃́ mɔ̃́ lê ɔ̃́ ma wú wo",
+                    "orthography": "Agban nmyebhyɔ go ndu, wo ebhá, wo elé hɔ́n nmɔ́n lê ɔ́n ma wú wo.",
+                    "gloss": "Agban woman.pl-child wash.pfv water 3pl prog-come 3pl prog-wave 2pl arm that 2pl fut see 3pl",
+                    "gloss_fr": "Agban filles laver eau 3pl prog-venir 3pl prog-agiter 2pl bras que 2pl AUX+FUT voir 3pl",
+                    "translation": "The Agban girls are well-dressed; they are arriving.",
+                    "french": "Les filles Agban sont bien habillées, elles arrivent. ",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -2335,13 +2335,13 @@
                 "story": "7",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "I will praise him everyday",
-                    "morphemes": "á-ká khúmbrɛ̃ mã́ nri nɛ hwa",
-                    "orthography": "áká khúúnbrɛn maán nri nkɛ hwa",
-                    "gloss": "cm-time all fut praise 3sg part",
-                    "gloss_fr": "temps tout AUX+FUT louer obj.3sg part.tv",
-                    "translation": "I will praise him everyday",
-                    "french": "Je vais le louer chaque jour",
+                    "utterance": "Don't hide,",
+                    "morphemes": "ɔ̃́ ne wá hrɔmã",
+                    "orthography": "Ɔ́n ne wá hrɔman",
+                    "gloss": "2pl neg run hide",
+                    "gloss_fr": "2pl neg courir cacher",
+                    "translation": "Don't hide,",
+                    "french": "Ne vous cachez pas,",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -2362,13 +2362,13 @@
                 "story": "7",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "I give glory to God",
-                    "morphemes": "mɛ̃ mó ɛ̃́-ŋɡuhá se hwãnthe",
-                    "orthography": "mɛn mó ńguhá se Hwanthe",
-                    "gloss": "1sg take glory give lord",
-                    "gloss_fr": "1sg prendre gloire donner Dieu",
-                    "translation": "I give glory to God",
-                    "french": "Je rends gloire à Dieu",
+                    "utterance": "afterwards, you'll saw that you didn't see anything that the Agbans did.",
+                    "morphemes": "a-ɟi o nɛ́ ɔ̃́ ne wu aɡbã jí-e",
+                    "orthography": "àji o nkɛ́ ɔ́n ne wu Agban yí-e.",
+                    "gloss": "cm-after   2pl neg see Agban thing-emph",
+                    "gloss_fr": "après   2pl neg voir Agban chose-emph",
+                    "translation": "afterwards, you'll saw that you didn't see anything that the Agbans did.",
+                    "french": "après vous allez dire que vous n'avez rien vu de ce que les Agban ont fait. ",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -2389,13 +2389,13 @@
                 "story": "7",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "I will praise him everyday",
-                    "morphemes": "á-ká khúmbrɛ̃ mã́ nri nɛ hwa",
-                    "orthography": "áká khúúnbrɛn maán nri nkɛ hwa",
-                    "gloss": "cm-time all fut praise 3sg part",
-                    "gloss_fr": "temps tout AUX+FUT louer obj.2sg part.tv",
-                    "translation": "I will praise him everyday",
-                    "french": "Je vais le louer chaque jour",
+                    "utterance": "We're well-dressed, we're arriving; here we are.",
+                    "morphemes": "lo ɡo ndu lo e-ɓá nɛ̃ lo nɛ̃ lo",
+                    "orthography": "Lo go ndu lo ebhá, nɛn lo nɛn lo",
+                    "gloss": "1pl wash.pfv water 1pl prog-come voilà 1pl voilà 1pl",
+                    "gloss_fr": "1pl laver eau 1pl prog-venir voilà 1pl voilà 1pl",
+                    "translation": "We're well-dressed, we're arriving; here we are.",
+                    "french": "Nous sommes bien habillés, nous arrivons, voilà. ",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -2416,13 +2416,13 @@
                 "story": "7",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "I want God to be my glory",
-                    "morphemes": "mɛ̃́ nɛ̃ lé hwãnthe olí mɛ̃ ɛ̃́-ŋɡuhá",
-                    "orthography": "mɛɛ́n nɛn lé Hwánthe olí mɛn nguhá",
-                    "gloss": "1sg want that lord cop 1sg glory",
-                    "gloss_fr": "1sg vouloir que Dieu  poss.1sg gloire",
-                    "translation": "I want God to be my glory",
-                    "french": "Je veux que le Seigneur soit ma gloire",
+                    "utterance": "We've carried our stuff; here we are.",
+                    "morphemes": "lo ha jí wo e-ɓá nɛ̃ lo nɛ̃ lo",
+                    "orthography": "lo ha yí wo ebhá, nɛn lo nɛn lo,",
+                    "gloss": "1pl carry.pfv thing 3pl prog-come voilà 1pl voilà 1pl",
+                    "gloss_fr": "1pl charger chose 3pl prog-venir voilà 1pl voilà 1pl",
+                    "translation": "We've carried our stuff; here we are.",
+                    "french": "Nous avons chargé des baggages, voilà. ",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -2443,13 +2443,13 @@
                 "story": "7",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "You are the good people",
-                    "morphemes": "hɔ̃́ khɛ̃́ ɔ̃́ ni thɛ̃-ɓwá-mã́",
-                    "orthography": "hɔ́n khɛ́n ɔ́n ni nthɛ́nbhwámán",
-                    "gloss": "2pl rel 2pl cop good.person",
-                    "gloss_fr": " que 2pl  débonnaires",
-                    "translation": "You are the good people",
-                    "french": "Vous qui êtes des débonnaires",
+                    "utterance": "Agban N'Guessan is well-dressed; they're arriving.",
+                    "morphemes": "aɡbã nɟesã ɡo ndu wo e-ɓá wo e-lé hɔ̃́ mɔ̃́ lê ɔ̃́ ma wú wo",
+                    "orthography": "Agban njésan go ndu wo ebhá, wo elé hɔ́n nmɔ́n lê ɔ́n ma wú wo.",
+                    "gloss": "Agban N'Guessan wash.pfv water 3pl prog-come 3pl prog-wave 2pl arm that 2pl fut see 3pl",
+                    "gloss_fr": "Agban N'Guessan laver eau 3pl prog-venir 3pl prog-agiter 2pl bras que 2pl AUX+FUT voir 3pl",
+                    "translation": "Agban N'Guessan is well-dressed; they're arriving.",
+                    "french": "Agban N'Guessan est bien habillé, ils arrivent. ",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -2470,13 +2470,13 @@
                 "story": "7",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "Listen to what I say",
-                    "morphemes": "á ɲɔ̃́ sálé ɔ̃́ ɲé mɛ̃ ɓwé",
-                    "orthography": "á yɔ́n sâlée ɔ́n yé mɛn bhwé",
-                    "gloss": "3.inan good that 2pl hear 1sg words",
-                    "gloss_fr": "pr bon que 2pl écouter poss.1sg mots",
-                    "translation": "Listen to what I say",
-                    "french": "écoutez ce que je dis",
+                    "utterance": "Don't hide,",
+                    "morphemes": "ɔ̃́ ne wá hrɔmã",
+                    "orthography": "Ɔ́n ne wá hrɔman",
+                    "gloss": "2pl neg run hide",
+                    "gloss_fr": "2pl neg courir cacher",
+                    "translation": "Don't hide,",
+                    "french": "Ne vous cachez pas,",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -2497,9 +2497,225 @@
                 "story": "7",
                 "sentence": {
                     "judgement": "",
+                    "utterance": "afterwards, you'll say that you didn't see anything that the Agbans did.",
+                    "morphemes": "a-ɟi o nɛ́ ɔ̃́ ne wu aɡbã jí-e",
+                    "orthography": "àji o nkɛ́ ɔ́n ne wu Agban yí-e.",
+                    "gloss": "cm-after   2pl neg see Agban thing-emph",
+                    "gloss_fr": "après   2pl neg voir Agban chose-emph",
+                    "translation": "afterwards, you'll say that you didn't see anything that the Agbans did.",
+                    "french": "après vous allez dire que vous n'avez rien vu de ce que les Agban ont fait.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "93",
+            "key": [
+                "8",
+                93,
+                "93"
+            ],
+            "value": {
+                "story": "8",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "I give glory to God",
+                    "morphemes": "mɛ̃ mó ɛ̃́ŋɡuhá se hwãnthe",
+                    "orthography": "mɛn mó ńguhá se Hwanthe",
+                    "gloss": "1sg take glory give lord",
+                    "gloss_fr": "1sg prendre gloire donner Dieu",
+                    "translation": "I give glory to God",
+                    "french": "Je rends gloire à Dieu",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "94",
+            "key": [
+                "8",
+                94,
+                "94"
+            ],
+            "value": {
+                "story": "8",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "I will praise him everyday",
+                    "morphemes": "á-ká khúmbrɛ̃ mã́ nri nɛ hwa",
+                    "orthography": "áká khúúnbrɛn maán nri nkɛ hwa",
+                    "gloss": "cm-time all fut praise 3sg part",
+                    "gloss_fr": "temps tout AUX+FUT louer obj.3sg part.tv",
+                    "translation": "I will praise him everyday",
+                    "french": "Je vais le louer chaque jour",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "95",
+            "key": [
+                "8",
+                95,
+                "95"
+            ],
+            "value": {
+                "story": "8",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "I give glory to God",
+                    "morphemes": "mɛ̃ mó ɛ̃́-ŋɡuhá se hwãnthe",
+                    "orthography": "mɛn mó ńguhá se Hwanthe",
+                    "gloss": "1sg take glory give lord",
+                    "gloss_fr": "1sg prendre gloire donner Dieu",
+                    "translation": "I give glory to God",
+                    "french": "Je rends gloire à Dieu",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "96",
+            "key": [
+                "8",
+                96,
+                "96"
+            ],
+            "value": {
+                "story": "8",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "I will praise him everyday",
+                    "morphemes": "á-ká khúmbrɛ̃ mã́ nri nɛ hwa",
+                    "orthography": "áká khúúnbrɛn maán nri nkɛ hwa",
+                    "gloss": "cm-time all fut praise 3sg part",
+                    "gloss_fr": "temps tout AUX+FUT louer obj.2sg part.tv",
+                    "translation": "I will praise him everyday",
+                    "french": "Je vais le louer chaque jour",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "97",
+            "key": [
+                "8",
+                97,
+                "97"
+            ],
+            "value": {
+                "story": "8",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "I want God to be my glory",
+                    "morphemes": "mɛ̃́ nɛ̃ lé hwãnthe olí mɛ̃ ɛ̃́-ŋɡuhá",
+                    "orthography": "mɛɛ́n nɛn lé Hwánthe olí mɛn nguhá",
+                    "gloss": "1sg want that lord cop 1sg glory",
+                    "gloss_fr": "1sg vouloir que Dieu  poss.1sg gloire",
+                    "translation": "I want God to be my glory",
+                    "french": "Je veux que le Seigneur soit ma gloire",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "98",
+            "key": [
+                "8",
+                98,
+                "98"
+            ],
+            "value": {
+                "story": "8",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "You are the good people",
+                    "morphemes": "hɔ̃́ khɛ̃́ ɔ̃́ ni thɛ̃-ɓwá-mã́",
+                    "orthography": "hɔ́n khɛ́n ɔ́n ni nthɛ́nbhwámán",
+                    "gloss": "2pl rel 2pl cop good.person",
+                    "gloss_fr": " que 2pl  débonnaires",
+                    "translation": "You are the good people",
+                    "french": "Vous qui êtes des débonnaires",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "99",
+            "key": [
+                "8",
+                99,
+                "99"
+            ],
+            "value": {
+                "story": "8",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "Listen to what I say",
+                    "morphemes": "á ɲɔ̃́ sálé ɔ̃́ ɲé mɛ̃ ɓwé",
+                    "orthography": "á yɔ́n sâlée ɔ́n yé mɛn bhwé",
+                    "gloss": "3.inan good that 2pl hear 1sg words",
+                    "gloss_fr": "pr bon que 2pl écouter poss.1sg mots",
+                    "translation": "Listen to what I say",
+                    "french": "écoutez ce que je dis",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "100",
+            "key": [
+                "8",
+                100,
+                "100"
+            ],
+            "value": {
+                "story": "8",
+                "sentence": {
+                    "judgement": "",
                     "utterance": "and be joyous",
                     "morphemes": "á ɲɔ̃́ sálé ɔ̃́ ní phɔ́há",
-                    "orthography": "á yɔn sâlée ɔ́n ní phɔ̂há",
+                    "orthography": "á yɔn sâlée ɔ́n ní phɔ̂há",
                     "gloss": "3.inan good that 2pl cop happiness",
                     "gloss_fr": "pr bon que 2pl etre joie",
                     "translation": "and be joyous",

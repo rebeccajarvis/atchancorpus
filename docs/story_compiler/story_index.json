@@ -7,7 +7,8 @@
             "value": {
                 "name": "\"God is good\" song",
                 "name_fr": "\"Dieu est bon\" chanson",
-                "author": "Madame Rosalie N'Diadan"
+                "author": "Madame Rosalie N'Diadan",
+                "link": "https://youtu.be/ws16NV4VDEE"
             }
         },
         {
@@ -15,8 +16,9 @@
             "key": "1",
             "value": {
                 "name": "Tchagba Dogba Super song",
-                "name_fr": "Tchagba Dogma Super chanson",
-                "author": "Madame Sidonie"
+                "name_fr": "Tchagba Dogba Super chanson",
+                "author": "Madame Sidonie Mobio",
+                "link": "https://www.youtube.com/embed/on-h1WJdVog?si=M7Pn3f_dMED5cZZI"
             }
         },
         {
@@ -25,7 +27,8 @@
             "value": {
                 "name": "Palm Sunday song",
                 "name_fr": "Fête des Rameaux chanson",
-                "author": "Madame Léocadie Guébeapo Yapi"
+                "author": "Madame Léocadie Guébeapo Yapi",
+                "link": "https://www.youtube.com/embed/COiCM6iR_RM"
             }
         },
         {
@@ -34,7 +37,8 @@
             "value": {
                 "name": "Blessoué Djéhou song",
                 "name_fr": "Blessoué Djéhou chanson",
-                "author": "Madame Adèle Kossike"
+                "author": "Madame Adèle Kossike",
+                "link": "https://www.youtube.com/embed/4lyNJMtChto?si=h3l8-5WsdBUaspDX"
             }
         },
         {
@@ -43,16 +47,18 @@
             "value": {
                 "name": "Áká khúúnbrɛn song",
                 "name_fr": "Áká khúúnbrɛn chanson",
-                "author": "Madame Adèle Kossike"
+                "author": "Madame Adèle Kossike",
+                "link": "https://www.youtube.com/embed/8_yJMQUz58g?si=detkB6AKdV-MlTUS"
             }
         },
         {
             "id": "5",
             "key": "5",
             "value": {
-                "name": "FHB song",
-                "name_fr": "FHB song [FR]",
-                "author": "author"
+                "name": "Félix Houphouêt-Boigny funeral song",
+                "name_fr": "Chanson Félix Houphouët-Boigny",
+                "author": "Madame Evelyne Koutouan",
+                "link": "https://www.youtube.com/embed/4sOlTbSyNms?si=aR0jEEstTqY9uMtT"
             }
         },
         {
@@ -61,7 +67,8 @@
             "value": {
                 "name": "Áyí brɛn song",
                 "name_fr": "Áyí brɛn chanson",
-                "author": "Madame Cynthia N’Diadan"
+                "author": "Madame Cynthia N’Diadan",
+                "link": "https://www.youtube.com/embed/AhBHbdQGyjo?si=U_58-XJOl2UVbjCT"
             }
         },
         {
@@ -70,7 +77,8 @@
             "value": {
                 "name": "N’Cho Norbert song",
                 "name_fr": "N’Cho Norbert chanson",
-                "author": "Madame Adèle Kossike"
+                "author": "Madame Adèle Kossike",
+                "link": "https://www.youtube.com/embed/KVvhq1TBMpA?si=_Q0ZDgQOYSQDJJdq"
             }
         },
         {
@@ -79,7 +87,8 @@
             "value": {
                 "name": "Glory to God song",
                 "name_fr": "Gloire à Dieu chanson",
-                "author": "Madame Adele Kossike"
+                "author": "Madame Adele Kossike",
+                "link": "https://www.youtube.com/embed/ucdmAiHPD3I?si=0vZ0Miq-0EjsMGGj"
             }
         }
     ]

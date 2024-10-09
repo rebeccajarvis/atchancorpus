@@ -1,5 +1,5 @@
 {
-    "total_rows": 101,
+    "total_rows": 196,
     "offset": 0,
     "rows": [
         {
@@ -2119,13 +2119,13 @@
                 "story": "7",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "The Tchaman group is present,",
-                    "morphemes": "cá-mã́ ɓrɛ hɛ̃́ khwa lé",
-                    "orthography": "Cámán bhrɛ hɛ́n khwa lé",
-                    "gloss": "Tchaman-pl unite pass be.present.pl part",
-                    "gloss_fr": "Tchamans réunisser passer être.present v.part",
-                    "translation": "The Tchaman group is present,",
-                    "french": "Le groupe Atchan est present, ",
+                    "utterance": "(story opening phrase)",
+                    "morphemes": "áɡbaɡbae",
+                    "orthography": "Ágbagbaále.",
+                    "gloss": "",
+                    "gloss_fr": "",
+                    "translation": "(story opening phrase)",
+                    "french": "(phrase d'ouverture de l'histoire)",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -2146,13 +2146,13 @@
                 "story": "7",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "they are numerous.",
-                    "morphemes": "cá-mã́ ɡreɓɛ ɓrɛ hɛ̃́ khwa lé",
-                    "orthography": "Cámán grebhɛ bhrɛ hɛ́n khwa lé,",
-                    "gloss": "Tchaman-pl forty unite pass be.present.pl part",
-                    "gloss_fr": "Tchamans quarante réunisser passer être.present v.part",
-                    "translation": "they are numerous.",
-                    "french": "ils sont nombreux.",
+                    "utterance": "We're listening. ",
+                    "morphemes": "wo e-jé(tɛ)",
+                    "orthography": "Wo eyé(tɛ).",
+                    "gloss": " ",
+                    "gloss_fr": " ",
+                    "translation": "We're listening. ",
+                    "french": "On écoute.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -2173,13 +2173,13 @@
                 "story": "7",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "The large number of Tchagbas,",
-                    "morphemes": "o krãmã cháɡba pásá ɡreɓɛ",
-                    "orthography": "o kranman Chágba pasá grebhɛ",
-                    "gloss": "pro.indef say Tchagba audience forty",
-                    "gloss_fr": "1pl dire Tchagba public quarante",
-                    "translation": "The large number of Tchagbas,",
-                    "french": "Le grand nombre des Tchagbas, ",
+                    "utterance": "One day,",
+                    "morphemes": "   ",
+                    "orthography": "Á li ácíbhi bɛn.",
+                    "gloss": "   ",
+                    "gloss_fr": "   ",
+                    "translation": "One day,",
+                    "french": "Un jour,",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -2200,13 +2200,13 @@
                 "story": "7",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "the door has been open to let them through.",
-                    "morphemes": "phwã si se lo ɓa hɛ̃-e",
-                    "orthography": "phwan si se lo bha hɛn-e,",
-                    "gloss": "open.pfv door give.pfv 1pl come pass-emph",
-                    "gloss_fr": "ouvrir porte donner 1pl venir passer-emph",
-                    "translation": "the door has been open to let them through.",
-                    "french": "on a ouvert les portes pour laisser le passage.",
+                    "utterance": "a woman,",
+                    "morphemes": " ",
+                    "orthography": "Yipɔman bɛn,",
+                    "gloss": " ",
+                    "gloss_fr": " ",
+                    "translation": "a woman,",
+                    "french": "une femme,",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -2227,13 +2227,13 @@
                 "story": "7",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "Let's go look for N'Cho Norbert; he will come through.",
-                    "morphemes": "o do lo nʃɔ nɔbɛ ã mã́ hɛ̃́-ã",
-                    "orthography": "o do lo Ncho Norbert an man hɛ́n-an.",
-                    "gloss": "pro.indef bring go N'Cho Norbert 3sg fut pass-emph",
-                    "gloss_fr": "1pl apporter aller N'Cho Norbert 3sg AUX+FUT passer-emph",
-                    "translation": "Let's go look for N'Cho Norbert; he will come through.",
-                    "french": "Allons-y chercher N'Cho Norbert, il va passer. ",
+                    "utterance": "there was a famine in the village.",
+                    "morphemes": "     ",
+                    "orthography": "á bha ákhúbhɛ́ lókɔn, áko édi.",
+                    "gloss": "     ",
+                    "gloss_fr": "     ",
+                    "translation": "there was a famine in the village.",
+                    "french": "il y avait une famine dans le village. ",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -2254,13 +2254,13 @@
                 "story": "7",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "We've come out; here we are.",
-                    "morphemes": "lo thãndi lo e-ɓá nɛ̃ lo nɛ̃ lo",
-                    "orthography": "Lo thandi lo ebhá, nɛn lo nɛn lo,",
-                    "gloss": "1pl come.out.pfv 1pl prog-come voilà 1pl voilà 1pl",
-                    "gloss_fr": "1pl sortir 1pl prog-venir voilà 1pl voilà 1pl",
-                    "translation": "We've come out; here we are.",
-                    "french": "Nous sommes sortis, voilà.",
+                    "utterance": "The children were dying, so they would throw them away in the bush.",
+                    "morphemes": "       ",
+                    "orthography": "Nmyɔ́ khu, wo khwɛn wo, wo éfɔnka bu.",
+                    "gloss": "       ",
+                    "gloss_fr": "       ",
+                    "translation": "The children were dying, so they would throw them away in the bush.",
+                    "french": "Les enfants, on les jete en brousse. ",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -2281,13 +2281,13 @@
                 "story": "7",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "We carried our stuff; here we are.",
-                    "morphemes": "lo ha jí wo e-ɓá nɛ̃ lo nɛ̃ lo",
-                    "orthography": "lo ha yí wo ebhá, nɛn lo nɛn lo,",
-                    "gloss": "1pl carry.pfv thing 3pl prog-come voilà 1pl voilà 1pl",
-                    "gloss_fr": "1pl charger chose 3pl prog-venir voilà 1pl voilà 1pl",
-                    "translation": "We carried our stuff; here we are.",
-                    "french": "Nous avons chargé des baggages, voilà.",
+                    "utterance": "The famine lasted and lasted.",
+                    "morphemes": "    ",
+                    "orthography": "Áko di kábrɛn kábrɛn kábrɛn.",
+                    "gloss": "    ",
+                    "gloss_fr": "    ",
+                    "translation": "The famine lasted and lasted.",
+                    "french": "Il a eu la famine jusqu'à.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -2308,13 +2308,13 @@
                 "story": "7",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "The Agban girls are well-dressed; they are arriving.",
-                    "morphemes": "aɡbã mje-ɓjɔ ɡo ndu wo e-ɓá wo e-lé hɔ̃́ mɔ̃́ lê ɔ̃́ ma wú wo",
-                    "orthography": "Agban nmyebhyɔ go ndu, wo ebhá, wo elé hɔ́n nmɔ́n lê ɔ́n ma wú wo.",
-                    "gloss": "Agban woman.pl-child wash.pfv water 3pl prog-come 3pl prog-wave 2pl arm that 2pl fut see 3pl",
-                    "gloss_fr": "Agban filles laver eau 3pl prog-venir 3pl prog-agiter 2pl bras que 2pl AUX+FUT voir 3pl",
-                    "translation": "The Agban girls are well-dressed; they are arriving.",
-                    "french": "Les filles Agban sont bien habillées, elles arrivent. ",
+                    "utterance": "They took the child to go throw him away.",
+                    "morphemes": "      ",
+                    "orthography": "Wo hɔn yipɔ lókɔn, wo lo fɔnka.",
+                    "gloss": "      ",
+                    "gloss_fr": "      ",
+                    "translation": "They took the child to go throw him away.",
+                    "french": "Ils ont pris l'enfant pour aller jeter.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -2335,13 +2335,13 @@
                 "story": "7",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "Don't hide,",
-                    "morphemes": "ɔ̃́ ne wá hrɔmã",
-                    "orthography": "Ɔ́n ne wá hrɔman",
-                    "gloss": "2pl neg run hide",
-                    "gloss_fr": "2pl neg courir cacher",
-                    "translation": "Don't hide,",
-                    "french": "Ne vous cachez pas,",
+                    "utterance": "A man and his wife took their child into a car.",
+                    "morphemes": "         ",
+                    "orthography": "Yipɔnthe lé mɛ́n bhya ɔ́nmɔn, wo hɔn ka ahrân mɛn.",
+                    "gloss": "         ",
+                    "gloss_fr": "         ",
+                    "translation": "A man and his wife took their child into a car.",
+                    "french": "Un monsieur et sa femme ont pris leur enfant dans une voiture.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -2362,13 +2362,13 @@
                 "story": "7",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "afterwards, you'll saw that you didn't see anything that the Agbans did.",
-                    "morphemes": "a-ɟi o nɛ́ ɔ̃́ ne wu aɡbã jí-e",
-                    "orthography": "àji o nkɛ́ ɔ́n ne wu Agban yí-e.",
-                    "gloss": "cm-after   2pl neg see Agban thing-emph",
-                    "gloss_fr": "après   2pl neg voir Agban chose-emph",
-                    "translation": "afterwards, you'll saw that you didn't see anything that the Agbans did.",
-                    "french": "après vous allez dire que vous n'avez rien vu de ce que les Agban ont fait. ",
+                    "utterance": "They took the child into the middle of the bush.",
+                    "morphemes": "      ",
+                    "orthography": "Wo lo bhro kábrɛn wo di ákwámɛn.",
+                    "gloss": "      ",
+                    "gloss_fr": "      ",
+                    "translation": "They took the child into the middle of the bush.",
+                    "french": "Ils ont pris l'enfant dans le milieu de la brousse.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -2389,13 +2389,13 @@
                 "story": "7",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "We're well-dressed, we're arriving; here we are.",
-                    "morphemes": "lo ɡo ndu lo e-ɓá nɛ̃ lo nɛ̃ lo",
-                    "orthography": "Lo go ndu lo ebhá, nɛn lo nɛn lo",
-                    "gloss": "1pl wash.pfv water 1pl prog-come voilà 1pl voilà 1pl",
-                    "gloss_fr": "1pl laver eau 1pl prog-venir voilà 1pl voilà 1pl",
-                    "translation": "We're well-dressed, we're arriving; here we are.",
-                    "french": "Nous sommes bien habillés, nous arrivons, voilà. ",
+                    "utterance": "When they threw away the child,",
+                    "morphemes": "         ",
+                    "orthography": "Wo hɔn nkɛ fɔnka bu, wo khɛ́n wo fɔnka bu",
+                    "gloss": "         ",
+                    "gloss_fr": "         ",
+                    "translation": "When they threw away the child,",
+                    "french": "Quand ils ont jété l'enfant,",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -2416,13 +2416,13 @@
                 "story": "7",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "We've carried our stuff; here we are.",
-                    "morphemes": "lo ha jí wo e-ɓá nɛ̃ lo nɛ̃ lo",
-                    "orthography": "lo ha yí wo ebhá, nɛn lo nɛn lo,",
-                    "gloss": "1pl carry.pfv thing 3pl prog-come voilà 1pl voilà 1pl",
-                    "gloss_fr": "1pl charger chose 3pl prog-venir voilà 1pl voilà 1pl",
-                    "translation": "We've carried our stuff; here we are.",
-                    "french": "Nous avons chargé des baggages, voilà. ",
+                    "utterance": "the woman started crying.",
+                    "morphemes": "    ",
+                    "orthography": "yipɔman lókɔn, an thɔ́n nhɛ́n-ndu.",
+                    "gloss": "    ",
+                    "gloss_fr": "    ",
+                    "translation": "the woman started crying.",
+                    "french": "la femme a commencé à pleurer.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -2443,13 +2443,13 @@
                 "story": "7",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "Agban N'Guessan is well-dressed; they're arriving.",
-                    "morphemes": "aɡbã nɟesã ɡo ndu wo e-ɓá wo e-lé hɔ̃́ mɔ̃́ lê ɔ̃́ ma wú wo",
-                    "orthography": "Agban njésan go ndu wo ebhá, wo elé hɔ́n nmɔ́n lê ɔ́n ma wú wo.",
-                    "gloss": "Agban N'Guessan wash.pfv water 3pl prog-come 3pl prog-wave 2pl arm that 2pl fut see 3pl",
-                    "gloss_fr": "Agban N'Guessan laver eau 3pl prog-venir 3pl prog-agiter 2pl bras que 2pl AUX+FUT voir 3pl",
-                    "translation": "Agban N'Guessan is well-dressed; they're arriving.",
-                    "french": "Agban N'Guessan est bien habillé, ils arrivent. ",
+                    "utterance": "It's her little baby that they took and threw away in the bush.",
+                    "morphemes": "        ",
+                    "orthography": "Mɛ́n bhipwɛ chɛbhri nɔ̂n a hɔn nkɛ fonka bu.",
+                    "gloss": "        ",
+                    "gloss_fr": "        ",
+                    "translation": "It's her little baby that they took and threw away in the bush.",
+                    "french": "C'est son pétit bébé qu'ils ont pris pour jeter en brousse. ",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -2470,13 +2470,13 @@
                 "story": "7",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "Don't hide,",
-                    "morphemes": "ɔ̃́ ne wá hrɔmã",
-                    "orthography": "Ɔ́n ne wá hrɔman",
-                    "gloss": "2pl neg run hide",
-                    "gloss_fr": "2pl neg courir cacher",
-                    "translation": "Don't hide,",
-                    "french": "Ne vous cachez pas,",
+                    "utterance": "Her husband said, \"there's no food, you said to take the child to throw him away.",
+                    "morphemes": "                     ",
+                    "orthography": "Mɛ́n ca lɛ lê \"o, lo káne á le pɛ khɛ́n elí, ɛ lɛ lê o hɔn hɛ bhi lo fɔnka bu.\"",
+                    "gloss": "                     ",
+                    "gloss_fr": "                     ",
+                    "translation": "Her husband said, \"there's no food, you said to take the child to throw him away.",
+                    "french": "Son mari a dit, 'il y a pas la nourriture, et puis tu dis, prends l'enfant pour aller jeter.'",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -2497,6 +2497,2571 @@
                 "story": "7",
                 "sentence": {
                     "judgement": "",
+                    "utterance": "\"There is a famine.\"",
+                    "morphemes": "    ",
+                    "orthography": "Áko ehɔ́n mɛn lo káne.",
+                    "gloss": "    ",
+                    "gloss_fr": "    ",
+                    "translation": "\"There is a famine.\"",
+                    "french": "\"Il y a la famine.\" ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "93",
+            "key": [
+                "7",
+                93,
+                "93"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "Her husband asked for forgiveness, and they left.",
+                    "morphemes": "           ",
+                    "orthography": "Ló mɛ́n ca a la ne, wo wa hrân mɛn, wo bha.",
+                    "gloss": "           ",
+                    "gloss_fr": "           ",
+                    "translation": "Her husband asked for forgiveness, and they left.",
+                    "french": "Son mari a demandé pardon jusqu'à ils sont partis.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "94",
+            "key": [
+                "7",
+                94,
+                "94"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "When they arrived home,",
+                    "morphemes": "     ",
+                    "orthography": "Wo ka a bha di bháthó,",
+                    "gloss": "     ",
+                    "gloss_fr": "     ",
+                    "translation": "When they arrived home,",
+                    "french": "Quand ils sont arrivés à la maison,",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "95",
+            "key": [
+                "7",
+                95,
+                "95"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "the famine continued, and spots started to appear on everyone's bodies.",
+                    "morphemes": "          ",
+                    "orthography": "ló pán áko édi khúbhɛ́, nphyó ka sé lephan khúúnbrɛn phɔ̂.",
+                    "gloss": "          ",
+                    "gloss_fr": "          ",
+                    "translation": "the famine continued, and spots started to appear on everyone's bodies.",
+                    "french": "il y a la famine, et il y a les boutons que commencement à sortir sur tout le monde. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "96",
+            "key": [
+                "7",
+                96,
+                "96"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "There was no food to eat.",
+                    "morphemes": "      ",
+                    "orthography": "Á le pɛ nnɛn khɛ́n wo elí.",
+                    "gloss": "      ",
+                    "gloss_fr": "      ",
+                    "translation": "There was no food to eat.",
+                    "french": "Il n'y avait pas de nourriture pour manger.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "97",
+            "key": [
+                "7",
+                97,
+                "97"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "If you find leaves, you cut them to eat.",
+                    "morphemes": "        ",
+                    "orthography": "Ńbye ɛ gɛ pán, thá nɔ̂n ɛ tha o.",
+                    "gloss": "        ",
+                    "gloss_fr": "        ",
+                    "translation": "If you find leaves, you cut them to eat.",
+                    "french": "Les feuilles, quand tu trouves, tu coupes pour manger. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "98",
+            "key": [
+                "7",
+                98,
+                "98"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "One day, a hunter, he said,",
+                    "morphemes": "        ",
+                    "orthography": "Nthé, ácíbhi bɛn, kúcɛ́n lókɔn, mɛ́n ń nɛ lê",
+                    "gloss": "        ",
+                    "gloss_fr": "        ",
+                    "translation": "One day, a hunter, he said,",
+                    "french": "Un jour, un chasseur, il a dit,",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "99",
+            "key": [
+                "7",
+                99,
+                "99"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "\"I'm going to go to the bush, and if I find game, I will bring it home.\"",
+                    "morphemes": "            ",
+                    "orthography": "'Màán no bithe, ka sé mɛn gɛ nnán bɛn, mɛn hɔ́n bhá bháthó.\"",
+                    "gloss": "            ",
+                    "gloss_fr": "            ",
+                    "translation": "\"I'm going to go to the bush, and if I find game, I will bring it home.\"",
+                    "french": "\"Je vais aller aux champs, s'il y a une viande, je vais envoyer à la maison.\"",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "100",
+            "key": [
+                "7",
+                100,
+                "100"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The boy (who had been thrown away) became a man. ",
+                    "morphemes": "         ",
+                    "orthography": "Lo ka khɛ́n ń no, yipɔsɛ lókɔn, ń di sɛ.",
+                    "gloss": "         ",
+                    "gloss_fr": "         ",
+                    "translation": "The boy (who had been thrown away) became a man. ",
+                    "french": "Le garçon, qu'ils avaient jeté, est devenu monsieur. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "101",
+            "key": [
+                "7",
+                101,
+                "101"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "There was a white man working there.",
+                    "morphemes": "        ",
+                    "orthography": "Nthé lókɔn bɛn gángán nɔ̂n a bha etɛ́ yí.",
+                    "gloss": "        ",
+                    "gloss_fr": "        ",
+                    "translation": "There was a white man working there.",
+                    "french": "Il y a un blanc qui est en train de travailler.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "102",
+            "key": [
+                "7",
+                102,
+                "102"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The white man saw him. ",
+                    "morphemes": "     ",
+                    "orthography": "Gángán nɔ̂n a wu nkɛ o,",
+                    "gloss": "     ",
+                    "gloss_fr": "     ",
+                    "translation": "The white man saw him. ",
+                    "french": "Le blanc l'a vu,",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "103",
+            "key": [
+                "7",
+                103,
+                "103"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "the white man saw him.",
+                    "morphemes": "     ",
+                    "orthography": "gángán nɔ̂n a wu nkɛ o.",
+                    "gloss": "     ",
+                    "gloss_fr": "     ",
+                    "translation": "the white man saw him.",
+                    "french": "le blanc l'a vu. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "104",
+            "key": [
+                "7",
+                104,
+                "104"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "He asked him something in French.",
+                    "morphemes": "     ",
+                    "orthography": "án mi nkɛ bhwe fránso mɛn.",
+                    "gloss": "     ",
+                    "gloss_fr": "     ",
+                    "translation": "He asked him something in French.",
+                    "french": "Il lui a demandé quelque chose en français. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "105",
+            "key": [
+                "7",
+                105,
+                "105"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "He doesn't understand.",
+                    "morphemes": "   ",
+                    "orthography": "An nɛ́n yé a.",
+                    "gloss": "   ",
+                    "gloss_fr": "   ",
+                    "translation": "He doesn't understand.",
+                    "french": "Il comprend pas. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "106",
+            "key": [
+                "7",
+                106,
+                "106"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "He was raised by animals,",
+                    "morphemes": "       ",
+                    "orthography": "Ka sé ńbranmán nɔ̂n a gbɛ nkɛ o,",
+                    "gloss": "       ",
+                    "gloss_fr": "       ",
+                    "translation": "He was raised by animals,",
+                    "french": "Ce sont les animaux que l'ont élevé,",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "107",
+            "key": [
+                "7",
+                107,
+                "107"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "so he only understands the language of animals.",
+                    "morphemes": "     ",
+                    "orthography": "nthé ńbranmán canmán an yé o.",
+                    "gloss": "     ",
+                    "gloss_fr": "     ",
+                    "translation": "so he only understands the language of animals.",
+                    "french": "donc c'est la langue des animaux qu'il comprend. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "108",
+            "key": [
+                "7",
+                108,
+                "108"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The white man left and came back.",
+                    "morphemes": "        ",
+                    "orthography": "Nthé wo ka khɛ́n gángán bha ne, gángán lo.",
+                    "gloss": "        ",
+                    "gloss_fr": "        ",
+                    "translation": "The white man left and came back.",
+                    "french": "Le blanc est parti, et il est revenu. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "109",
+            "key": [
+                "7",
+                109,
+                "109"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The white man built a house for him.",
+                    "morphemes": "           ",
+                    "orthography": "Ka sé wo le wu gángán, a than nkhú se nkɛ o.",
+                    "gloss": "           ",
+                    "gloss_fr": "           ",
+                    "translation": "The white man built a house for him.",
+                    "french": "Le blanc a construit sa maison. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "110",
+            "key": [
+                "7",
+                110,
+                "110"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The white man bought him a car, everything.",
+                    "morphemes": "     ",
+                    "orthography": "Nthé gángán phɛ domobi, áyí khúúnbrɛn.",
+                    "gloss": "     ",
+                    "gloss_fr": "     ",
+                    "translation": "The white man bought him a car, everything.",
+                    "french": "Le blanc a acheté une voiture, toutes les choses. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "111",
+            "key": [
+                "7",
+                111,
+                "111"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The white man brought him (to Europe), and he started working.",
+                    "morphemes": "           ",
+                    "orthography": "Nthé ń do nkɛ lo wo, án do nkɛ an ní júmán.",
+                    "gloss": "           ",
+                    "gloss_fr": "           ",
+                    "translation": "The white man brought him (to Europe), and he started working.",
+                    "french": "Le blanc est parti avec le monsieur, il a commencé a travailler.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "112",
+            "key": [
+                "7",
+                112,
+                "112"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "Before he left, all the animals came to the forest.",
+                    "morphemes": "             ",
+                    "orthography": "Avant khɛ́n a do nkɛ ń ni júmán, ńbranmán khúúnbrɛn a bha kan gotho.",
+                    "gloss": "             ",
+                    "gloss_fr": "             ",
+                    "translation": "Before he left, all the animals came to the forest.",
+                    "french": "Avant de partir, tous les animaux sont venus à la forêt. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "113",
+            "key": [
+                "7",
+                113,
+                "113"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "When he shouted out,",
+                    "morphemes": "    ",
+                    "orthography": "Mɛ́n ka a lú khwɛ́,",
+                    "gloss": "    ",
+                    "gloss_fr": "    ",
+                    "translation": "When he shouted out,",
+                    "french": "Quand il a crié,",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "114",
+            "key": [
+                "7",
+                114,
+                "114"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "he called all of the animals,",
+                    "morphemes": "       ",
+                    "orthography": "wo khúúnbrɛn án che wo lo ebhá lé,",
+                    "gloss": "       ",
+                    "gloss_fr": "       ",
+                    "translation": "he called all of the animals,",
+                    "french": "il a appelé tous les animaux,",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "115",
+            "key": [
+                "7",
+                115,
+                "115"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "to say that someone was coming to take him.",
+                    "morphemes": "       ",
+                    "orthography": "lephan bɛn nɔ̂n ebhá ehɔ́n nkɛ ɔ́nmɔn lo.",
+                    "gloss": "       ",
+                    "gloss_fr": "       ",
+                    "translation": "to say that someone was coming to take him.",
+                    "french": "pour dire que quelqu'un vient lui prendre pour partir. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "116",
+            "key": [
+                "7",
+                116,
+                "116"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "All of the animals came.",
+                    "morphemes": "     ",
+                    "orthography": "Ńbranmán khúúnbrɛn ka khɛ́n a bha,",
+                    "gloss": "     ",
+                    "gloss_fr": "     ",
+                    "translation": "All of the animals came.",
+                    "french": "Tous les animaux sont venus. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "117",
+            "key": [
+                "7",
+                117,
+                "117"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "They asked the man, \"what's going on?\"",
+                    "morphemes": "          ",
+                    "orthography": "nthé wo ébhi nkɛ, wo ebhí sɛ bhi lókɔn ebí ɛ?",
+                    "gloss": "          ",
+                    "gloss_fr": "          ",
+                    "translation": "They asked the man, \"what's going on?\"",
+                    "french": "",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "118",
+            "key": [
+                "7",
+                118,
+                "118"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "He said, \"It's the man there who came and built me a house.\"",
+                    "morphemes": "             ",
+                    "orthography": "Mɛ́n ń nɛ \"yipɔnthe lókɔn nɔ̂n a bha nɔ̂n mɛ́n nɔ̂n ń than khú.\"",
+                    "gloss": "             ",
+                    "gloss_fr": "             ",
+                    "translation": "He said, \"It's the man there who came and built me a house.\"",
+                    "french": "Il a dit, \"C'est le monsieur-là qui est venu, qui a construit ma maison.\"",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "119",
+            "key": [
+                "7",
+                119,
+                "119"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "\"He came to look for me to take me with him.\"",
+                    "morphemes": "        ",
+                    "orthography": "\"Nthé nɛ bha lê nkɛ hɔ́n mɛn ɔ́nmɔn lo.\"",
+                    "gloss": "        ",
+                    "gloss_fr": "        ",
+                    "translation": "\"He came to look for me to take me with him.\"",
+                    "french": "\"Il est venu me chercher pour partir.\"",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "120",
+            "key": [
+                "7",
+                120,
+                "120"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "He said \"no.\"",
+                    "morphemes": "  ",
+                    "orthography": "Mɛ́n lɛ \"non\".",
+                    "gloss": "  ",
+                    "gloss_fr": "  ",
+                    "translation": "He said \"no.\"",
+                    "french": "Il a dit \"non\".",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "121",
+            "key": [
+                "7",
+                121,
+                "121"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The animals were angry; the lion jumped up and down. ",
+                    "morphemes": "           ",
+                    "orthography": "Ńbranmán khúúnbrɛn, wo ka wo tɛ, lion lo tho an má thé.",
+                    "gloss": "           ",
+                    "gloss_fr": "           ",
+                    "translation": "The animals were angry; the lion jumped up and down. ",
+                    "french": "Les animaux sont fâchés; le lion saute y descend. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "122",
+            "key": [
+                "7",
+                122,
+                "122"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "\"You know the child?\" he asked, \"and you came here to take him with you?\"",
+                    "morphemes": "          ",
+                    "orthography": "\"Wú yipɔ lókɔn ɔ́n yɛn?\" án mi nkɛ, \"khɛ́n wo bha?\"",
+                    "gloss": "          ",
+                    "gloss_fr": "          ",
+                    "translation": "\"You know the child?\" he asked, \"and you came here to take him with you?\"",
+                    "french": "\"Est-ce que vous connaissez l'enfant?\" il a demandé, \"et puis vous êtes venus le prendre pour partir?\"",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "123",
+            "key": [
+                "7",
+                123,
+                "123"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "\"No, he is our child, not yours.\"",
+                    "morphemes": "       ",
+                    "orthography": "\"Hóò, wo bhi, wo bhi éle hɔ́n bhi.\"",
+                    "gloss": "       ",
+                    "gloss_fr": "       ",
+                    "translation": "\"No, he is our child, not yours.\"",
+                    "french": "\"Non, c'est nous notre enfant, c'est pas votre enfant.\"",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "124",
+            "key": [
+                "7",
+                124,
+                "124"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The white man said, \"no, this child is not yours.\"",
+                    "morphemes": "           ",
+                    "orthography": "Gángán lɛ \"non, yipɔ lókɔn éle hɔ́n bhi\", mɛ́n ń nɛ \"non\".",
+                    "gloss": "           ",
+                    "gloss_fr": "           ",
+                    "translation": "The white man said, \"no, this child is not yours.\"",
+                    "french": "Le blanc a dit, \"non, l'enfant-là, c'est pas votre enfant.\"",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "125",
+            "key": [
+                "7",
+                125,
+                "125"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "He said, \"I came to ask permission of you for him to leave with me.\"",
+                    "morphemes": "                ",
+                    "orthography": "Wo ebhá, wo esán hɔ́n, \"Ka sé ɔ́n gɛ hɔn nkɛ sé lo hɔn nkɛ ɔ́nmɔn lo.\"",
+                    "gloss": "                ",
+                    "gloss_fr": "                ",
+                    "translation": "He said, \"I came to ask permission of you for him to leave with me.\"",
+                    "french": "Il a dit, \"Je suis venu demander la permission pour le prendre partir avec moi.\"",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "126",
+            "key": [
+                "7",
+                126,
+                "126"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The lion said, \"no, the child is going to stay here\", he himself will watch over the child.",
+                    "morphemes": "          ",
+                    "orthography": "Mɛ́n lɛ, \"ho, an ché krɛnne\", mɛ́n-nbrɛn an mán wú nkɛ.",
+                    "gloss": "          ",
+                    "gloss_fr": "          ",
+                    "translation": "The lion said, \"no, the child is going to stay here\", he himself will watch over the child.",
+                    "french": "Le lion dit, \"non, l'enfant va rester ici\", lui-même il va surveiller l'enfant. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "127",
+            "key": [
+                "7",
+                127,
+                "127"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The hunter, he stayed there until he got married.",
+                    "morphemes": "          ",
+                    "orthography": "Kúcɛ́n lókɔn, ń ma ne kábrɛn kábrɛn kábrɛn, ń phɛn bhye.",
+                    "gloss": "          ",
+                    "gloss_fr": "          ",
+                    "translation": "The hunter, he stayed there until he got married.",
+                    "french": "Le chasseur, il a resté là-bas jusqu'en il s'est marié. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "128",
+            "key": [
+                "7",
+                128,
+                "128"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "He respects people now, he got married.",
+                    "morphemes": "      ",
+                    "orthography": "Nthé án ji lephan, ń phɛn bhye.",
+                    "gloss": "      ",
+                    "gloss_fr": "      ",
+                    "translation": "He respects people now, he got married.",
+                    "french": "Il respecte les hommes, il s'est marié. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "129",
+            "key": [
+                "7",
+                129,
+                "129"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "Before getting married, he informed the animals. ",
+                    "morphemes": "        ",
+                    "orthography": "Avant que an mphɛn bhye lɔ, ń kranman ńbranmán.",
+                    "gloss": "        ",
+                    "gloss_fr": "        ",
+                    "translation": "Before getting married, he informed the animals. ",
+                    "french": "Avant de se marier, il a informé les animaux. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "130",
+            "key": [
+                "7",
+                130,
+                "130"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The animals gave him permission.",
+                    "morphemes": "      ",
+                    "orthography": "Ńbranmán lɛ lê wo se nkɛ mɔ́nsi.",
+                    "gloss": "      ",
+                    "gloss_fr": "      ",
+                    "translation": "The animals gave him permission.",
+                    "french": "Les animaux lui ont donné la permission. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "131",
+            "key": [
+                "7",
+                131,
+                "131"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The hunter, he stopped to look around at everything.",
+                    "morphemes": "         ",
+                    "orthography": "Kúcɛ́n lókɔn, ń ya, ń ye ló khúúnbrɛn, an wú.",
+                    "gloss": "         ",
+                    "gloss_fr": "         ",
+                    "translation": "The hunter, he stopped to look around at everything.",
+                    "french": "Le chasseur, il est arrêté, il était en train de regarder tout. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "132",
+            "key": [
+                "7",
+                132,
+                "132"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "When he was done looking, he went home, he went to the village.",
+                    "morphemes": "         ",
+                    "orthography": "Lóka ń wu phu, ń no bháthó, ń no khúbhɛ́.",
+                    "gloss": "         ",
+                    "gloss_fr": "         ",
+                    "translation": "When he was done looking, he went home, he went to the village.",
+                    "french": "Quand il est fini, il est parti à la maison, il est allé au village. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "133",
+            "key": [
+                "7",
+                133,
+                "133"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "He went to the village, to his mother's house.",
+                    "morphemes": "            ",
+                    "orthography": "Mɛ́n nɔ̂n ń no khúbhɛ́ kábrɛn kábrɛn kábrɛn, ń di mɛ́n man bháthó.",
+                    "gloss": "            ",
+                    "gloss_fr": "            ",
+                    "translation": "He went to the village, to his mother's house.",
+                    "french": "Il est allé au village, chez sa maman. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "134",
+            "key": [
+                "7",
+                134,
+                "134"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The famine raged on, everyone had spots on their bodies.",
+                    "morphemes": "       ",
+                    "orthography": "Áko édi, lephan khúúnbrɛn phɔ̂ ń bo phyó.",
+                    "gloss": "       ",
+                    "gloss_fr": "       ",
+                    "translation": "The famine raged on, everyone had spots on their bodies.",
+                    "french": "Il y a la famine, tout le monde a des boutons. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "135",
+            "key": [
+                "7",
+                135,
+                "135"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "Everyone had spots on their ears, their noses, everywhere.",
+                    "morphemes": "           ",
+                    "orthography": "Ló khúúnbrɛn phɔ̂, wo phyó wo njɛ, wo fɔ́n mɛn khúúnbrɛn phyó.",
+                    "gloss": "           ",
+                    "gloss_fr": "           ",
+                    "translation": "Everyone had spots on their ears, their noses, everywhere.",
+                    "french": "Tout le monde a des boutons dans les oreilles, sur le nez, partout.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "136",
+            "key": [
+                "7",
+                136,
+                "136"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The man, he left.",
+                    "morphemes": "  ",
+                    "orthography": "Yipɔnthe, ń no.",
+                    "gloss": "  ",
+                    "gloss_fr": "  ",
+                    "translation": "The man, he left.",
+                    "french": "Le monsieur, il est parti. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "137",
+            "key": [
+                "7",
+                137,
+                "137"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "'My brother, I went to the middle of the bush to go hunt, and I saw him.'",
+                    "morphemes": "            ",
+                    "orthography": "\"Mɛn hɔnsɛn, mɛn nɔ̂n mɛn di ákwámɛn, mɛn ka mɛn wú nkɛ o.\"",
+                    "gloss": "            ",
+                    "gloss_fr": "            ",
+                    "translation": "'My brother, I went to the middle of the bush to go hunt, and I saw him.'",
+                    "french": "'Mon frère, je suis parti au fond du brousse quand je l'ai vu.'",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "138",
+            "key": [
+                "7",
+                138,
+                "138"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "'In the bush, they have built beautiful houses.'",
+                    "morphemes": "         ",
+                    "orthography": "\"Mbyɔ hromɛn, ló hɛ́nmɛn yé ne, wo than khú mwá-mwá-mwá-mwá.\"",
+                    "gloss": "         ",
+                    "gloss_fr": "         ",
+                    "translation": "'In the bush, they have built beautiful houses.'",
+                    "french": "'Dans la brousse, ils ont construit des belles maisons.'",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "139",
+            "key": [
+                "7",
+                139,
+                "139"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "'Isn't it your child who you went to throw away in the bush?'",
+                    "morphemes": "            ",
+                    "orthography": "\"Wú á le li hɛ bhi khɛ́n o hɔn nkɛ lo fɔnka lé?\"",
+                    "gloss": "            ",
+                    "gloss_fr": "            ",
+                    "translation": "'Isn't it your child who you went to throw away in the bush?'",
+                    "french": "'Est-ce que c'est pas ton enfant qu'on allait jeter dans la brousse-là?\"",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "140",
+            "key": [
+                "7",
+                140,
+                "140"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "He doesn't know if it's his child who they took to go throw away.",
+                    "morphemes": "           ",
+                    "orthography": "Mɛ́n, ń nɛn yɛn sálê mɛ́n wo hɔn nkɛ lo fɔnka lé.",
+                    "gloss": "           ",
+                    "gloss_fr": "           ",
+                    "translation": "He doesn't know if it's his child who they took to go throw away.",
+                    "french": "Il ne sait pas si c'est l'enfant qu'ils ont pris pour aller jeter. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "141",
+            "key": [
+                "7",
+                141,
+                "141"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "'Come, I will accompany you.' He said, 'hm.'",
+                    "morphemes": "                    ",
+                    "orthography": "Ákhú wo hɔn, wo lo mɛ́n nɔ̂n an mán hɛ́n, ó lo án do nkɛ ɔ́nmɔn lo, mɛ́n ń nɛ \"ho\".",
+                    "gloss": "                    ",
+                    "gloss_fr": "                    ",
+                    "translation": "'Come, I will accompany you.' He said, 'hm.'",
+                    "french": "'Viens, je vais t'accompagner.' Il dit, 'hm.'",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "142",
+            "key": [
+                "7",
+                142,
+                "142"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "He said, \"I'll go pass by there.\"",
+                    "morphemes": "     ",
+                    "orthography": "Mɛ́n lɛ lê, \"màán hɛ́n lo.\"",
+                    "gloss": "     ",
+                    "gloss_fr": "     ",
+                    "translation": "He said, \"I'll go pass by there.\"",
+                    "french": "Il a dit, \"je vais passer par là-bas.\"",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "143",
+            "key": [
+                "7",
+                143,
+                "143"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The animals that raised him, if he goes there, they could kill him.",
+                    "morphemes": "             ",
+                    "orthography": "Ńbranmán nɔ̂n a gbɛ nkɛ o, nthé ka sé ń no ńbranmán wɛn nkɛ.",
+                    "gloss": "             ",
+                    "gloss_fr": "             ",
+                    "translation": "The animals that raised him, if he goes there, they could kill him.",
+                    "french": "Les animaux qui l'ont élevés, s'il s'en va, ils peuvent le tuer.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "144",
+            "key": [
+                "7",
+                144,
+                "144"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "He knows how he will explain it.",
+                    "morphemes": "         ",
+                    "orthography": "Mɛ́n lɛ lê á pɛ lósi an mán khɔ tɔ.",
+                    "gloss": "         ",
+                    "gloss_fr": "         ",
+                    "translation": "He knows how he will explain it.",
+                    "french": "Il sait comment il va expliquer.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "145",
+            "key": [
+                "7",
+                145,
+                "145"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "So the man and his wife went,",
+                    "morphemes": "        ",
+                    "orthography": "Ló mɛ́n bhya lɔ, mɛ́n ca lɔ, wo lo,",
+                    "gloss": "        ",
+                    "gloss_fr": "        ",
+                    "translation": "So the man and his wife went,",
+                    "french": "Donc lui et sa femme sont partis, ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "146",
+            "key": [
+                "7",
+                146,
+                "146"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "until they arrived there.",
+                    "morphemes": "      ",
+                    "orthography": "wo di kábrɛn kábrɛn wo di lóne.",
+                    "gloss": "      ",
+                    "gloss_fr": "      ",
+                    "translation": "until they arrived there.",
+                    "french": "jusqu'à ils sont arrivés là-bas. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "147",
+            "key": [
+                "7",
+                147,
+                "147"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The man said, calm down, he's going to cut wood, he will listen to what they're saying.",
+                    "morphemes": "                   ",
+                    "orthography": "Yipɔsɛ lɛ lê an khwá phɔ̂ lé, mɛ́n an mán chí yá nthé ebhâ yé wo míthé bhwe wo étɔ.",
+                    "gloss": "                   ",
+                    "gloss_fr": "                   ",
+                    "translation": "The man said, calm down, he's going to cut wood, he will listen to what they're saying.",
+                    "french": "Le monsieur dit, faut se calmer, il va couper le bois, il va écouter ce qu'ils vont dire.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "148",
+            "key": [
+                "7",
+                148,
+                "148"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "'The young man will speak, you will understand.'",
+                    "morphemes": "        ",
+                    "orthography": "\"Sɛ bhri lókɔn, án tɔ bhwe, ɛ bhâ yé.\"",
+                    "gloss": "        ",
+                    "gloss_fr": "        ",
+                    "translation": "'The young man will speak, you will understand.'",
+                    "french": "'Le jeune va parler, tu vas entendre.'",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "149",
+            "key": [
+                "7",
+                149,
+                "149"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "When they arrived, they stopped at the side of the road.",
+                    "morphemes": "            ",
+                    "orthography": "Wo lo ka wo di kwamɛn, wo ya ákwamɛn, mɛ́n hɛ́nmɛn le ásíthó.",
+                    "gloss": "            ",
+                    "gloss_fr": "            ",
+                    "translation": "When they arrived, they stopped at the side of the road.",
+                    "french": "Quand ils sont arrivés, ils sont arrêtés au bord de la route.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "150",
+            "key": [
+                "7",
+                150,
+                "150"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The man takes out his machete to cut wood.",
+                    "morphemes": "     ",
+                    "orthography": "Yipɔnthe hɔn dugba an chí yá.",
+                    "gloss": "     ",
+                    "gloss_fr": "     ",
+                    "translation": "The man takes out his machete to cut wood.",
+                    "french": "Le monsieur prend sa machette pour couper le bois. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "151",
+            "key": [
+                "7",
+                151,
+                "151"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "He cuts. ",
+                    "morphemes": "   ",
+                    "orthography": "An chí gɔɔɔ, gɔɔɔ.",
+                    "gloss": "   ",
+                    "gloss_fr": "   ",
+                    "translation": "He cuts. ",
+                    "french": "Il coupe. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "152",
+            "key": [
+                "7",
+                152,
+                "152"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The man stopped at the balcony, listening.",
+                    "morphemes": "         ",
+                    "orthography": "Ló nthé sɛ lókɔn, ń ya balcon, mɛ́n an yé.",
+                    "gloss": "         ",
+                    "gloss_fr": "         ",
+                    "translation": "The man stopped at the balcony, listening.",
+                    "french": "Le monsieur, il est arrêté au balcon en train d'écouter. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "153",
+            "key": [
+                "7",
+                153,
+                "153"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "Then he said,",
+                    "morphemes": "       ",
+                    "orthography": "Nthé mɛ́n án tɔ bhwe, án tɔ lê,",
+                    "gloss": "       ",
+                    "gloss_fr": "       ",
+                    "translation": "Then he said,",
+                    "french": "Et puis il a parlé,",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "154",
+            "key": [
+                "7",
+                154,
+                "154"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "\"Hunter,\"",
+                    "morphemes": "  ",
+                    "orthography": "\"Kúcɛ́nwo, e, kúcɛ́nwo,\"",
+                    "gloss": "  ",
+                    "gloss_fr": "  ",
+                    "translation": "\"Hunter,\"",
+                    "french": "\"Chasseur,\"",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "155",
+            "key": [
+                "7",
+                155,
+                "155"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "He was saying to the hunter that,",
+                    "morphemes": "          ",
+                    "orthography": "Ka sé án tɔ sé lephan ekú cɛ́n lê an yé,",
+                    "gloss": "          ",
+                    "gloss_fr": "          ",
+                    "translation": "He was saying to the hunter that,",
+                    "french": "Il est en train de dire au chasseur, ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "156",
+            "key": [
+                "7",
+                156,
+                "156"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "he said,",
+                    "morphemes": "    ",
+                    "orthography": "án tɔ bhwe sé nkɛ",
+                    "gloss": "    ",
+                    "gloss_fr": "    ",
+                    "translation": "he said,",
+                    "french": "il a dit, ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "157",
+            "key": [
+                "7",
+                157,
+                "157"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "\"The child that they threw away,\"",
+                    "morphemes": "       ",
+                    "orthography": "\"Lephan khɛ́n a hɔn nkɛ fɔnka bu lé,\"",
+                    "gloss": "       ",
+                    "gloss_fr": "       ",
+                    "translation": "\"The child that they threw away,\"",
+                    "french": "\"Le bébé qu'ils ont jeté,\" ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "158",
+            "key": [
+                "7",
+                158,
+                "158"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "\"I am here, I didn't die.\"",
+                    "morphemes": "     ",
+                    "orthography": "\"mɛn ma ne, mɛn nɛn khu.\"",
+                    "gloss": "     ",
+                    "gloss_fr": "     ",
+                    "translation": "\"I am here, I didn't die.\"",
+                    "french": "\"je suis là, je suis pas mort.\"",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "159",
+            "key": [
+                "7",
+                159,
+                "159"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "\"Hunter,\"",
+                    "morphemes": "  ",
+                    "orthography": "\"Kúcɛ́nwo, e, kúcɛ́nwo,\"",
+                    "gloss": "  ",
+                    "gloss_fr": "  ",
+                    "translation": "\"Hunter,\"",
+                    "french": "\"Chasseur,\"",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "160",
+            "key": [
+                "7",
+                160,
+                "160"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "\"go tell my mother the Baoulé woman Gbelyaman,\"",
+                    "morphemes": "        ",
+                    "orthography": "\"ɛ lo ɛ kranman mɛn man Gbelyaman e, kasibhye,\"",
+                    "gloss": "        ",
+                    "gloss_fr": "        ",
+                    "translation": "\"go tell my mother the Baoulé woman Gbelyaman,\"",
+                    "french": "\"faut partir, faut dire à maman Gbelyaman, la femme baoulé,\"",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "161",
+            "key": [
+                "7",
+                161,
+                "161"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "\"welcome.\"",
+                    "morphemes": "              ",
+                    "orthography": "\"bhɛ ya e a o, o ho titi o ti o tan jran o a\"",
+                    "gloss": "              ",
+                    "gloss_fr": "              ",
+                    "translation": "\"welcome.\"",
+                    "french": "\"bonne arrivée.\"",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "162",
+            "key": [
+                "7",
+                162,
+                "162"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "\"The famine arrived.\"",
+                    "morphemes": "    ",
+                    "orthography": "\"áko di, o thi yango.\"",
+                    "gloss": "    ",
+                    "gloss_fr": "    ",
+                    "translation": "\"The famine arrived.\"",
+                    "french": "\"La famine est arrivée.\"",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "163",
+            "key": [
+                "7",
+                163,
+                "163"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "He said to the man, \"you hear me.\"",
+                    "morphemes": "       ",
+                    "orthography": "Ń kranman yipɔnthe, mɛ́n lɛ lê, \"ɛ yé.\"",
+                    "gloss": "       ",
+                    "gloss_fr": "       ",
+                    "translation": "He said to the man, \"you hear me.\"",
+                    "french": "Il a dit au monsieur, \"tu entends.\"",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "164",
+            "key": [
+                "7",
+                164,
+                "164"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "\"I know it's you.\"",
+                    "morphemes": "  ",
+                    "orthography": "\"Ń tɛ hɔ́n.\"",
+                    "gloss": "  ",
+                    "gloss_fr": "  ",
+                    "translation": "\"I know it's you.\"",
+                    "french": "\"Je sais que c'est vous.\"",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "165",
+            "key": [
+                "7",
+                165,
+                "165"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "\"Sing the song again.\"",
+                    "morphemes": "        ",
+                    "orthography": "\"Cu kho nnańnmɛ lókɔn, cu tɛ yí an khó.\"",
+                    "gloss": "        ",
+                    "gloss_fr": "        ",
+                    "translation": "\"Sing the song again.\"",
+                    "french": "\"Faut rechanter le chanson.\"",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "166",
+            "key": [
+                "7",
+                166,
+                "166"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "He cut and cut.",
+                    "morphemes": "   ",
+                    "orthography": "Gɔɔɔ, gɔɔɔ, gɔɔɔ, gɔɔɔ.",
+                    "gloss": "   ",
+                    "gloss_fr": "   ",
+                    "translation": "He cut and cut.",
+                    "french": "Il a coupé et coupé. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "167",
+            "key": [
+                "7",
+                167,
+                "167"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The man stopped and sang again.",
+                    "morphemes": "       ",
+                    "orthography": "Sɛ lókɔn, ń cu ya, ń kho nnánmɛ.",
+                    "gloss": "       ",
+                    "gloss_fr": "       ",
+                    "translation": "The man stopped and sang again.",
+                    "french": "L'homme, il est arrêté, encore il chantait. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "168",
+            "key": [
+                "7",
+                168,
+                "168"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "What he said, he was calling.",
+                    "morphemes": "     ",
+                    "orthography": "Ábhwe nɔ̂n án tɔ, án che.",
+                    "gloss": "     ",
+                    "gloss_fr": "     ",
+                    "translation": "What he said, he was calling.",
+                    "french": "La parole qu'il dit, il appelle. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "169",
+            "key": [
+                "7",
+                169,
+                "169"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The hunter told him, \"Wait, I'm going to go back there.\"",
+                    "morphemes": "         ",
+                    "orthography": "Kúcɛ́nwo kranman nkɛ lê, \"ya, mɛn mán hɛ́n ló lóne.\"",
+                    "gloss": "         ",
+                    "gloss_fr": "         ",
+                    "translation": "The hunter told him, \"Wait, I'm going to go back there.\"",
+                    "french": "Le chasseur lui a dit, \"Attends, je vais repartir là-bas.\"",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "170",
+            "key": [
+                "7",
+                170,
+                "170"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "They cut their way out and they went.",
+                    "morphemes": "       ",
+                    "orthography": "Wo jan si, wo eló, wo jan si.",
+                    "gloss": "       ",
+                    "gloss_fr": "       ",
+                    "translation": "They cut their way out and they went.",
+                    "french": "Ils ont coupé une place, et ils s'en vont. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "171",
+            "key": [
+                "7",
+                171,
+                "171"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "They went until they arrived.",
+                    "morphemes": "     ",
+                    "orthography": "Wo élo kábrɛn kábrɛn wo di.",
+                    "gloss": "     ",
+                    "gloss_fr": "     ",
+                    "translation": "They went until they arrived.",
+                    "french": "Ils s'en vont jusqu'à ils sont arrivés. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "172",
+            "key": [
+                "7",
+                172,
+                "172"
+            ],
+            "value": {
+                "story": "7",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "They arrived at his house.",
+                    "morphemes": "   ",
+                    "orthography": "Wo di nkɛ bháthó.",
+                    "gloss": "   ",
+                    "gloss_fr": "   ",
+                    "translation": "They arrived at his house.",
+                    "french": "Ils sont arrivés chez lui à la maison. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "173",
+            "key": [
+                "8",
+                173,
+                "173"
+            ],
+            "value": {
+                "story": "8",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The Tchaman group is present,",
+                    "morphemes": "cá-mã́ ɓrɛ hɛ̃́ khwa lé",
+                    "orthography": "Cámán bhrɛ hɛ́n khwa lé",
+                    "gloss": "Tchaman-pl unite pass be.present.pl part",
+                    "gloss_fr": "Tchamans réunisser passer être.present v.part",
+                    "translation": "The Tchaman group is present,",
+                    "french": "Le groupe Atchan est present, ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "174",
+            "key": [
+                "8",
+                174,
+                "174"
+            ],
+            "value": {
+                "story": "8",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "they are numerous.",
+                    "morphemes": "cá-mã́ ɡreɓɛ ɓrɛ hɛ̃́ khwa lé",
+                    "orthography": "Cámán grebhɛ bhrɛ hɛ́n khwa lé,",
+                    "gloss": "Tchaman-pl forty unite pass be.present.pl part",
+                    "gloss_fr": "Tchamans quarante réunisser passer être.present v.part",
+                    "translation": "they are numerous.",
+                    "french": "ils sont nombreux.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "175",
+            "key": [
+                "8",
+                175,
+                "175"
+            ],
+            "value": {
+                "story": "8",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The large number of Tchagbas,",
+                    "morphemes": "o krãmã cháɡba pásá ɡreɓɛ",
+                    "orthography": "o kranman Chágba pasá grebhɛ",
+                    "gloss": "pro.indef say Tchagba audience forty",
+                    "gloss_fr": "1pl dire Tchagba public quarante",
+                    "translation": "The large number of Tchagbas,",
+                    "french": "Le grand nombre des Tchagbas, ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "176",
+            "key": [
+                "8",
+                176,
+                "176"
+            ],
+            "value": {
+                "story": "8",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "the door has been open to let them through.",
+                    "morphemes": "phwã si se lo ɓa hɛ̃-e",
+                    "orthography": "phwan si se lo bha hɛn-e,",
+                    "gloss": "open.pfv door give.pfv 1pl come pass-emph",
+                    "gloss_fr": "ouvrir porte donner 1pl venir passer-emph",
+                    "translation": "the door has been open to let them through.",
+                    "french": "on a ouvert les portes pour laisser le passage.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "177",
+            "key": [
+                "8",
+                177,
+                "177"
+            ],
+            "value": {
+                "story": "8",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "Let's go look for N'Cho Norbert; he will come through.",
+                    "morphemes": "o do lo nʃɔ nɔbɛ ã mã́ hɛ̃́-ã",
+                    "orthography": "o do lo Ncho Norbert an man hɛ́n-an.",
+                    "gloss": "pro.indef bring go N'Cho Norbert 3sg fut pass-emph",
+                    "gloss_fr": "1pl apporter aller N'Cho Norbert 3sg AUX+FUT passer-emph",
+                    "translation": "Let's go look for N'Cho Norbert; he will come through.",
+                    "french": "Allons-y chercher N'Cho Norbert, il va passer. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "178",
+            "key": [
+                "8",
+                178,
+                "178"
+            ],
+            "value": {
+                "story": "8",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "We've come out; here we are.",
+                    "morphemes": "lo thãndi lo e-ɓá nɛ̃ lo nɛ̃ lo",
+                    "orthography": "Lo thandi lo ebhá, nɛn lo nɛn lo,",
+                    "gloss": "1pl come.out.pfv 1pl prog-come voilà 1pl voilà 1pl",
+                    "gloss_fr": "1pl sortir 1pl prog-venir voilà 1pl voilà 1pl",
+                    "translation": "We've come out; here we are.",
+                    "french": "Nous sommes sortis, voilà.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "179",
+            "key": [
+                "8",
+                179,
+                "179"
+            ],
+            "value": {
+                "story": "8",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "We carried our stuff; here we are.",
+                    "morphemes": "lo ha jí wo e-ɓá nɛ̃ lo nɛ̃ lo",
+                    "orthography": "lo ha yí wo ebhá, nɛn lo nɛn lo,",
+                    "gloss": "1pl carry.pfv thing 3pl prog-come voilà 1pl voilà 1pl",
+                    "gloss_fr": "1pl charger chose 3pl prog-venir voilà 1pl voilà 1pl",
+                    "translation": "We carried our stuff; here we are.",
+                    "french": "Nous avons chargé des baggages, voilà.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "180",
+            "key": [
+                "8",
+                180,
+                "180"
+            ],
+            "value": {
+                "story": "8",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The Agban girls are well-dressed; they are arriving.",
+                    "morphemes": "aɡbã mje-ɓjɔ ɡo ndu wo e-ɓá wo e-lé hɔ̃́ mɔ̃́ lê ɔ̃́ ma wú wo",
+                    "orthography": "Agban nmyebhyɔ go ndu, wo ebhá, wo elé hɔ́n nmɔ́n lê ɔ́n ma wú wo.",
+                    "gloss": "Agban woman.pl-child wash.pfv water 3pl prog-come 3pl prog-wave 2pl arm that 2pl fut see 3pl",
+                    "gloss_fr": "Agban filles laver eau 3pl prog-venir 3pl prog-agiter 2pl bras que 2pl AUX+FUT voir 3pl",
+                    "translation": "The Agban girls are well-dressed; they are arriving.",
+                    "french": "Les filles Agban sont bien habillées, elles arrivent. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "181",
+            "key": [
+                "8",
+                181,
+                "181"
+            ],
+            "value": {
+                "story": "8",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "Don't hide,",
+                    "morphemes": "ɔ̃́ ne wá hrɔmã",
+                    "orthography": "Ɔ́n ne wá hrɔman",
+                    "gloss": "2pl neg run hide",
+                    "gloss_fr": "2pl neg courir cacher",
+                    "translation": "Don't hide,",
+                    "french": "Ne vous cachez pas,",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "182",
+            "key": [
+                "8",
+                182,
+                "182"
+            ],
+            "value": {
+                "story": "8",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "afterwards, you'll saw that you didn't see anything that the Agbans did.",
+                    "morphemes": "a-ɟi o nɛ́ ɔ̃́ ne wu aɡbã jí-e",
+                    "orthography": "àji o nkɛ́ ɔ́n ne wu Agban yí-e.",
+                    "gloss": "cm-after   2pl neg see Agban thing-emph",
+                    "gloss_fr": "après   2pl neg voir Agban chose-emph",
+                    "translation": "afterwards, you'll saw that you didn't see anything that the Agbans did.",
+                    "french": "après vous allez dire que vous n'avez rien vu de ce que les Agban ont fait. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "183",
+            "key": [
+                "8",
+                183,
+                "183"
+            ],
+            "value": {
+                "story": "8",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "We're well-dressed, we're arriving; here we are.",
+                    "morphemes": "lo ɡo ndu lo e-ɓá nɛ̃ lo nɛ̃ lo",
+                    "orthography": "Lo go ndu lo ebhá, nɛn lo nɛn lo",
+                    "gloss": "1pl wash.pfv water 1pl prog-come voilà 1pl voilà 1pl",
+                    "gloss_fr": "1pl laver eau 1pl prog-venir voilà 1pl voilà 1pl",
+                    "translation": "We're well-dressed, we're arriving; here we are.",
+                    "french": "Nous sommes bien habillés, nous arrivons, voilà. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "184",
+            "key": [
+                "8",
+                184,
+                "184"
+            ],
+            "value": {
+                "story": "8",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "We've carried our stuff; here we are.",
+                    "morphemes": "lo ha jí wo e-ɓá nɛ̃ lo nɛ̃ lo",
+                    "orthography": "lo ha yí wo ebhá, nɛn lo nɛn lo,",
+                    "gloss": "1pl carry.pfv thing 3pl prog-come voilà 1pl voilà 1pl",
+                    "gloss_fr": "1pl charger chose 3pl prog-venir voilà 1pl voilà 1pl",
+                    "translation": "We've carried our stuff; here we are.",
+                    "french": "Nous avons chargé des baggages, voilà. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "185",
+            "key": [
+                "8",
+                185,
+                "185"
+            ],
+            "value": {
+                "story": "8",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "Agban N'Guessan is well-dressed; they're arriving.",
+                    "morphemes": "aɡbã nɟesã ɡo ndu wo e-ɓá wo e-lé hɔ̃́ mɔ̃́ lê ɔ̃́ ma wú wo",
+                    "orthography": "Agban njésan go ndu wo ebhá, wo elé hɔ́n nmɔ́n lê ɔ́n ma wú wo.",
+                    "gloss": "Agban N'Guessan wash.pfv water 3pl prog-come 3pl prog-wave 2pl arm that 2pl fut see 3pl",
+                    "gloss_fr": "Agban N'Guessan laver eau 3pl prog-venir 3pl prog-agiter 2pl bras que 2pl AUX+FUT voir 3pl",
+                    "translation": "Agban N'Guessan is well-dressed; they're arriving.",
+                    "french": "Agban N'Guessan est bien habillé, ils arrivent. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "186",
+            "key": [
+                "8",
+                186,
+                "186"
+            ],
+            "value": {
+                "story": "8",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "Don't hide,",
+                    "morphemes": "ɔ̃́ ne wá hrɔmã",
+                    "orthography": "Ɔ́n ne wá hrɔman",
+                    "gloss": "2pl neg run hide",
+                    "gloss_fr": "2pl neg courir cacher",
+                    "translation": "Don't hide,",
+                    "french": "Ne vous cachez pas,",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "187",
+            "key": [
+                "8",
+                187,
+                "187"
+            ],
+            "value": {
+                "story": "8",
+                "sentence": {
+                    "judgement": "",
                     "utterance": "afterwards, you'll say that you didn't see anything that the Agbans did.",
                     "morphemes": "a-ɟi o nɛ́ ɔ̃́ ne wu aɡbã jí-e",
                     "orthography": "àji o nkɛ́ ɔ́n ne wu Agban yí-e.",
@@ -2514,14 +5079,14 @@
             }
         },
         {
-            "id": "93",
+            "id": "188",
             "key": [
-                "8",
-                93,
-                "93"
+                "9",
+                188,
+                "188"
             ],
             "value": {
-                "story": "8",
+                "story": "9",
                 "sentence": {
                     "judgement": "",
                     "utterance": "I give glory to God",
@@ -2541,14 +5106,14 @@
             }
         },
         {
-            "id": "94",
+            "id": "189",
             "key": [
-                "8",
-                94,
-                "94"
+                "9",
+                189,
+                "189"
             ],
             "value": {
-                "story": "8",
+                "story": "9",
                 "sentence": {
                     "judgement": "",
                     "utterance": "I will praise him everyday",
@@ -2568,14 +5133,14 @@
             }
         },
         {
-            "id": "95",
+            "id": "190",
             "key": [
-                "8",
-                95,
-                "95"
+                "9",
+                190,
+                "190"
             ],
             "value": {
-                "story": "8",
+                "story": "9",
                 "sentence": {
                     "judgement": "",
                     "utterance": "I give glory to God",
@@ -2595,14 +5160,14 @@
             }
         },
         {
-            "id": "96",
+            "id": "191",
             "key": [
-                "8",
-                96,
-                "96"
+                "9",
+                191,
+                "191"
             ],
             "value": {
-                "story": "8",
+                "story": "9",
                 "sentence": {
                     "judgement": "",
                     "utterance": "I will praise him everyday",
@@ -2622,14 +5187,14 @@
             }
         },
         {
-            "id": "97",
+            "id": "192",
             "key": [
-                "8",
-                97,
-                "97"
+                "9",
+                192,
+                "192"
             ],
             "value": {
-                "story": "8",
+                "story": "9",
                 "sentence": {
                     "judgement": "",
                     "utterance": "I want God to be my glory",
@@ -2649,14 +5214,14 @@
             }
         },
         {
-            "id": "98",
+            "id": "193",
             "key": [
-                "8",
-                98,
-                "98"
+                "9",
+                193,
+                "193"
             ],
             "value": {
-                "story": "8",
+                "story": "9",
                 "sentence": {
                     "judgement": "",
                     "utterance": "You are the good people",
@@ -2676,14 +5241,14 @@
             }
         },
         {
-            "id": "99",
+            "id": "194",
             "key": [
-                "8",
-                99,
-                "99"
+                "9",
+                194,
+                "194"
             ],
             "value": {
-                "story": "8",
+                "story": "9",
                 "sentence": {
                     "judgement": "",
                     "utterance": "Listen to what I say",
@@ -2703,14 +5268,14 @@
             }
         },
         {
-            "id": "100",
+            "id": "195",
             "key": [
-                "8",
-                100,
-                "100"
+                "9",
+                195,
+                "195"
             ],
             "value": {
-                "story": "8",
+                "story": "9",
                 "sentence": {
                     "judgement": "",
                     "utterance": "and be joyous",

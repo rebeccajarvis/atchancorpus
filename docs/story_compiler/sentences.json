@@ -1,5 +1,5 @@
 {
-    "total_rows": 196,
+    "total_rows": 202,
     "offset": 0,
     "rows": [
         {
@@ -1768,14 +1768,14 @@
                 "story": "5",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "The republic of Côte d'Ivoire,",
-                    "morphemes": "ɟɔ̃-sɛ̃ ɡotho féchwe pasa",
-                    "orthography": "jɔnsɛn gotho féchwe pasa",
-                    "gloss": "elephant-tusk country celebration people",
-                    "gloss_fr": "éléphant-défense pays peuple public",
-                    "translation": "The republic of Côte d'Ivoire,",
-                    "french": "La république de la Côte d'Ivoire,",
-                    "timestamps": "00:00:00,676 --> 00:00:05,069",
+                    "utterance": "We go to the president's house.",
+                    "morphemes": "wo e-ló prezidã hwã",
+                    "orthography": "Wo eló président hwan",
+                    "gloss": "pro.indef prog-go president.fr place",
+                    "gloss_fr": "1pl prog-aller president place",
+                    "translation": "We go to the president's house.",
+                    "french": "On va chez le président.",
+                    "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
@@ -1795,14 +1795,14 @@
                 "story": "5",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "the inhabitants, you send your condolences.",
-                    "morphemes": "á-théɟi-nɛ̃́ khúmbrɛ̃ e-tɛ́ hɔ̃́ jɔ́-ka",
-                    "orthography": "áthéjinɛ́n khúúnbrɛn etɛ́ hɔ́n yɔ́ka",
-                    "gloss": "cm-people-assoc.pl all prog-make 2pl.str let-part",
-                    "gloss_fr": "habitant.pl tout faire.prog obj.2pl apaisement",
-                    "translation": "the inhabitants, you send your condolences.",
-                    "french": "les habitants, vous souhaitez vos condoléances.",
-                    "timestamps": "00:00:05,725 --> 00:00:10,248",
+                    "utterance": "We will gather at the president's house .",
+                    "morphemes": "lo ló hwã á li ló duɓɛ́ mɛ̃ wo e-khwá e",
+                    "orthography": "Lo ló hwan á li ló dubhɛ́ mɛn wo ekhwá e",
+                    "gloss": "1pl.nom go.ipfv place 3.inan cop dem lagoon at pro.indef be.present.pl emph",
+                    "gloss_fr": "1pl aller place pr être le rivière à 1pl être.present emph",
+                    "translation": "We will gather at the president's house .",
+                    "french": "Chez le président on va réunîr. ",
+                    "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
@@ -1822,14 +1822,14 @@
                 "story": "5",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "The elder of the country,",
-                    "morphemes": "hɔ̃́ khúɓɛ́ nãnã́",
-                    "orthography": "hɔ́n khúbhɛ́ nannán",
-                    "gloss": "2pl.str village elder",
-                    "gloss_fr": "poss.2pl village doyen",
-                    "translation": "The elder of the country,",
-                    "french": "Le doyen du pays,",
-                    "timestamps": "00:00:10,766 --> 00:00:12,640",
+                    "utterance": "We go to perfume ourselves so we smell good.",
+                    "morphemes": "wo e-ló ló-ne a sa ló ɓwe lo phɔ sɔ̃́ ɲɔ̃",
+                    "orthography": "Wo eló lóne, a sa ló bhwe lo phɔ̂ sɔ́n yɔn.",
+                    "gloss": "pro.indef prog-go dem-there 3.res rub dem pot 1pl.str body smell be.good",
+                    "gloss_fr": "1pl prog-aller   parfumer le marmite 1pl corps sentir etre.bon",
+                    "translation": "We go to perfume ourselves so we smell good.",
+                    "french": "On va se parfumer pour sentir bon. ",
+                    "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
@@ -1849,14 +1849,14 @@
                 "story": "5",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "Félix Houphouët-Boigny, has left you today.",
-                    "morphemes": "felisufwebwaɲi jɔ khɛ̃́ a jɔ hɔ̃́ kalé ɲcɛ̃́",
-                    "orthography": "Félix Houphouët Boigny yɔ khɛ́n a yɔ hɔ́n kalé ncɛ́n",
-                    "gloss": "Félix Houphouët Boigny let rel 3.inan let 2pl.str part today",
-                    "gloss_fr": "Félix Houphouët Boigny laisser rel qui quitter obj.2pl part.v aujourd'hui",
-                    "translation": "Félix Houphouët-Boigny, has left you today.",
-                    "french": "Félix Houphouët Boigny, vous a laissé aujourd'hui.",
-                    "timestamps": "00:00:12,987 --> 00:00:21,416",
+                    "utterance": "There aren't two generations called Djéhou,",
+                    "morphemes": "á-ɓɛ́ wó é-che ɟewú á lé li mɔ̃́",
+                    "orthography": "Ábhɛ́ wo éche Jéwu á le li nmɔn.",
+                    "gloss": "cm-generation 3pl.hab prog-call Djéhou 3.inan neg cop two",
+                    "gloss_fr": "génération 3pl prog-appeler Djéhou pr aux v deux",
+                    "translation": "There aren't two generations called Djéhou,",
+                    "french": "Il n'y a pas deux générations qu'on appelle Djéhou.",
+                    "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
@@ -1876,14 +1876,14 @@
                 "story": "5",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "Henri Konan Bédié, he sat on his throne.",
-                    "morphemes": "ãrikonãbɛdje ɛ̃́ ché nɛ phɛ̃́ mɛ̃",
-                    "orthography": "Henri Konan Bédié ń che nkɛ phɛ́n nmɛn",
-                    "gloss": "Henri Konan Bédié 3sg.pfv sit.pfv 3sg.obv throne on",
-                    "gloss_fr": "Henri Konan Bédié 3sg.acp s'asseoir obj.3sg throne extrémité",
-                    "translation": "Henri Konan Bédié, he sat on his throne.",
-                    "french": "Henri Konan Bédié, il est assis sur son trône.",
-                    "timestamps": "00:00:22,539 --> 00:00:30,833",
+                    "utterance": "There aren't three generations called Djéhou. ",
+                    "morphemes": "á lé li ɓwaɗjá",
+                    "orthography": "á lé li bhwalyá.",
+                    "gloss": "3.inan neg cop three",
+                    "gloss_fr": "pr neg être trois",
+                    "translation": "There aren't three generations called Djéhou. ",
+                    "french": "Il n'y a pas trois générations qu'on appelle Djéhou.",
+                    "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
@@ -1903,14 +1903,14 @@
                 "story": "5",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "What he has done for Côte d'Ivoire,",
-                    "morphemes": "a chɛ se lo ɟɔ̃-sɛ̃ khúɓɛ́",
-                    "orthography": "a chɛ se lo jɔnsɛn khúbhɛ́",
-                    "gloss": "3.inan cause.pfv give 1pl elephant-tusk village",
-                    "gloss_fr": "ça causer donner notre éléphant-défense village",
-                    "translation": "What he has done for Côte d'Ivoire,",
-                    "french": "Ce qu'il a fait pour la Côte d'Ivoire,",
-                    "timestamps": "00:00:31,587 --> 00:00:36,178",
+                    "utterance": "It's us who are the elders.",
+                    "morphemes": "á-ɓɛ́ ɓrɔ́khó nɔ̃́ wó che lo é",
+                    "orthography": "Ábhɛ́ bhrɔ́khó nɔ̂n wó che lo é",
+                    "gloss": "cm-generation elder foc 3pl.hab call 1pl.str emph",
+                    "gloss_fr": "génération aîné foc 1pl appeler obj.1pl emph",
+                    "translation": "It's us who are the elders.",
+                    "french": "C'est nous qui sommes les aînés.",
+                    "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
@@ -1922,22 +1922,22 @@
         {
             "id": "71",
             "key": [
-                "5",
+                "6",
                 71,
                 "71"
             ],
             "value": {
-                "story": "5",
+                "story": "6",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "you have friendliness,",
-                    "morphemes": "ɔ̃́ pɛ á-phɔ́-pɔ́-li",
-                    "orthography": "ɔ́n pɛ áphɔ̂pɔli",
-                    "gloss": "2pl have cm-body-happiness-eat.nmlz",
-                    "gloss_fr": "2pl avoir l'amour",
-                    "translation": "you have friendliness,",
-                    "french": "vous avez la convivialité,",
-                    "timestamps": "00:00:36,399 --> 00:00:38,600",
+                    "utterance": "The republic of Côte d'Ivoire,",
+                    "morphemes": "ɟɔ̃-sɛ̃ ɡotho féchwe pasa",
+                    "orthography": "jɔnsɛn gotho féchwe pasa",
+                    "gloss": "elephant-tusk country celebration people",
+                    "gloss_fr": "éléphant-défense pays peuple public",
+                    "translation": "The republic of Côte d'Ivoire,",
+                    "french": "La république de la Côte d'Ivoire,",
+                    "timestamps": "00:00:00,676 --> 00:00:05,069",
                     "tags": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
@@ -1949,22 +1949,22 @@
         {
             "id": "72",
             "key": [
-                "5",
+                "6",
                 72,
                 "72"
             ],
             "value": {
-                "story": "5",
+                "story": "6",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "understanding,",
-                    "morphemes": "ɛ̃́-mɛ̃́-brɛ-lí",
-                    "orthography": "nmɛ́n-brɛlí",
-                    "gloss": "cm-mouth-one-eat.nmlz",
-                    "gloss_fr": "l'unité",
-                    "translation": "understanding,",
-                    "french": "l'entente,",
-                    "timestamps": "00:00:38,858 --> 00:00:40,873",
+                    "utterance": "the inhabitants, you send your condolences.",
+                    "morphemes": "á-théɟi-nɛ̃́ khúmbrɛ̃ e-tɛ́ hɔ̃́ jɔ́-ka",
+                    "orthography": "áthéjinɛ́n khúúnbrɛn etɛ́ hɔ́n yɔ́ka",
+                    "gloss": "cm-people-assoc.pl all prog-make 2pl.str let-part",
+                    "gloss_fr": "habitant.pl tout faire.prog obj.2pl apaisement",
+                    "translation": "the inhabitants, you send your condolences.",
+                    "french": "les habitants, vous souhaitez vos condoléances.",
+                    "timestamps": "00:00:05,725 --> 00:00:10,248",
                     "tags": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
@@ -1976,22 +1976,22 @@
         {
             "id": "73",
             "key": [
-                "5",
+                "6",
                 73,
                 "73"
             ],
             "value": {
-                "story": "5",
+                "story": "6",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "and tranquility.",
-                    "morphemes": "lé ɲɟɛ-khwá-lé",
-                    "orthography": "lê njɛkhwálé",
-                    "gloss": "and ear-be.present-part.nmlz",
-                    "gloss_fr": "et tranquilité",
-                    "translation": "and tranquility.",
-                    "french": "et la tranquilité.",
-                    "timestamps": "00:00:41,074 --> 00:00:46,534",
+                    "utterance": "The elder of the country,",
+                    "morphemes": "hɔ̃́ khúɓɛ́ nãnã́",
+                    "orthography": "hɔ́n khúbhɛ́ nannán",
+                    "gloss": "2pl.str village elder",
+                    "gloss_fr": "poss.2pl village doyen",
+                    "translation": "The elder of the country,",
+                    "french": "Le doyen du pays,",
+                    "timestamps": "00:00:10,766 --> 00:00:12,640",
                     "tags": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
@@ -2011,14 +2011,14 @@
                 "story": "6",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "The one thing I want on this earth",
-                    "morphemes": "á-jí brɛ̃ khɛ̃́ mɛ̃́ nɛ̃ á-théɟi",
-                    "orthography": "áyí brɛn khɛ́n mɛ́n nɛn áthéji",
-                    "gloss": "cm-thing one rel 1sg.ipfv want cm-world",
-                    "gloss_fr": "chose une que 1sg vouloir monde",
-                    "translation": "The one thing I want on this earth",
-                    "french": "La chose que je cherche sur cette terre,",
-                    "timestamps": "",
+                    "utterance": "Félix Houphouët-Boigny, has left you today.",
+                    "morphemes": "felisufwebwaɲi jɔ khɛ̃́ a jɔ hɔ̃́ kalé ɲcɛ̃́",
+                    "orthography": "Félix Houphouët Boigny yɔ khɛ́n a yɔ hɔ́n kalé ncɛ́n",
+                    "gloss": "Félix Houphouët Boigny let rel 3.inan let 2pl.str part today",
+                    "gloss_fr": "Félix Houphouët Boigny laisser rel qui quitter obj.2pl part.v aujourd'hui",
+                    "translation": "Félix Houphouët-Boigny, has left you today.",
+                    "french": "Félix Houphouët Boigny, vous a laissé aujourd'hui.",
+                    "timestamps": "00:00:12,987 --> 00:00:21,416",
                     "tags": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
@@ -2038,14 +2038,14 @@
                 "story": "6",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "is love.",
-                    "morphemes": "ló nɔ̃́ a li á-pɔ́",
-                    "orthography": "ló nɔ̂n a li ápɔ́",
-                    "gloss": "3.inan foc 3 cop nmlz-love",
-                    "gloss_fr": "ça foc pr être amour",
-                    "translation": "is love.",
-                    "french": "c'est ça qui est l'amour.",
-                    "timestamps": "",
+                    "utterance": "Henri Konan Bédié, he sat on his throne.",
+                    "morphemes": "ãrikonãbɛdje ɛ̃́ ché nɛ phɛ̃́ mɛ̃",
+                    "orthography": "Henri Konan Bédié ń che nkɛ phɛ́n nmɛn",
+                    "gloss": "Henri Konan Bédié 3sg.pfv sit.pfv 3sg.obv throne on",
+                    "gloss_fr": "Henri Konan Bédié 3sg.acp s'asseoir obj.3sg throne extrémité",
+                    "translation": "Henri Konan Bédié, he sat on his throne.",
+                    "french": "Henri Konan Bédié, il est assis sur son trône.",
+                    "timestamps": "00:00:22,539 --> 00:00:30,833",
                     "tags": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
@@ -2065,14 +2065,14 @@
                 "story": "6",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "Oh God, give me the spirit,",
-                    "morphemes": "o hwãnthe ɛ se mɛ̃ ló nã́nã́mi",
-                    "orthography": "o hwanthe ɛ se mɛn ló nánnánmi",
-                    "gloss": "oh Lord 2sg give.imp 1sg dem spirit",
-                    "gloss_fr": "oh Seigneur 2sg donner obj.1sg le esprit",
-                    "translation": "Oh God, give me the spirit,",
-                    "french": "Oh mon Dieu, faut me donner l'esprit,",
-                    "timestamps": "",
+                    "utterance": "What he has done for Côte d'Ivoire,",
+                    "morphemes": "a chɛ se lo ɟɔ̃-sɛ̃ khúɓɛ́",
+                    "orthography": "a chɛ se lo jɔnsɛn khúbhɛ́",
+                    "gloss": "3.inan cause.pfv give 1pl elephant-tusk village",
+                    "gloss_fr": "ça causer donner notre éléphant-défense village",
+                    "translation": "What he has done for Côte d'Ivoire,",
+                    "french": "Ce qu'il a fait pour la Côte d'Ivoire,",
+                    "timestamps": "00:00:31,587 --> 00:00:36,178",
                     "tags": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
@@ -2092,14 +2092,14 @@
                 "story": "6",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "give me the strength to love my neighbor.",
-                    "morphemes": "ɛ se mɛ̃ ló nsɛ̃́pɛ́ mɛ̃ pɔ mɛ̃ ɟɔ",
-                    "orthography": "ɛ se mɛn ló nsɛ́npɛ́ mɛn pɔ mɛn jɔ",
-                    "gloss": "2sg give.imp 1sg dem strength 1sg love 1sg friend",
-                    "gloss_fr": "2sg donner obj.1sg la force 1sg aimer poss.1sg ami",
-                    "translation": "give me the strength to love my neighbor.",
-                    "french": "faut me donner la force pour aimer mon frère.",
-                    "timestamps": "",
+                    "utterance": "you have friendliness,",
+                    "morphemes": "ɔ̃́ pɛ á-phɔ́-pɔ́-li",
+                    "orthography": "ɔ́n pɛ áphɔ̂pɔli",
+                    "gloss": "2pl have cm-body-happiness-eat.nmlz",
+                    "gloss_fr": "2pl avoir l'amour",
+                    "translation": "you have friendliness,",
+                    "french": "vous avez la convivialité,",
+                    "timestamps": "00:00:36,399 --> 00:00:38,600",
                     "tags": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
@@ -2111,9 +2111,63 @@
         {
             "id": "78",
             "key": [
-                "7",
+                "6",
                 78,
                 "78"
+            ],
+            "value": {
+                "story": "6",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "understanding,",
+                    "morphemes": "ɛ̃́-mɛ̃́-brɛ-lí",
+                    "orthography": "nmɛ́n-brɛlí",
+                    "gloss": "cm-mouth-one-eat.nmlz",
+                    "gloss_fr": "l'unité",
+                    "translation": "understanding,",
+                    "french": "l'entente,",
+                    "timestamps": "00:00:38,858 --> 00:00:40,873",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "79",
+            "key": [
+                "6",
+                79,
+                "79"
+            ],
+            "value": {
+                "story": "6",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "and tranquility.",
+                    "morphemes": "lé ɲɟɛ-khwá-lé",
+                    "orthography": "lê njɛkhwálé",
+                    "gloss": "and ear-be.present-part.nmlz",
+                    "gloss_fr": "et tranquilité",
+                    "translation": "and tranquility.",
+                    "french": "et la tranquilité.",
+                    "timestamps": "00:00:41,074 --> 00:00:46,534",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "80",
+            "key": [
+                "7",
+                80,
+                "80"
             ],
             "value": {
                 "story": "7",
@@ -2136,11 +2190,11 @@
             }
         },
         {
-            "id": "79",
+            "id": "81",
             "key": [
                 "7",
-                79,
-                "79"
+                81,
+                "81"
             ],
             "value": {
                 "story": "7",
@@ -2163,11 +2217,11 @@
             }
         },
         {
-            "id": "80",
+            "id": "82",
             "key": [
                 "7",
-                80,
-                "80"
+                82,
+                "82"
             ],
             "value": {
                 "story": "7",
@@ -2190,11 +2244,11 @@
             }
         },
         {
-            "id": "81",
+            "id": "83",
             "key": [
                 "7",
-                81,
-                "81"
+                83,
+                "83"
             ],
             "value": {
                 "story": "7",
@@ -2217,11 +2271,11 @@
             }
         },
         {
-            "id": "82",
+            "id": "84",
             "key": [
                 "7",
-                82,
-                "82"
+                84,
+                "84"
             ],
             "value": {
                 "story": "7",
@@ -2244,11 +2298,11 @@
             }
         },
         {
-            "id": "83",
+            "id": "85",
             "key": [
                 "7",
-                83,
-                "83"
+                85,
+                "85"
             ],
             "value": {
                 "story": "7",
@@ -2271,11 +2325,11 @@
             }
         },
         {
-            "id": "84",
+            "id": "86",
             "key": [
                 "7",
-                84,
-                "84"
+                86,
+                "86"
             ],
             "value": {
                 "story": "7",
@@ -2298,11 +2352,11 @@
             }
         },
         {
-            "id": "85",
+            "id": "87",
             "key": [
                 "7",
-                85,
-                "85"
+                87,
+                "87"
             ],
             "value": {
                 "story": "7",
@@ -2325,11 +2379,11 @@
             }
         },
         {
-            "id": "86",
+            "id": "88",
             "key": [
                 "7",
-                86,
-                "86"
+                88,
+                "88"
             ],
             "value": {
                 "story": "7",
@@ -2352,11 +2406,11 @@
             }
         },
         {
-            "id": "87",
+            "id": "89",
             "key": [
                 "7",
-                87,
-                "87"
+                89,
+                "89"
             ],
             "value": {
                 "story": "7",
@@ -2379,11 +2433,11 @@
             }
         },
         {
-            "id": "88",
+            "id": "90",
             "key": [
                 "7",
-                88,
-                "88"
+                90,
+                "90"
             ],
             "value": {
                 "story": "7",
@@ -2406,11 +2460,11 @@
             }
         },
         {
-            "id": "89",
+            "id": "91",
             "key": [
                 "7",
-                89,
-                "89"
+                91,
+                "91"
             ],
             "value": {
                 "story": "7",
@@ -2433,11 +2487,11 @@
             }
         },
         {
-            "id": "90",
+            "id": "92",
             "key": [
                 "7",
-                90,
-                "90"
+                92,
+                "92"
             ],
             "value": {
                 "story": "7",
@@ -2460,11 +2514,11 @@
             }
         },
         {
-            "id": "91",
+            "id": "93",
             "key": [
                 "7",
-                91,
-                "91"
+                93,
+                "93"
             ],
             "value": {
                 "story": "7",
@@ -2487,11 +2541,11 @@
             }
         },
         {
-            "id": "92",
+            "id": "94",
             "key": [
                 "7",
-                92,
-                "92"
+                94,
+                "94"
             ],
             "value": {
                 "story": "7",
@@ -2514,11 +2568,11 @@
             }
         },
         {
-            "id": "93",
+            "id": "95",
             "key": [
                 "7",
-                93,
-                "93"
+                95,
+                "95"
             ],
             "value": {
                 "story": "7",
@@ -2541,11 +2595,11 @@
             }
         },
         {
-            "id": "94",
+            "id": "96",
             "key": [
                 "7",
-                94,
-                "94"
+                96,
+                "96"
             ],
             "value": {
                 "story": "7",
@@ -2568,11 +2622,11 @@
             }
         },
         {
-            "id": "95",
+            "id": "97",
             "key": [
                 "7",
-                95,
-                "95"
+                97,
+                "97"
             ],
             "value": {
                 "story": "7",
@@ -2595,11 +2649,11 @@
             }
         },
         {
-            "id": "96",
+            "id": "98",
             "key": [
                 "7",
-                96,
-                "96"
+                98,
+                "98"
             ],
             "value": {
                 "story": "7",
@@ -2622,11 +2676,11 @@
             }
         },
         {
-            "id": "97",
+            "id": "99",
             "key": [
                 "7",
-                97,
-                "97"
+                99,
+                "99"
             ],
             "value": {
                 "story": "7",
@@ -2649,11 +2703,11 @@
             }
         },
         {
-            "id": "98",
+            "id": "100",
             "key": [
                 "7",
-                98,
-                "98"
+                100,
+                "100"
             ],
             "value": {
                 "story": "7",
@@ -2676,11 +2730,11 @@
             }
         },
         {
-            "id": "99",
+            "id": "101",
             "key": [
                 "7",
-                99,
-                "99"
+                101,
+                "101"
             ],
             "value": {
                 "story": "7",
@@ -2703,11 +2757,11 @@
             }
         },
         {
-            "id": "100",
+            "id": "102",
             "key": [
                 "7",
-                100,
-                "100"
+                102,
+                "102"
             ],
             "value": {
                 "story": "7",
@@ -2730,11 +2784,11 @@
             }
         },
         {
-            "id": "101",
+            "id": "103",
             "key": [
                 "7",
-                101,
-                "101"
+                103,
+                "103"
             ],
             "value": {
                 "story": "7",
@@ -2757,11 +2811,11 @@
             }
         },
         {
-            "id": "102",
+            "id": "104",
             "key": [
                 "7",
-                102,
-                "102"
+                104,
+                "104"
             ],
             "value": {
                 "story": "7",
@@ -2784,11 +2838,11 @@
             }
         },
         {
-            "id": "103",
+            "id": "105",
             "key": [
                 "7",
-                103,
-                "103"
+                105,
+                "105"
             ],
             "value": {
                 "story": "7",
@@ -2811,11 +2865,11 @@
             }
         },
         {
-            "id": "104",
+            "id": "106",
             "key": [
                 "7",
-                104,
-                "104"
+                106,
+                "106"
             ],
             "value": {
                 "story": "7",
@@ -2838,11 +2892,11 @@
             }
         },
         {
-            "id": "105",
+            "id": "107",
             "key": [
                 "7",
-                105,
-                "105"
+                107,
+                "107"
             ],
             "value": {
                 "story": "7",
@@ -2865,11 +2919,11 @@
             }
         },
         {
-            "id": "106",
+            "id": "108",
             "key": [
                 "7",
-                106,
-                "106"
+                108,
+                "108"
             ],
             "value": {
                 "story": "7",
@@ -2892,11 +2946,11 @@
             }
         },
         {
-            "id": "107",
+            "id": "109",
             "key": [
                 "7",
-                107,
-                "107"
+                109,
+                "109"
             ],
             "value": {
                 "story": "7",
@@ -2919,11 +2973,11 @@
             }
         },
         {
-            "id": "108",
+            "id": "110",
             "key": [
                 "7",
-                108,
-                "108"
+                110,
+                "110"
             ],
             "value": {
                 "story": "7",
@@ -2946,11 +3000,11 @@
             }
         },
         {
-            "id": "109",
+            "id": "111",
             "key": [
                 "7",
-                109,
-                "109"
+                111,
+                "111"
             ],
             "value": {
                 "story": "7",
@@ -2973,11 +3027,11 @@
             }
         },
         {
-            "id": "110",
+            "id": "112",
             "key": [
                 "7",
-                110,
-                "110"
+                112,
+                "112"
             ],
             "value": {
                 "story": "7",
@@ -3000,11 +3054,11 @@
             }
         },
         {
-            "id": "111",
+            "id": "113",
             "key": [
                 "7",
-                111,
-                "111"
+                113,
+                "113"
             ],
             "value": {
                 "story": "7",
@@ -3027,11 +3081,11 @@
             }
         },
         {
-            "id": "112",
+            "id": "114",
             "key": [
                 "7",
-                112,
-                "112"
+                114,
+                "114"
             ],
             "value": {
                 "story": "7",
@@ -3054,11 +3108,11 @@
             }
         },
         {
-            "id": "113",
+            "id": "115",
             "key": [
                 "7",
-                113,
-                "113"
+                115,
+                "115"
             ],
             "value": {
                 "story": "7",
@@ -3081,11 +3135,11 @@
             }
         },
         {
-            "id": "114",
+            "id": "116",
             "key": [
                 "7",
-                114,
-                "114"
+                116,
+                "116"
             ],
             "value": {
                 "story": "7",
@@ -3108,11 +3162,11 @@
             }
         },
         {
-            "id": "115",
+            "id": "117",
             "key": [
                 "7",
-                115,
-                "115"
+                117,
+                "117"
             ],
             "value": {
                 "story": "7",
@@ -3135,11 +3189,11 @@
             }
         },
         {
-            "id": "116",
+            "id": "118",
             "key": [
                 "7",
-                116,
-                "116"
+                118,
+                "118"
             ],
             "value": {
                 "story": "7",
@@ -3162,11 +3216,11 @@
             }
         },
         {
-            "id": "117",
+            "id": "119",
             "key": [
                 "7",
-                117,
-                "117"
+                119,
+                "119"
             ],
             "value": {
                 "story": "7",
@@ -3189,11 +3243,11 @@
             }
         },
         {
-            "id": "118",
+            "id": "120",
             "key": [
                 "7",
-                118,
-                "118"
+                120,
+                "120"
             ],
             "value": {
                 "story": "7",
@@ -3216,11 +3270,11 @@
             }
         },
         {
-            "id": "119",
+            "id": "121",
             "key": [
                 "7",
-                119,
-                "119"
+                121,
+                "121"
             ],
             "value": {
                 "story": "7",
@@ -3243,11 +3297,11 @@
             }
         },
         {
-            "id": "120",
+            "id": "122",
             "key": [
                 "7",
-                120,
-                "120"
+                122,
+                "122"
             ],
             "value": {
                 "story": "7",
@@ -3270,11 +3324,11 @@
             }
         },
         {
-            "id": "121",
+            "id": "123",
             "key": [
                 "7",
-                121,
-                "121"
+                123,
+                "123"
             ],
             "value": {
                 "story": "7",
@@ -3297,11 +3351,11 @@
             }
         },
         {
-            "id": "122",
+            "id": "124",
             "key": [
                 "7",
-                122,
-                "122"
+                124,
+                "124"
             ],
             "value": {
                 "story": "7",
@@ -3324,11 +3378,11 @@
             }
         },
         {
-            "id": "123",
+            "id": "125",
             "key": [
                 "7",
-                123,
-                "123"
+                125,
+                "125"
             ],
             "value": {
                 "story": "7",
@@ -3351,11 +3405,11 @@
             }
         },
         {
-            "id": "124",
+            "id": "126",
             "key": [
                 "7",
-                124,
-                "124"
+                126,
+                "126"
             ],
             "value": {
                 "story": "7",
@@ -3378,11 +3432,11 @@
             }
         },
         {
-            "id": "125",
+            "id": "127",
             "key": [
                 "7",
-                125,
-                "125"
+                127,
+                "127"
             ],
             "value": {
                 "story": "7",
@@ -3405,11 +3459,11 @@
             }
         },
         {
-            "id": "126",
+            "id": "128",
             "key": [
                 "7",
-                126,
-                "126"
+                128,
+                "128"
             ],
             "value": {
                 "story": "7",
@@ -3432,11 +3486,11 @@
             }
         },
         {
-            "id": "127",
+            "id": "129",
             "key": [
                 "7",
-                127,
-                "127"
+                129,
+                "129"
             ],
             "value": {
                 "story": "7",
@@ -3459,11 +3513,11 @@
             }
         },
         {
-            "id": "128",
+            "id": "130",
             "key": [
                 "7",
-                128,
-                "128"
+                130,
+                "130"
             ],
             "value": {
                 "story": "7",
@@ -3486,11 +3540,11 @@
             }
         },
         {
-            "id": "129",
+            "id": "131",
             "key": [
                 "7",
-                129,
-                "129"
+                131,
+                "131"
             ],
             "value": {
                 "story": "7",
@@ -3513,11 +3567,11 @@
             }
         },
         {
-            "id": "130",
+            "id": "132",
             "key": [
                 "7",
-                130,
-                "130"
+                132,
+                "132"
             ],
             "value": {
                 "story": "7",
@@ -3540,11 +3594,11 @@
             }
         },
         {
-            "id": "131",
+            "id": "133",
             "key": [
                 "7",
-                131,
-                "131"
+                133,
+                "133"
             ],
             "value": {
                 "story": "7",
@@ -3567,11 +3621,11 @@
             }
         },
         {
-            "id": "132",
+            "id": "134",
             "key": [
                 "7",
-                132,
-                "132"
+                134,
+                "134"
             ],
             "value": {
                 "story": "7",
@@ -3594,11 +3648,11 @@
             }
         },
         {
-            "id": "133",
+            "id": "135",
             "key": [
                 "7",
-                133,
-                "133"
+                135,
+                "135"
             ],
             "value": {
                 "story": "7",
@@ -3621,11 +3675,11 @@
             }
         },
         {
-            "id": "134",
+            "id": "136",
             "key": [
                 "7",
-                134,
-                "134"
+                136,
+                "136"
             ],
             "value": {
                 "story": "7",
@@ -3648,11 +3702,11 @@
             }
         },
         {
-            "id": "135",
+            "id": "137",
             "key": [
                 "7",
-                135,
-                "135"
+                137,
+                "137"
             ],
             "value": {
                 "story": "7",
@@ -3675,11 +3729,11 @@
             }
         },
         {
-            "id": "136",
+            "id": "138",
             "key": [
                 "7",
-                136,
-                "136"
+                138,
+                "138"
             ],
             "value": {
                 "story": "7",
@@ -3702,11 +3756,11 @@
             }
         },
         {
-            "id": "137",
+            "id": "139",
             "key": [
                 "7",
-                137,
-                "137"
+                139,
+                "139"
             ],
             "value": {
                 "story": "7",
@@ -3729,11 +3783,11 @@
             }
         },
         {
-            "id": "138",
+            "id": "140",
             "key": [
                 "7",
-                138,
-                "138"
+                140,
+                "140"
             ],
             "value": {
                 "story": "7",
@@ -3756,11 +3810,11 @@
             }
         },
         {
-            "id": "139",
+            "id": "141",
             "key": [
                 "7",
-                139,
-                "139"
+                141,
+                "141"
             ],
             "value": {
                 "story": "7",
@@ -3783,11 +3837,11 @@
             }
         },
         {
-            "id": "140",
+            "id": "142",
             "key": [
                 "7",
-                140,
-                "140"
+                142,
+                "142"
             ],
             "value": {
                 "story": "7",
@@ -3810,11 +3864,11 @@
             }
         },
         {
-            "id": "141",
+            "id": "143",
             "key": [
                 "7",
-                141,
-                "141"
+                143,
+                "143"
             ],
             "value": {
                 "story": "7",
@@ -3837,11 +3891,11 @@
             }
         },
         {
-            "id": "142",
+            "id": "144",
             "key": [
                 "7",
-                142,
-                "142"
+                144,
+                "144"
             ],
             "value": {
                 "story": "7",
@@ -3864,11 +3918,11 @@
             }
         },
         {
-            "id": "143",
+            "id": "145",
             "key": [
                 "7",
-                143,
-                "143"
+                145,
+                "145"
             ],
             "value": {
                 "story": "7",
@@ -3891,11 +3945,11 @@
             }
         },
         {
-            "id": "144",
+            "id": "146",
             "key": [
                 "7",
-                144,
-                "144"
+                146,
+                "146"
             ],
             "value": {
                 "story": "7",
@@ -3918,11 +3972,11 @@
             }
         },
         {
-            "id": "145",
+            "id": "147",
             "key": [
                 "7",
-                145,
-                "145"
+                147,
+                "147"
             ],
             "value": {
                 "story": "7",
@@ -3945,11 +3999,11 @@
             }
         },
         {
-            "id": "146",
+            "id": "148",
             "key": [
                 "7",
-                146,
-                "146"
+                148,
+                "148"
             ],
             "value": {
                 "story": "7",
@@ -3972,11 +4026,11 @@
             }
         },
         {
-            "id": "147",
+            "id": "149",
             "key": [
                 "7",
-                147,
-                "147"
+                149,
+                "149"
             ],
             "value": {
                 "story": "7",
@@ -3999,11 +4053,11 @@
             }
         },
         {
-            "id": "148",
+            "id": "150",
             "key": [
                 "7",
-                148,
-                "148"
+                150,
+                "150"
             ],
             "value": {
                 "story": "7",
@@ -4026,11 +4080,11 @@
             }
         },
         {
-            "id": "149",
+            "id": "151",
             "key": [
                 "7",
-                149,
-                "149"
+                151,
+                "151"
             ],
             "value": {
                 "story": "7",
@@ -4053,11 +4107,11 @@
             }
         },
         {
-            "id": "150",
+            "id": "152",
             "key": [
                 "7",
-                150,
-                "150"
+                152,
+                "152"
             ],
             "value": {
                 "story": "7",
@@ -4080,11 +4134,11 @@
             }
         },
         {
-            "id": "151",
+            "id": "153",
             "key": [
                 "7",
-                151,
-                "151"
+                153,
+                "153"
             ],
             "value": {
                 "story": "7",
@@ -4107,11 +4161,11 @@
             }
         },
         {
-            "id": "152",
+            "id": "154",
             "key": [
                 "7",
-                152,
-                "152"
+                154,
+                "154"
             ],
             "value": {
                 "story": "7",
@@ -4134,11 +4188,11 @@
             }
         },
         {
-            "id": "153",
+            "id": "155",
             "key": [
                 "7",
-                153,
-                "153"
+                155,
+                "155"
             ],
             "value": {
                 "story": "7",
@@ -4161,11 +4215,11 @@
             }
         },
         {
-            "id": "154",
+            "id": "156",
             "key": [
                 "7",
-                154,
-                "154"
+                156,
+                "156"
             ],
             "value": {
                 "story": "7",
@@ -4188,11 +4242,11 @@
             }
         },
         {
-            "id": "155",
+            "id": "157",
             "key": [
                 "7",
-                155,
-                "155"
+                157,
+                "157"
             ],
             "value": {
                 "story": "7",
@@ -4215,11 +4269,11 @@
             }
         },
         {
-            "id": "156",
+            "id": "158",
             "key": [
                 "7",
-                156,
-                "156"
+                158,
+                "158"
             ],
             "value": {
                 "story": "7",
@@ -4242,11 +4296,11 @@
             }
         },
         {
-            "id": "157",
+            "id": "159",
             "key": [
                 "7",
-                157,
-                "157"
+                159,
+                "159"
             ],
             "value": {
                 "story": "7",
@@ -4269,11 +4323,11 @@
             }
         },
         {
-            "id": "158",
+            "id": "160",
             "key": [
                 "7",
-                158,
-                "158"
+                160,
+                "160"
             ],
             "value": {
                 "story": "7",
@@ -4296,11 +4350,11 @@
             }
         },
         {
-            "id": "159",
+            "id": "161",
             "key": [
                 "7",
-                159,
-                "159"
+                161,
+                "161"
             ],
             "value": {
                 "story": "7",
@@ -4323,11 +4377,11 @@
             }
         },
         {
-            "id": "160",
+            "id": "162",
             "key": [
                 "7",
-                160,
-                "160"
+                162,
+                "162"
             ],
             "value": {
                 "story": "7",
@@ -4350,11 +4404,11 @@
             }
         },
         {
-            "id": "161",
+            "id": "163",
             "key": [
                 "7",
-                161,
-                "161"
+                163,
+                "163"
             ],
             "value": {
                 "story": "7",
@@ -4377,11 +4431,11 @@
             }
         },
         {
-            "id": "162",
+            "id": "164",
             "key": [
                 "7",
-                162,
-                "162"
+                164,
+                "164"
             ],
             "value": {
                 "story": "7",
@@ -4404,11 +4458,11 @@
             }
         },
         {
-            "id": "163",
+            "id": "165",
             "key": [
                 "7",
-                163,
-                "163"
+                165,
+                "165"
             ],
             "value": {
                 "story": "7",
@@ -4431,11 +4485,11 @@
             }
         },
         {
-            "id": "164",
+            "id": "166",
             "key": [
                 "7",
-                164,
-                "164"
+                166,
+                "166"
             ],
             "value": {
                 "story": "7",
@@ -4458,11 +4512,11 @@
             }
         },
         {
-            "id": "165",
+            "id": "167",
             "key": [
                 "7",
-                165,
-                "165"
+                167,
+                "167"
             ],
             "value": {
                 "story": "7",
@@ -4485,11 +4539,11 @@
             }
         },
         {
-            "id": "166",
+            "id": "168",
             "key": [
                 "7",
-                166,
-                "166"
+                168,
+                "168"
             ],
             "value": {
                 "story": "7",
@@ -4512,11 +4566,11 @@
             }
         },
         {
-            "id": "167",
+            "id": "169",
             "key": [
                 "7",
-                167,
-                "167"
+                169,
+                "169"
             ],
             "value": {
                 "story": "7",
@@ -4539,11 +4593,11 @@
             }
         },
         {
-            "id": "168",
+            "id": "170",
             "key": [
                 "7",
-                168,
-                "168"
+                170,
+                "170"
             ],
             "value": {
                 "story": "7",
@@ -4566,11 +4620,11 @@
             }
         },
         {
-            "id": "169",
+            "id": "171",
             "key": [
                 "7",
-                169,
-                "169"
+                171,
+                "171"
             ],
             "value": {
                 "story": "7",
@@ -4593,11 +4647,11 @@
             }
         },
         {
-            "id": "170",
+            "id": "172",
             "key": [
                 "7",
-                170,
-                "170"
+                172,
+                "172"
             ],
             "value": {
                 "story": "7",
@@ -4620,11 +4674,11 @@
             }
         },
         {
-            "id": "171",
+            "id": "173",
             "key": [
                 "7",
-                171,
-                "171"
+                173,
+                "173"
             ],
             "value": {
                 "story": "7",
@@ -4647,11 +4701,11 @@
             }
         },
         {
-            "id": "172",
+            "id": "174",
             "key": [
                 "7",
-                172,
-                "172"
+                174,
+                "174"
             ],
             "value": {
                 "story": "7",
@@ -4674,60 +4728,6 @@
             }
         },
         {
-            "id": "173",
-            "key": [
-                "8",
-                173,
-                "173"
-            ],
-            "value": {
-                "story": "8",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "The Tchaman group is present,",
-                    "morphemes": "cá-mã́ ɓrɛ hɛ̃́ khwa lé",
-                    "orthography": "Cámán bhrɛ hɛ́n khwa lé",
-                    "gloss": "Tchaman-pl unite pass be.present.pl part",
-                    "gloss_fr": "Tchamans réunisser passer être.present v.part",
-                    "translation": "The Tchaman group is present,",
-                    "french": "Le groupe Atchan est present, ",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "174",
-            "key": [
-                "8",
-                174,
-                "174"
-            ],
-            "value": {
-                "story": "8",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "they are numerous.",
-                    "morphemes": "cá-mã́ ɡreɓɛ ɓrɛ hɛ̃́ khwa lé",
-                    "orthography": "Cámán grebhɛ bhrɛ hɛ́n khwa lé,",
-                    "gloss": "Tchaman-pl forty unite pass be.present.pl part",
-                    "gloss_fr": "Tchamans quarante réunisser passer être.present v.part",
-                    "translation": "they are numerous.",
-                    "french": "ils sont nombreux.",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
             "id": "175",
             "key": [
                 "8",
@@ -4738,13 +4738,13 @@
                 "story": "8",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "The large number of Tchagbas,",
-                    "morphemes": "o krãmã cháɡba pásá ɡreɓɛ",
-                    "orthography": "o kranman Chágba pasá grebhɛ",
-                    "gloss": "pro.indef say Tchagba audience forty",
-                    "gloss_fr": "1pl dire Tchagba public quarante",
-                    "translation": "The large number of Tchagbas,",
-                    "french": "Le grand nombre des Tchagbas, ",
+                    "utterance": "The one thing I want on this earth",
+                    "morphemes": "á-jí brɛ̃ khɛ̃́ mɛ̃́ nɛ̃ á-théɟi",
+                    "orthography": "áyí brɛn khɛ́n mɛ́n nɛn áthéji",
+                    "gloss": "cm-thing one rel 1sg.ipfv want cm-world",
+                    "gloss_fr": "chose une que 1sg vouloir monde",
+                    "translation": "The one thing I want on this earth",
+                    "french": "La chose que je cherche sur cette terre,",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -4765,13 +4765,13 @@
                 "story": "8",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "the door has been open to let them through.",
-                    "morphemes": "phwã si se lo ɓa hɛ̃-e",
-                    "orthography": "phwan si se lo bha hɛn-e,",
-                    "gloss": "open.pfv door give.pfv 1pl come pass-emph",
-                    "gloss_fr": "ouvrir porte donner 1pl venir passer-emph",
-                    "translation": "the door has been open to let them through.",
-                    "french": "on a ouvert les portes pour laisser le passage.",
+                    "utterance": "is love.",
+                    "morphemes": "ló nɔ̃́ a li á-pɔ́",
+                    "orthography": "ló nɔ̂n a li ápɔ́",
+                    "gloss": "3.inan foc 3 cop nmlz-love",
+                    "gloss_fr": "ça foc pr être amour",
+                    "translation": "is love.",
+                    "french": "c'est ça qui est l'amour.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -4792,13 +4792,13 @@
                 "story": "8",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "Let's go look for N'Cho Norbert; he will come through.",
-                    "morphemes": "o do lo nʃɔ nɔbɛ ã mã́ hɛ̃́-ã",
-                    "orthography": "o do lo Ncho Norbert an man hɛ́n-an.",
-                    "gloss": "pro.indef bring go N'Cho Norbert 3sg fut pass-emph",
-                    "gloss_fr": "1pl apporter aller N'Cho Norbert 3sg AUX+FUT passer-emph",
-                    "translation": "Let's go look for N'Cho Norbert; he will come through.",
-                    "french": "Allons-y chercher N'Cho Norbert, il va passer. ",
+                    "utterance": "Oh God, give me the spirit,",
+                    "morphemes": "o hwãnthe ɛ se mɛ̃ ló nã́nã́mi",
+                    "orthography": "o hwanthe ɛ se mɛn ló nánnánmi",
+                    "gloss": "oh Lord 2sg give.imp 1sg dem spirit",
+                    "gloss_fr": "oh Seigneur 2sg donner obj.1sg le esprit",
+                    "translation": "Oh God, give me the spirit,",
+                    "french": "Oh mon Dieu, faut me donner l'esprit,",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -4819,6 +4819,168 @@
                 "story": "8",
                 "sentence": {
                     "judgement": "",
+                    "utterance": "give me the strength to love my neighbor.",
+                    "morphemes": "ɛ se mɛ̃ ló nsɛ̃́pɛ́ mɛ̃ pɔ mɛ̃ ɟɔ",
+                    "orthography": "ɛ se mɛn ló nsɛ́npɛ́ mɛn pɔ mɛn jɔ",
+                    "gloss": "2sg give.imp 1sg dem strength 1sg love 1sg friend",
+                    "gloss_fr": "2sg donner obj.1sg la force 1sg aimer poss.1sg ami",
+                    "translation": "give me the strength to love my neighbor.",
+                    "french": "faut me donner la force pour aimer mon frère.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "179",
+            "key": [
+                "9",
+                179,
+                "179"
+            ],
+            "value": {
+                "story": "9",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The Tchaman group is present,",
+                    "morphemes": "cá-mã́ ɓrɛ hɛ̃́ khwa lé",
+                    "orthography": "Cámán bhrɛ hɛ́n khwa lé",
+                    "gloss": "Tchaman-pl unite pass be.present.pl part",
+                    "gloss_fr": "Tchamans réunisser passer être.present v.part",
+                    "translation": "The Tchaman group is present,",
+                    "french": "Le groupe Atchan est present, ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "180",
+            "key": [
+                "9",
+                180,
+                "180"
+            ],
+            "value": {
+                "story": "9",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "they are numerous.",
+                    "morphemes": "cá-mã́ ɡreɓɛ ɓrɛ hɛ̃́ khwa lé",
+                    "orthography": "Cámán grebhɛ bhrɛ hɛ́n khwa lé,",
+                    "gloss": "Tchaman-pl forty unite pass be.present.pl part",
+                    "gloss_fr": "Tchamans quarante réunisser passer être.present v.part",
+                    "translation": "they are numerous.",
+                    "french": "ils sont nombreux.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "181",
+            "key": [
+                "9",
+                181,
+                "181"
+            ],
+            "value": {
+                "story": "9",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The large number of Tchagbas,",
+                    "morphemes": "o krãmã cháɡba pásá ɡreɓɛ",
+                    "orthography": "o kranman Chágba pasá grebhɛ",
+                    "gloss": "pro.indef say Tchagba audience forty",
+                    "gloss_fr": "1pl dire Tchagba public quarante",
+                    "translation": "The large number of Tchagbas,",
+                    "french": "Le grand nombre des Tchagbas, ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "182",
+            "key": [
+                "9",
+                182,
+                "182"
+            ],
+            "value": {
+                "story": "9",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "the door has been open to let them through.",
+                    "morphemes": "phwã si se lo ɓa hɛ̃-e",
+                    "orthography": "phwan si se lo bha hɛn-e,",
+                    "gloss": "open.pfv door give.pfv 1pl come pass-emph",
+                    "gloss_fr": "ouvrir porte donner 1pl venir passer-emph",
+                    "translation": "the door has been open to let them through.",
+                    "french": "on a ouvert les portes pour laisser le passage.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "183",
+            "key": [
+                "9",
+                183,
+                "183"
+            ],
+            "value": {
+                "story": "9",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "Let's go look for N'Cho Norbert; he will come through.",
+                    "morphemes": "o do lo nʃɔ nɔbɛ ã mã́ hɛ̃́-ã",
+                    "orthography": "o do lo Ncho Norbert an man hɛ́n-an.",
+                    "gloss": "pro.indef bring go N'Cho Norbert 3sg fut pass-emph",
+                    "gloss_fr": "1pl apporter aller N'Cho Norbert 3sg AUX+FUT passer-emph",
+                    "translation": "Let's go look for N'Cho Norbert; he will come through.",
+                    "french": "Allons-y chercher N'Cho Norbert, il va passer. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "184",
+            "key": [
+                "9",
+                184,
+                "184"
+            ],
+            "value": {
+                "story": "9",
+                "sentence": {
+                    "judgement": "",
                     "utterance": "We've come out; here we are.",
                     "morphemes": "lo thãndi lo e-ɓá nɛ̃ lo nɛ̃ lo",
                     "orthography": "Lo thandi lo ebhá, nɛn lo nɛn lo,",
@@ -4836,14 +4998,14 @@
             }
         },
         {
-            "id": "179",
+            "id": "185",
             "key": [
-                "8",
-                179,
-                "179"
+                "9",
+                185,
+                "185"
             ],
             "value": {
-                "story": "8",
+                "story": "9",
                 "sentence": {
                     "judgement": "",
                     "utterance": "We carried our stuff; here we are.",
@@ -4863,14 +5025,14 @@
             }
         },
         {
-            "id": "180",
+            "id": "186",
             "key": [
-                "8",
-                180,
-                "180"
+                "9",
+                186,
+                "186"
             ],
             "value": {
-                "story": "8",
+                "story": "9",
                 "sentence": {
                     "judgement": "",
                     "utterance": "The Agban girls are well-dressed; they are arriving.",
@@ -4890,185 +5052,23 @@
             }
         },
         {
-            "id": "181",
-            "key": [
-                "8",
-                181,
-                "181"
-            ],
-            "value": {
-                "story": "8",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "Don't hide,",
-                    "morphemes": "ɔ̃́ ne wá hrɔmã",
-                    "orthography": "Ɔ́n ne wá hrɔman",
-                    "gloss": "2pl neg run hide",
-                    "gloss_fr": "2pl neg courir cacher",
-                    "translation": "Don't hide,",
-                    "french": "Ne vous cachez pas,",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "182",
-            "key": [
-                "8",
-                182,
-                "182"
-            ],
-            "value": {
-                "story": "8",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "afterwards, you'll saw that you didn't see anything that the Agbans did.",
-                    "morphemes": "a-ɟi o nɛ́ ɔ̃́ ne wu aɡbã jí-e",
-                    "orthography": "àji o nkɛ́ ɔ́n ne wu Agban yí-e.",
-                    "gloss": "cm-after   2pl neg see Agban thing-emph",
-                    "gloss_fr": "après   2pl neg voir Agban chose-emph",
-                    "translation": "afterwards, you'll saw that you didn't see anything that the Agbans did.",
-                    "french": "après vous allez dire que vous n'avez rien vu de ce que les Agban ont fait. ",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "183",
-            "key": [
-                "8",
-                183,
-                "183"
-            ],
-            "value": {
-                "story": "8",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "We're well-dressed, we're arriving; here we are.",
-                    "morphemes": "lo ɡo ndu lo e-ɓá nɛ̃ lo nɛ̃ lo",
-                    "orthography": "Lo go ndu lo ebhá, nɛn lo nɛn lo",
-                    "gloss": "1pl wash.pfv water 1pl prog-come voilà 1pl voilà 1pl",
-                    "gloss_fr": "1pl laver eau 1pl prog-venir voilà 1pl voilà 1pl",
-                    "translation": "We're well-dressed, we're arriving; here we are.",
-                    "french": "Nous sommes bien habillés, nous arrivons, voilà. ",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "184",
-            "key": [
-                "8",
-                184,
-                "184"
-            ],
-            "value": {
-                "story": "8",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "We've carried our stuff; here we are.",
-                    "morphemes": "lo ha jí wo e-ɓá nɛ̃ lo nɛ̃ lo",
-                    "orthography": "lo ha yí wo ebhá, nɛn lo nɛn lo,",
-                    "gloss": "1pl carry.pfv thing 3pl prog-come voilà 1pl voilà 1pl",
-                    "gloss_fr": "1pl charger chose 3pl prog-venir voilà 1pl voilà 1pl",
-                    "translation": "We've carried our stuff; here we are.",
-                    "french": "Nous avons chargé des baggages, voilà. ",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "185",
-            "key": [
-                "8",
-                185,
-                "185"
-            ],
-            "value": {
-                "story": "8",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "Agban N'Guessan is well-dressed; they're arriving.",
-                    "morphemes": "aɡbã nɟesã ɡo ndu wo e-ɓá wo e-lé hɔ̃́ mɔ̃́ lê ɔ̃́ ma wú wo",
-                    "orthography": "Agban njésan go ndu wo ebhá, wo elé hɔ́n nmɔ́n lê ɔ́n ma wú wo.",
-                    "gloss": "Agban N'Guessan wash.pfv water 3pl prog-come 3pl prog-wave 2pl arm that 2pl fut see 3pl",
-                    "gloss_fr": "Agban N'Guessan laver eau 3pl prog-venir 3pl prog-agiter 2pl bras que 2pl AUX+FUT voir 3pl",
-                    "translation": "Agban N'Guessan is well-dressed; they're arriving.",
-                    "french": "Agban N'Guessan est bien habillé, ils arrivent. ",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "186",
-            "key": [
-                "8",
-                186,
-                "186"
-            ],
-            "value": {
-                "story": "8",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "Don't hide,",
-                    "morphemes": "ɔ̃́ ne wá hrɔmã",
-                    "orthography": "Ɔ́n ne wá hrɔman",
-                    "gloss": "2pl neg run hide",
-                    "gloss_fr": "2pl neg courir cacher",
-                    "translation": "Don't hide,",
-                    "french": "Ne vous cachez pas,",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
             "id": "187",
             "key": [
-                "8",
+                "9",
                 187,
                 "187"
             ],
             "value": {
-                "story": "8",
+                "story": "9",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "afterwards, you'll say that you didn't see anything that the Agbans did.",
-                    "morphemes": "a-ɟi o nɛ́ ɔ̃́ ne wu aɡbã jí-e",
-                    "orthography": "àji o nkɛ́ ɔ́n ne wu Agban yí-e.",
-                    "gloss": "cm-after   2pl neg see Agban thing-emph",
-                    "gloss_fr": "après   2pl neg voir Agban chose-emph",
-                    "translation": "afterwards, you'll say that you didn't see anything that the Agbans did.",
-                    "french": "après vous allez dire que vous n'avez rien vu de ce que les Agban ont fait.",
+                    "utterance": "Don't hide,",
+                    "morphemes": "ɔ̃́ ne wá hrɔmã",
+                    "orthography": "Ɔ́n ne wá hrɔman",
+                    "gloss": "2pl neg run hide",
+                    "gloss_fr": "2pl neg courir cacher",
+                    "translation": "Don't hide,",
+                    "french": "Ne vous cachez pas,",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -5089,13 +5089,13 @@
                 "story": "9",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "I give glory to God",
-                    "morphemes": "mɛ̃ mó ɛ̃́ŋɡuhá se hwãnthe",
-                    "orthography": "mɛn mó ńguhá se Hwanthe",
-                    "gloss": "1sg take glory give lord",
-                    "gloss_fr": "1sg prendre gloire donner Dieu",
-                    "translation": "I give glory to God",
-                    "french": "Je rends gloire à Dieu",
+                    "utterance": "afterwards, you'll saw that you didn't see anything that the Agbans did.",
+                    "morphemes": "a-ɟi o nɛ́ ɔ̃́ ne wu aɡbã jí-e",
+                    "orthography": "àji o nkɛ́ ɔ́n ne wu Agban yí-e.",
+                    "gloss": "cm-after   2pl neg see Agban thing-emph",
+                    "gloss_fr": "après   2pl neg voir Agban chose-emph",
+                    "translation": "afterwards, you'll saw that you didn't see anything that the Agbans did.",
+                    "french": "après vous allez dire que vous n'avez rien vu de ce que les Agban ont fait. ",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -5116,13 +5116,13 @@
                 "story": "9",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "I will praise him everyday",
-                    "morphemes": "á-ká khúmbrɛ̃ mã́ nri nɛ hwa",
-                    "orthography": "áká khúúnbrɛn maán nri nkɛ hwa",
-                    "gloss": "cm-time all fut praise 3sg part",
-                    "gloss_fr": "temps tout AUX+FUT louer obj.3sg part.tv",
-                    "translation": "I will praise him everyday",
-                    "french": "Je vais le louer chaque jour",
+                    "utterance": "We're well-dressed, we're arriving; here we are.",
+                    "morphemes": "lo ɡo ndu lo e-ɓá nɛ̃ lo nɛ̃ lo",
+                    "orthography": "Lo go ndu lo ebhá, nɛn lo nɛn lo",
+                    "gloss": "1pl wash.pfv water 1pl prog-come voilà 1pl voilà 1pl",
+                    "gloss_fr": "1pl laver eau 1pl prog-venir voilà 1pl voilà 1pl",
+                    "translation": "We're well-dressed, we're arriving; here we are.",
+                    "french": "Nous sommes bien habillés, nous arrivons, voilà. ",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -5143,13 +5143,13 @@
                 "story": "9",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "I give glory to God",
-                    "morphemes": "mɛ̃ mó ɛ̃́-ŋɡuhá se hwãnthe",
-                    "orthography": "mɛn mó ńguhá se Hwanthe",
-                    "gloss": "1sg take glory give lord",
-                    "gloss_fr": "1sg prendre gloire donner Dieu",
-                    "translation": "I give glory to God",
-                    "french": "Je rends gloire à Dieu",
+                    "utterance": "We've carried our stuff; here we are.",
+                    "morphemes": "lo ha jí wo e-ɓá nɛ̃ lo nɛ̃ lo",
+                    "orthography": "lo ha yí wo ebhá, nɛn lo nɛn lo,",
+                    "gloss": "1pl carry.pfv thing 3pl prog-come voilà 1pl voilà 1pl",
+                    "gloss_fr": "1pl charger chose 3pl prog-venir voilà 1pl voilà 1pl",
+                    "translation": "We've carried our stuff; here we are.",
+                    "french": "Nous avons chargé des baggages, voilà. ",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -5170,13 +5170,13 @@
                 "story": "9",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "I will praise him everyday",
-                    "morphemes": "á-ká khúmbrɛ̃ mã́ nri nɛ hwa",
-                    "orthography": "áká khúúnbrɛn maán nri nkɛ hwa",
-                    "gloss": "cm-time all fut praise 3sg part",
-                    "gloss_fr": "temps tout AUX+FUT louer obj.2sg part.tv",
-                    "translation": "I will praise him everyday",
-                    "french": "Je vais le louer chaque jour",
+                    "utterance": "Agban N'Guessan is well-dressed; they're arriving.",
+                    "morphemes": "aɡbã nɟesã ɡo ndu wo e-ɓá wo e-lé hɔ̃́ mɔ̃́ lê ɔ̃́ ma wú wo",
+                    "orthography": "Agban njésan go ndu wo ebhá, wo elé hɔ́n nmɔ́n lê ɔ́n ma wú wo.",
+                    "gloss": "Agban N'Guessan wash.pfv water 3pl prog-come 3pl prog-wave 2pl arm that 2pl fut see 3pl",
+                    "gloss_fr": "Agban N'Guessan laver eau 3pl prog-venir 3pl prog-agiter 2pl bras que 2pl AUX+FUT voir 3pl",
+                    "translation": "Agban N'Guessan is well-dressed; they're arriving.",
+                    "french": "Agban N'Guessan est bien habillé, ils arrivent. ",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -5197,13 +5197,13 @@
                 "story": "9",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "I want God to be my glory",
-                    "morphemes": "mɛ̃́ nɛ̃ lé hwãnthe olí mɛ̃ ɛ̃́-ŋɡuhá",
-                    "orthography": "mɛɛ́n nɛn lé Hwánthe olí mɛn nguhá",
-                    "gloss": "1sg want that lord cop 1sg glory",
-                    "gloss_fr": "1sg vouloir que Dieu  poss.1sg gloire",
-                    "translation": "I want God to be my glory",
-                    "french": "Je veux que le Seigneur soit ma gloire",
+                    "utterance": "Don't hide,",
+                    "morphemes": "ɔ̃́ ne wá hrɔmã",
+                    "orthography": "Ɔ́n ne wá hrɔman",
+                    "gloss": "2pl neg run hide",
+                    "gloss_fr": "2pl neg courir cacher",
+                    "translation": "Don't hide,",
+                    "french": "Ne vous cachez pas,",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -5224,6 +5224,168 @@
                 "story": "9",
                 "sentence": {
                     "judgement": "",
+                    "utterance": "afterwards, you'll say that you didn't see anything that the Agbans did.",
+                    "morphemes": "a-ɟi o nɛ́ ɔ̃́ ne wu aɡbã jí-e",
+                    "orthography": "àji o nkɛ́ ɔ́n ne wu Agban yí-e.",
+                    "gloss": "cm-after   2pl neg see Agban thing-emph",
+                    "gloss_fr": "après   2pl neg voir Agban chose-emph",
+                    "translation": "afterwards, you'll say that you didn't see anything that the Agbans did.",
+                    "french": "après vous allez dire que vous n'avez rien vu de ce que les Agban ont fait.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "194",
+            "key": [
+                "10",
+                194,
+                "194"
+            ],
+            "value": {
+                "story": "10",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "I give glory to God",
+                    "morphemes": "mɛ̃ mó ɛ̃́ŋɡuhá se hwãnthe",
+                    "orthography": "mɛn mó ńguhá se Hwanthe",
+                    "gloss": "1sg take glory give lord",
+                    "gloss_fr": "1sg prendre gloire donner Dieu",
+                    "translation": "I give glory to God",
+                    "french": "Je rends gloire à Dieu",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "195",
+            "key": [
+                "10",
+                195,
+                "195"
+            ],
+            "value": {
+                "story": "10",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "I will praise him everyday",
+                    "morphemes": "á-ká khúmbrɛ̃ mã́ nri nɛ hwa",
+                    "orthography": "áká khúúnbrɛn maán nri nkɛ hwa",
+                    "gloss": "cm-time all fut praise 3sg part",
+                    "gloss_fr": "temps tout AUX+FUT louer obj.3sg part.tv",
+                    "translation": "I will praise him everyday",
+                    "french": "Je vais le louer chaque jour",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "196",
+            "key": [
+                "10",
+                196,
+                "196"
+            ],
+            "value": {
+                "story": "10",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "I give glory to God",
+                    "morphemes": "mɛ̃ mó ɛ̃́-ŋɡuhá se hwãnthe",
+                    "orthography": "mɛn mó ńguhá se Hwanthe",
+                    "gloss": "1sg take glory give lord",
+                    "gloss_fr": "1sg prendre gloire donner Dieu",
+                    "translation": "I give glory to God",
+                    "french": "Je rends gloire à Dieu",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "197",
+            "key": [
+                "10",
+                197,
+                "197"
+            ],
+            "value": {
+                "story": "10",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "I will praise him everyday",
+                    "morphemes": "á-ká khúmbrɛ̃ mã́ nri nɛ hwa",
+                    "orthography": "áká khúúnbrɛn maán nri nkɛ hwa",
+                    "gloss": "cm-time all fut praise 3sg part",
+                    "gloss_fr": "temps tout AUX+FUT louer obj.2sg part.tv",
+                    "translation": "I will praise him everyday",
+                    "french": "Je vais le louer chaque jour",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "198",
+            "key": [
+                "10",
+                198,
+                "198"
+            ],
+            "value": {
+                "story": "10",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "I want God to be my glory",
+                    "morphemes": "mɛ̃́ nɛ̃ lé hwãnthe olí mɛ̃ ɛ̃́-ŋɡuhá",
+                    "orthography": "mɛɛ́n nɛn lé Hwánthe olí mɛn nguhá",
+                    "gloss": "1sg want that lord cop 1sg glory",
+                    "gloss_fr": "1sg vouloir que Dieu  poss.1sg gloire",
+                    "translation": "I want God to be my glory",
+                    "french": "Je veux que le Seigneur soit ma gloire",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "199",
+            "key": [
+                "10",
+                199,
+                "199"
+            ],
+            "value": {
+                "story": "10",
+                "sentence": {
+                    "judgement": "",
                     "utterance": "You are the good people",
                     "morphemes": "hɔ̃́ khɛ̃́ ɔ̃́ ni thɛ̃-ɓwá-mã́",
                     "orthography": "hɔ́n khɛ́n ɔ́n ni nthɛ́nbhwámán",
@@ -5241,14 +5403,14 @@
             }
         },
         {
-            "id": "194",
+            "id": "200",
             "key": [
-                "9",
-                194,
-                "194"
+                "10",
+                200,
+                "200"
             ],
             "value": {
-                "story": "9",
+                "story": "10",
                 "sentence": {
                     "judgement": "",
                     "utterance": "Listen to what I say",
@@ -5268,14 +5430,14 @@
             }
         },
         {
-            "id": "195",
+            "id": "201",
             "key": [
-                "9",
-                195,
-                "195"
+                "10",
+                201,
+                "201"
             ],
             "value": {
-                "story": "9",
+                "story": "10",
                 "sentence": {
                     "judgement": "",
                     "utterance": "and be joyous",

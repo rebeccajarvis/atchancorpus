@@ -1,5 +1,5 @@
 {
-    "total_rows": 202,
+    "total_rows": 210,
     "offset": 0,
     "rows": [
         {
@@ -2173,13 +2173,13 @@
                 "story": "7",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "(story opening phrase)",
-                    "morphemes": "áɡbaɡbae",
-                    "orthography": "Ágbagbaále.",
-                    "gloss": "",
-                    "gloss_fr": "",
-                    "translation": "(story opening phrase)",
-                    "french": "(phrase d'ouverture de l'histoire)",
+                    "utterance": "It's good that I give myself to my father God. ",
+                    "morphemes": "á ɲɔ̃ sálê mɛ̃ hɔ̃́ mɛ̃-mbrɛ̃ sé mɛ̃ the ɲãŋkã",
+                    "orthography": "Á yɔn sálê mɛn hɔ́n mɛn-nbrɛn sé mɛn the Yankan.",
+                    "gloss": "3.inan be.good that 1sg take 1sg-refl give 1sg father God",
+                    "gloss_fr": "         ",
+                    "translation": "It's good that I give myself to my father God. ",
+                    "french": "C'est bien que je me donne à mon père Dieu.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -2200,13 +2200,13 @@
                 "story": "7",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "We're listening. ",
-                    "morphemes": "wo e-jé(tɛ)",
-                    "orthography": "Wo eyé(tɛ).",
-                    "gloss": " ",
-                    "gloss_fr": " ",
-                    "translation": "We're listening. ",
-                    "french": "On écoute.",
+                    "utterance": "God created me.",
+                    "morphemes": "ɲãŋkã a dimã mɛ̃ ɲãŋkã a tɛ mɛ̃",
+                    "orthography": "Yankan a diman mɛn, Yankan a tɛ mɛn.",
+                    "gloss": "God 3.res create.pfv 1sg God 3.res make.pfv 1sg",
+                    "gloss_fr": "       ",
+                    "translation": "God created me.",
+                    "french": "Dieu m'a créé. ",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -2227,13 +2227,13 @@
                 "story": "7",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "One day,",
-                    "morphemes": "   ",
-                    "orthography": "Á li ácíbhi bɛn.",
-                    "gloss": "   ",
-                    "gloss_fr": "   ",
-                    "translation": "One day,",
-                    "french": "Un jour,",
+                    "utterance": "I accept,",
+                    "morphemes": "mɛ̃́ dɛ̃",
+                    "orthography": "Mɛ́n dɛn,",
+                    "gloss": "1sg.ipfv accept",
+                    "gloss_fr": " ",
+                    "translation": "I accept,",
+                    "french": "J'accepte,",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -2254,6 +2254,114 @@
                 "story": "7",
                 "sentence": {
                     "judgement": "",
+                    "utterance": "I will follow your commands.",
+                    "morphemes": "mɛ̃ mã́ ja hɛ bidi tho",
+                    "orthography": "mɛn mán ya hɛ bidi tho.",
+                    "gloss": "1sg fut stay 2sg command top",
+                    "gloss_fr": "     ",
+                    "translation": "I will follow your commands.",
+                    "french": "je vais suivre tes ordres.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "84",
+            "key": [
+                "8",
+                84,
+                "84"
+            ],
+            "value": {
+                "story": "8",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "(story opening phrase)",
+                    "morphemes": "áɡbaɡbae",
+                    "orthography": "Ágbagbaále.",
+                    "gloss": "",
+                    "gloss_fr": "",
+                    "translation": "(story opening phrase)",
+                    "french": "(phrase d'ouverture de l'histoire)",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "85",
+            "key": [
+                "8",
+                85,
+                "85"
+            ],
+            "value": {
+                "story": "8",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "We're listening. ",
+                    "morphemes": "wo e-jé(tɛ)",
+                    "orthography": "Wo eyé(tɛ).",
+                    "gloss": " ",
+                    "gloss_fr": " ",
+                    "translation": "We're listening. ",
+                    "french": "On écoute.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "86",
+            "key": [
+                "8",
+                86,
+                "86"
+            ],
+            "value": {
+                "story": "8",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "One day,",
+                    "morphemes": "   ",
+                    "orthography": "Á li ácíbhi bɛn.",
+                    "gloss": "   ",
+                    "gloss_fr": "   ",
+                    "translation": "One day,",
+                    "french": "Un jour,",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "87",
+            "key": [
+                "8",
+                87,
+                "87"
+            ],
+            "value": {
+                "story": "8",
+                "sentence": {
+                    "judgement": "",
                     "utterance": "a woman,",
                     "morphemes": " ",
                     "orthography": "Yipɔman bɛn,",
@@ -2271,14 +2379,14 @@
             }
         },
         {
-            "id": "84",
+            "id": "88",
             "key": [
-                "7",
-                84,
-                "84"
+                "8",
+                88,
+                "88"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "there was a famine in the village.",
@@ -2298,14 +2406,14 @@
             }
         },
         {
-            "id": "85",
+            "id": "89",
             "key": [
-                "7",
-                85,
-                "85"
+                "8",
+                89,
+                "89"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "The children were dying, so they would throw them away in the bush.",
@@ -2325,14 +2433,14 @@
             }
         },
         {
-            "id": "86",
+            "id": "90",
             "key": [
-                "7",
-                86,
-                "86"
+                "8",
+                90,
+                "90"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "The famine lasted and lasted.",
@@ -2352,14 +2460,14 @@
             }
         },
         {
-            "id": "87",
+            "id": "91",
             "key": [
-                "7",
-                87,
-                "87"
+                "8",
+                91,
+                "91"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "They took the child to go throw him away.",
@@ -2379,14 +2487,14 @@
             }
         },
         {
-            "id": "88",
+            "id": "92",
             "key": [
-                "7",
-                88,
-                "88"
+                "8",
+                92,
+                "92"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "A man and his wife took their child into a car.",
@@ -2406,14 +2514,14 @@
             }
         },
         {
-            "id": "89",
+            "id": "93",
             "key": [
-                "7",
-                89,
-                "89"
+                "8",
+                93,
+                "93"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "They took the child into the middle of the bush.",
@@ -2433,14 +2541,14 @@
             }
         },
         {
-            "id": "90",
+            "id": "94",
             "key": [
-                "7",
-                90,
-                "90"
+                "8",
+                94,
+                "94"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "When they threw away the child,",
@@ -2460,14 +2568,14 @@
             }
         },
         {
-            "id": "91",
+            "id": "95",
             "key": [
-                "7",
-                91,
-                "91"
+                "8",
+                95,
+                "95"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "the woman started crying.",
@@ -2487,14 +2595,14 @@
             }
         },
         {
-            "id": "92",
+            "id": "96",
             "key": [
-                "7",
-                92,
-                "92"
+                "8",
+                96,
+                "96"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "It's her little baby that they took and threw away in the bush.",
@@ -2514,14 +2622,14 @@
             }
         },
         {
-            "id": "93",
+            "id": "97",
             "key": [
-                "7",
-                93,
-                "93"
+                "8",
+                97,
+                "97"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "Her husband said, \"there's no food, you said to take the child to throw him away.",
@@ -2541,14 +2649,14 @@
             }
         },
         {
-            "id": "94",
+            "id": "98",
             "key": [
-                "7",
-                94,
-                "94"
+                "8",
+                98,
+                "98"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "\"There is a famine.\"",
@@ -2568,14 +2676,14 @@
             }
         },
         {
-            "id": "95",
+            "id": "99",
             "key": [
-                "7",
-                95,
-                "95"
+                "8",
+                99,
+                "99"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "Her husband asked for forgiveness, and they left.",
@@ -2595,14 +2703,14 @@
             }
         },
         {
-            "id": "96",
+            "id": "100",
             "key": [
-                "7",
-                96,
-                "96"
+                "8",
+                100,
+                "100"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "When they arrived home,",
@@ -2622,14 +2730,14 @@
             }
         },
         {
-            "id": "97",
+            "id": "101",
             "key": [
-                "7",
-                97,
-                "97"
+                "8",
+                101,
+                "101"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "the famine continued, and spots started to appear on everyone's bodies.",
@@ -2649,14 +2757,14 @@
             }
         },
         {
-            "id": "98",
+            "id": "102",
             "key": [
-                "7",
-                98,
-                "98"
+                "8",
+                102,
+                "102"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "There was no food to eat.",
@@ -2676,14 +2784,14 @@
             }
         },
         {
-            "id": "99",
+            "id": "103",
             "key": [
-                "7",
-                99,
-                "99"
+                "8",
+                103,
+                "103"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "If you find leaves, you cut them to eat.",
@@ -2703,14 +2811,14 @@
             }
         },
         {
-            "id": "100",
+            "id": "104",
             "key": [
-                "7",
-                100,
-                "100"
+                "8",
+                104,
+                "104"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "One day, a hunter, he said,",
@@ -2730,14 +2838,14 @@
             }
         },
         {
-            "id": "101",
+            "id": "105",
             "key": [
-                "7",
-                101,
-                "101"
+                "8",
+                105,
+                "105"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "\"I'm going to go to the bush, and if I find game, I will bring it home.\"",
@@ -2757,14 +2865,14 @@
             }
         },
         {
-            "id": "102",
+            "id": "106",
             "key": [
-                "7",
-                102,
-                "102"
+                "8",
+                106,
+                "106"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "The boy (who had been thrown away) became a man. ",
@@ -2784,14 +2892,14 @@
             }
         },
         {
-            "id": "103",
+            "id": "107",
             "key": [
-                "7",
-                103,
-                "103"
+                "8",
+                107,
+                "107"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "There was a white man working there.",
@@ -2811,14 +2919,14 @@
             }
         },
         {
-            "id": "104",
+            "id": "108",
             "key": [
-                "7",
-                104,
-                "104"
+                "8",
+                108,
+                "108"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "The white man saw him. ",
@@ -2838,14 +2946,14 @@
             }
         },
         {
-            "id": "105",
+            "id": "109",
             "key": [
-                "7",
-                105,
-                "105"
+                "8",
+                109,
+                "109"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "the white man saw him.",
@@ -2865,14 +2973,14 @@
             }
         },
         {
-            "id": "106",
+            "id": "110",
             "key": [
-                "7",
-                106,
-                "106"
+                "8",
+                110,
+                "110"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "He asked him something in French.",
@@ -2892,14 +3000,14 @@
             }
         },
         {
-            "id": "107",
+            "id": "111",
             "key": [
-                "7",
-                107,
-                "107"
+                "8",
+                111,
+                "111"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "He doesn't understand.",
@@ -2919,14 +3027,14 @@
             }
         },
         {
-            "id": "108",
+            "id": "112",
             "key": [
-                "7",
-                108,
-                "108"
+                "8",
+                112,
+                "112"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "He was raised by animals,",
@@ -2946,14 +3054,14 @@
             }
         },
         {
-            "id": "109",
+            "id": "113",
             "key": [
-                "7",
-                109,
-                "109"
+                "8",
+                113,
+                "113"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "so he only understands the language of animals.",
@@ -2973,14 +3081,14 @@
             }
         },
         {
-            "id": "110",
+            "id": "114",
             "key": [
-                "7",
-                110,
-                "110"
+                "8",
+                114,
+                "114"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "The white man left and came back.",
@@ -3000,14 +3108,14 @@
             }
         },
         {
-            "id": "111",
+            "id": "115",
             "key": [
-                "7",
-                111,
-                "111"
+                "8",
+                115,
+                "115"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "The white man built a house for him.",
@@ -3027,14 +3135,14 @@
             }
         },
         {
-            "id": "112",
+            "id": "116",
             "key": [
-                "7",
-                112,
-                "112"
+                "8",
+                116,
+                "116"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "The white man bought him a car, everything.",
@@ -3054,14 +3162,14 @@
             }
         },
         {
-            "id": "113",
+            "id": "117",
             "key": [
-                "7",
-                113,
-                "113"
+                "8",
+                117,
+                "117"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "The white man brought him (to Europe), and he started working.",
@@ -3081,14 +3189,14 @@
             }
         },
         {
-            "id": "114",
+            "id": "118",
             "key": [
-                "7",
-                114,
-                "114"
+                "8",
+                118,
+                "118"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "Before he left, all the animals came to the forest.",
@@ -3108,14 +3216,14 @@
             }
         },
         {
-            "id": "115",
+            "id": "119",
             "key": [
-                "7",
-                115,
-                "115"
+                "8",
+                119,
+                "119"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "When he shouted out,",
@@ -3135,14 +3243,14 @@
             }
         },
         {
-            "id": "116",
+            "id": "120",
             "key": [
-                "7",
-                116,
-                "116"
+                "8",
+                120,
+                "120"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "he called all of the animals,",
@@ -3162,14 +3270,14 @@
             }
         },
         {
-            "id": "117",
+            "id": "121",
             "key": [
-                "7",
-                117,
-                "117"
+                "8",
+                121,
+                "121"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "to say that someone was coming to take him.",
@@ -3189,14 +3297,14 @@
             }
         },
         {
-            "id": "118",
+            "id": "122",
             "key": [
-                "7",
-                118,
-                "118"
+                "8",
+                122,
+                "122"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "All of the animals came.",
@@ -3216,14 +3324,14 @@
             }
         },
         {
-            "id": "119",
+            "id": "123",
             "key": [
-                "7",
-                119,
-                "119"
+                "8",
+                123,
+                "123"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "They asked the man, \"what's going on?\"",
@@ -3243,14 +3351,14 @@
             }
         },
         {
-            "id": "120",
+            "id": "124",
             "key": [
-                "7",
-                120,
-                "120"
+                "8",
+                124,
+                "124"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "He said, \"It's the man there who came and built me a house.\"",
@@ -3270,14 +3378,14 @@
             }
         },
         {
-            "id": "121",
+            "id": "125",
             "key": [
-                "7",
-                121,
-                "121"
+                "8",
+                125,
+                "125"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "\"He came to look for me to take me with him.\"",
@@ -3297,14 +3405,14 @@
             }
         },
         {
-            "id": "122",
+            "id": "126",
             "key": [
-                "7",
-                122,
-                "122"
+                "8",
+                126,
+                "126"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "He said \"no.\"",
@@ -3324,14 +3432,14 @@
             }
         },
         {
-            "id": "123",
+            "id": "127",
             "key": [
-                "7",
-                123,
-                "123"
+                "8",
+                127,
+                "127"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "The animals were angry; the lion jumped up and down. ",
@@ -3351,14 +3459,14 @@
             }
         },
         {
-            "id": "124",
+            "id": "128",
             "key": [
-                "7",
-                124,
-                "124"
+                "8",
+                128,
+                "128"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "\"You know the child?\" he asked, \"and you came here to take him with you?\"",
@@ -3378,14 +3486,14 @@
             }
         },
         {
-            "id": "125",
+            "id": "129",
             "key": [
-                "7",
-                125,
-                "125"
+                "8",
+                129,
+                "129"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "\"No, he is our child, not yours.\"",
@@ -3405,14 +3513,14 @@
             }
         },
         {
-            "id": "126",
+            "id": "130",
             "key": [
-                "7",
-                126,
-                "126"
+                "8",
+                130,
+                "130"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "The white man said, \"no, this child is not yours.\"",
@@ -3432,14 +3540,14 @@
             }
         },
         {
-            "id": "127",
+            "id": "131",
             "key": [
-                "7",
-                127,
-                "127"
+                "8",
+                131,
+                "131"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "He said, \"I came to ask permission of you for him to leave with me.\"",
@@ -3459,14 +3567,14 @@
             }
         },
         {
-            "id": "128",
+            "id": "132",
             "key": [
-                "7",
-                128,
-                "128"
+                "8",
+                132,
+                "132"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "The lion said, \"no, the child is going to stay here\", he himself will watch over the child.",
@@ -3486,14 +3594,14 @@
             }
         },
         {
-            "id": "129",
+            "id": "133",
             "key": [
-                "7",
-                129,
-                "129"
+                "8",
+                133,
+                "133"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "The hunter, he stayed there until he got married.",
@@ -3513,14 +3621,14 @@
             }
         },
         {
-            "id": "130",
+            "id": "134",
             "key": [
-                "7",
-                130,
-                "130"
+                "8",
+                134,
+                "134"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "He respects people now, he got married.",
@@ -3540,14 +3648,14 @@
             }
         },
         {
-            "id": "131",
+            "id": "135",
             "key": [
-                "7",
-                131,
-                "131"
+                "8",
+                135,
+                "135"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "Before getting married, he informed the animals. ",
@@ -3567,14 +3675,14 @@
             }
         },
         {
-            "id": "132",
+            "id": "136",
             "key": [
-                "7",
-                132,
-                "132"
+                "8",
+                136,
+                "136"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "The animals gave him permission.",
@@ -3594,14 +3702,14 @@
             }
         },
         {
-            "id": "133",
+            "id": "137",
             "key": [
-                "7",
-                133,
-                "133"
+                "8",
+                137,
+                "137"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "The hunter, he stopped to look around at everything.",
@@ -3621,14 +3729,14 @@
             }
         },
         {
-            "id": "134",
+            "id": "138",
             "key": [
-                "7",
-                134,
-                "134"
+                "8",
+                138,
+                "138"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "When he was done looking, he went home, he went to the village.",
@@ -3648,14 +3756,14 @@
             }
         },
         {
-            "id": "135",
+            "id": "139",
             "key": [
-                "7",
-                135,
-                "135"
+                "8",
+                139,
+                "139"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "He went to the village, to his mother's house.",
@@ -3675,14 +3783,14 @@
             }
         },
         {
-            "id": "136",
+            "id": "140",
             "key": [
-                "7",
-                136,
-                "136"
+                "8",
+                140,
+                "140"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "The famine raged on, everyone had spots on their bodies.",
@@ -3702,14 +3810,14 @@
             }
         },
         {
-            "id": "137",
+            "id": "141",
             "key": [
-                "7",
-                137,
-                "137"
+                "8",
+                141,
+                "141"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "Everyone had spots on their ears, their noses, everywhere.",
@@ -3729,14 +3837,14 @@
             }
         },
         {
-            "id": "138",
+            "id": "142",
             "key": [
-                "7",
-                138,
-                "138"
+                "8",
+                142,
+                "142"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "The man, he left.",
@@ -3756,14 +3864,14 @@
             }
         },
         {
-            "id": "139",
+            "id": "143",
             "key": [
-                "7",
-                139,
-                "139"
+                "8",
+                143,
+                "143"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "'My brother, I went to the middle of the bush to go hunt, and I saw him.'",
@@ -3783,14 +3891,14 @@
             }
         },
         {
-            "id": "140",
+            "id": "144",
             "key": [
-                "7",
-                140,
-                "140"
+                "8",
+                144,
+                "144"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "'In the bush, they have built beautiful houses.'",
@@ -3810,14 +3918,14 @@
             }
         },
         {
-            "id": "141",
+            "id": "145",
             "key": [
-                "7",
-                141,
-                "141"
+                "8",
+                145,
+                "145"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "'Isn't it your child who you went to throw away in the bush?'",
@@ -3837,14 +3945,14 @@
             }
         },
         {
-            "id": "142",
+            "id": "146",
             "key": [
-                "7",
-                142,
-                "142"
+                "8",
+                146,
+                "146"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "He doesn't know if it's his child who they took to go throw away.",
@@ -3864,14 +3972,14 @@
             }
         },
         {
-            "id": "143",
+            "id": "147",
             "key": [
-                "7",
-                143,
-                "143"
+                "8",
+                147,
+                "147"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "'Come, I will accompany you.' He said, 'hm.'",
@@ -3891,14 +3999,14 @@
             }
         },
         {
-            "id": "144",
+            "id": "148",
             "key": [
-                "7",
-                144,
-                "144"
+                "8",
+                148,
+                "148"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "He said, \"I'll go pass by there.\"",
@@ -3918,14 +4026,14 @@
             }
         },
         {
-            "id": "145",
+            "id": "149",
             "key": [
-                "7",
-                145,
-                "145"
+                "8",
+                149,
+                "149"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "The animals that raised him, if he goes there, they could kill him.",
@@ -3945,14 +4053,14 @@
             }
         },
         {
-            "id": "146",
+            "id": "150",
             "key": [
-                "7",
-                146,
-                "146"
+                "8",
+                150,
+                "150"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "He knows how he will explain it.",
@@ -3972,14 +4080,14 @@
             }
         },
         {
-            "id": "147",
+            "id": "151",
             "key": [
-                "7",
-                147,
-                "147"
+                "8",
+                151,
+                "151"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "So the man and his wife went,",
@@ -3999,14 +4107,14 @@
             }
         },
         {
-            "id": "148",
+            "id": "152",
             "key": [
-                "7",
-                148,
-                "148"
+                "8",
+                152,
+                "152"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "until they arrived there.",
@@ -4026,14 +4134,14 @@
             }
         },
         {
-            "id": "149",
+            "id": "153",
             "key": [
-                "7",
-                149,
-                "149"
+                "8",
+                153,
+                "153"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "The man said, calm down, he's going to cut wood, he will listen to what they're saying.",
@@ -4053,14 +4161,14 @@
             }
         },
         {
-            "id": "150",
+            "id": "154",
             "key": [
-                "7",
-                150,
-                "150"
+                "8",
+                154,
+                "154"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "'The young man will speak, you will understand.'",
@@ -4080,14 +4188,14 @@
             }
         },
         {
-            "id": "151",
+            "id": "155",
             "key": [
-                "7",
-                151,
-                "151"
+                "8",
+                155,
+                "155"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "When they arrived, they stopped at the side of the road.",
@@ -4107,14 +4215,14 @@
             }
         },
         {
-            "id": "152",
+            "id": "156",
             "key": [
-                "7",
-                152,
-                "152"
+                "8",
+                156,
+                "156"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "The man takes out his machete to cut wood.",
@@ -4134,14 +4242,14 @@
             }
         },
         {
-            "id": "153",
+            "id": "157",
             "key": [
-                "7",
-                153,
-                "153"
+                "8",
+                157,
+                "157"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "He cuts. ",
@@ -4161,14 +4269,14 @@
             }
         },
         {
-            "id": "154",
+            "id": "158",
             "key": [
-                "7",
-                154,
-                "154"
+                "8",
+                158,
+                "158"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "The man stopped at the balcony, listening.",
@@ -4188,14 +4296,14 @@
             }
         },
         {
-            "id": "155",
+            "id": "159",
             "key": [
-                "7",
-                155,
-                "155"
+                "8",
+                159,
+                "159"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "Then he said,",
@@ -4215,14 +4323,14 @@
             }
         },
         {
-            "id": "156",
+            "id": "160",
             "key": [
-                "7",
-                156,
-                "156"
+                "8",
+                160,
+                "160"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "\"Hunter,\"",
@@ -4242,14 +4350,14 @@
             }
         },
         {
-            "id": "157",
+            "id": "161",
             "key": [
-                "7",
-                157,
-                "157"
+                "8",
+                161,
+                "161"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "He was saying to the hunter that,",
@@ -4269,14 +4377,14 @@
             }
         },
         {
-            "id": "158",
+            "id": "162",
             "key": [
-                "7",
-                158,
-                "158"
+                "8",
+                162,
+                "162"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "he said,",
@@ -4296,14 +4404,14 @@
             }
         },
         {
-            "id": "159",
+            "id": "163",
             "key": [
-                "7",
-                159,
-                "159"
+                "8",
+                163,
+                "163"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "\"The child that they threw away,\"",
@@ -4323,14 +4431,14 @@
             }
         },
         {
-            "id": "160",
+            "id": "164",
             "key": [
-                "7",
-                160,
-                "160"
+                "8",
+                164,
+                "164"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "\"I am here, I didn't die.\"",
@@ -4350,14 +4458,14 @@
             }
         },
         {
-            "id": "161",
+            "id": "165",
             "key": [
-                "7",
-                161,
-                "161"
+                "8",
+                165,
+                "165"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "\"Hunter,\"",
@@ -4377,14 +4485,14 @@
             }
         },
         {
-            "id": "162",
+            "id": "166",
             "key": [
-                "7",
-                162,
-                "162"
+                "8",
+                166,
+                "166"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "\"go tell my mother the Baoulé woman Gbelyaman,\"",
@@ -4404,14 +4512,14 @@
             }
         },
         {
-            "id": "163",
+            "id": "167",
             "key": [
-                "7",
-                163,
-                "163"
+                "8",
+                167,
+                "167"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "\"welcome.\"",
@@ -4431,14 +4539,14 @@
             }
         },
         {
-            "id": "164",
+            "id": "168",
             "key": [
-                "7",
-                164,
-                "164"
+                "8",
+                168,
+                "168"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "\"The famine arrived.\"",
@@ -4458,14 +4566,14 @@
             }
         },
         {
-            "id": "165",
+            "id": "169",
             "key": [
-                "7",
-                165,
-                "165"
+                "8",
+                169,
+                "169"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "He said to the man, \"you hear me.\"",
@@ -4485,14 +4593,14 @@
             }
         },
         {
-            "id": "166",
+            "id": "170",
             "key": [
-                "7",
-                166,
-                "166"
+                "8",
+                170,
+                "170"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "\"I know it's you.\"",
@@ -4512,14 +4620,14 @@
             }
         },
         {
-            "id": "167",
+            "id": "171",
             "key": [
-                "7",
-                167,
-                "167"
+                "8",
+                171,
+                "171"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "\"Sing the song again.\"",
@@ -4539,14 +4647,14 @@
             }
         },
         {
-            "id": "168",
+            "id": "172",
             "key": [
-                "7",
-                168,
-                "168"
+                "8",
+                172,
+                "172"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "He cut and cut.",
@@ -4566,14 +4674,14 @@
             }
         },
         {
-            "id": "169",
+            "id": "173",
             "key": [
-                "7",
-                169,
-                "169"
+                "8",
+                173,
+                "173"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "The man stopped and sang again.",
@@ -4593,14 +4701,14 @@
             }
         },
         {
-            "id": "170",
+            "id": "174",
             "key": [
-                "7",
-                170,
-                "170"
+                "8",
+                174,
+                "174"
             ],
             "value": {
-                "story": "7",
+                "story": "8",
                 "sentence": {
                     "judgement": "",
                     "utterance": "What he said, he was calling.",
@@ -4610,114 +4718,6 @@
                     "gloss_fr": "     ",
                     "translation": "What he said, he was calling.",
                     "french": "La parole qu'il dit, il appelle. ",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "171",
-            "key": [
-                "7",
-                171,
-                "171"
-            ],
-            "value": {
-                "story": "7",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "The hunter told him, \"Wait, I'm going to go back there.\"",
-                    "morphemes": "         ",
-                    "orthography": "Kúcɛ́nwo kranman nkɛ lê, \"ya, mɛn mán hɛ́n ló lóne.\"",
-                    "gloss": "         ",
-                    "gloss_fr": "         ",
-                    "translation": "The hunter told him, \"Wait, I'm going to go back there.\"",
-                    "french": "Le chasseur lui a dit, \"Attends, je vais repartir là-bas.\"",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "172",
-            "key": [
-                "7",
-                172,
-                "172"
-            ],
-            "value": {
-                "story": "7",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "They cut their way out and they went.",
-                    "morphemes": "       ",
-                    "orthography": "Wo jan si, wo eló, wo jan si.",
-                    "gloss": "       ",
-                    "gloss_fr": "       ",
-                    "translation": "They cut their way out and they went.",
-                    "french": "Ils ont coupé une place, et ils s'en vont. ",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "173",
-            "key": [
-                "7",
-                173,
-                "173"
-            ],
-            "value": {
-                "story": "7",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "They went until they arrived.",
-                    "morphemes": "     ",
-                    "orthography": "Wo élo kábrɛn kábrɛn wo di.",
-                    "gloss": "     ",
-                    "gloss_fr": "     ",
-                    "translation": "They went until they arrived.",
-                    "french": "Ils s'en vont jusqu'à ils sont arrivés. ",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "174",
-            "key": [
-                "7",
-                174,
-                "174"
-            ],
-            "value": {
-                "story": "7",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "They arrived at his house.",
-                    "morphemes": "   ",
-                    "orthography": "Wo di nkɛ bháthó.",
-                    "gloss": "   ",
-                    "gloss_fr": "   ",
-                    "translation": "They arrived at his house.",
-                    "french": "Ils sont arrivés chez lui à la maison. ",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -4738,13 +4738,13 @@
                 "story": "8",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "The one thing I want on this earth",
-                    "morphemes": "á-jí brɛ̃ khɛ̃́ mɛ̃́ nɛ̃ á-théɟi",
-                    "orthography": "áyí brɛn khɛ́n mɛ́n nɛn áthéji",
-                    "gloss": "cm-thing one rel 1sg.ipfv want cm-world",
-                    "gloss_fr": "chose une que 1sg vouloir monde",
-                    "translation": "The one thing I want on this earth",
-                    "french": "La chose que je cherche sur cette terre,",
+                    "utterance": "The hunter told him, \"Wait, I'm going to go back there.\"",
+                    "morphemes": "         ",
+                    "orthography": "Kúcɛ́nwo kranman nkɛ lê, \"ya, mɛn mán hɛ́n ló lóne.\"",
+                    "gloss": "         ",
+                    "gloss_fr": "         ",
+                    "translation": "The hunter told him, \"Wait, I'm going to go back there.\"",
+                    "french": "Le chasseur lui a dit, \"Attends, je vais repartir là-bas.\"",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -4765,13 +4765,13 @@
                 "story": "8",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "is love.",
-                    "morphemes": "ló nɔ̃́ a li á-pɔ́",
-                    "orthography": "ló nɔ̂n a li ápɔ́",
-                    "gloss": "3.inan foc 3 cop nmlz-love",
-                    "gloss_fr": "ça foc pr être amour",
-                    "translation": "is love.",
-                    "french": "c'est ça qui est l'amour.",
+                    "utterance": "They cut their way out and they went.",
+                    "morphemes": "       ",
+                    "orthography": "Wo jan si, wo eló, wo jan si.",
+                    "gloss": "       ",
+                    "gloss_fr": "       ",
+                    "translation": "They cut their way out and they went.",
+                    "french": "Ils ont coupé une place, et ils s'en vont. ",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -4792,13 +4792,13 @@
                 "story": "8",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "Oh God, give me the spirit,",
-                    "morphemes": "o hwãnthe ɛ se mɛ̃ ló nã́nã́mi",
-                    "orthography": "o hwanthe ɛ se mɛn ló nánnánmi",
-                    "gloss": "oh Lord 2sg give.imp 1sg dem spirit",
-                    "gloss_fr": "oh Seigneur 2sg donner obj.1sg le esprit",
-                    "translation": "Oh God, give me the spirit,",
-                    "french": "Oh mon Dieu, faut me donner l'esprit,",
+                    "utterance": "They went until they arrived.",
+                    "morphemes": "     ",
+                    "orthography": "Wo élo kábrɛn kábrɛn wo di.",
+                    "gloss": "     ",
+                    "gloss_fr": "     ",
+                    "translation": "They went until they arrived.",
+                    "french": "Ils s'en vont jusqu'à ils sont arrivés. ",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -4819,13 +4819,13 @@
                 "story": "8",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "give me the strength to love my neighbor.",
-                    "morphemes": "ɛ se mɛ̃ ló nsɛ̃́pɛ́ mɛ̃ pɔ mɛ̃ ɟɔ",
-                    "orthography": "ɛ se mɛn ló nsɛ́npɛ́ mɛn pɔ mɛn jɔ",
-                    "gloss": "2sg give.imp 1sg dem strength 1sg love 1sg friend",
-                    "gloss_fr": "2sg donner obj.1sg la force 1sg aimer poss.1sg ami",
-                    "translation": "give me the strength to love my neighbor.",
-                    "french": "faut me donner la force pour aimer mon frère.",
+                    "utterance": "They arrived at his house.",
+                    "morphemes": "   ",
+                    "orthography": "Wo di nkɛ bháthó.",
+                    "gloss": "   ",
+                    "gloss_fr": "   ",
+                    "translation": "They arrived at his house.",
+                    "french": "Ils sont arrivés chez lui à la maison. ",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -4846,13 +4846,13 @@
                 "story": "9",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "The Tchaman group is present,",
-                    "morphemes": "cá-mã́ ɓrɛ hɛ̃́ khwa lé",
-                    "orthography": "Cámán bhrɛ hɛ́n khwa lé",
-                    "gloss": "Tchaman-pl unite pass be.present.pl part",
-                    "gloss_fr": "Tchamans réunisser passer être.present v.part",
-                    "translation": "The Tchaman group is present,",
-                    "french": "Le groupe Atchan est present, ",
+                    "utterance": "The one thing I want on this earth",
+                    "morphemes": "á-jí brɛ̃ khɛ̃́ mɛ̃́ nɛ̃ á-théɟi",
+                    "orthography": "áyí brɛn khɛ́n mɛ́n nɛn áthéji",
+                    "gloss": "cm-thing one rel 1sg.ipfv want cm-world",
+                    "gloss_fr": "chose une que 1sg vouloir monde",
+                    "translation": "The one thing I want on this earth",
+                    "french": "La chose que je cherche sur cette terre,",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -4873,13 +4873,13 @@
                 "story": "9",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "they are numerous.",
-                    "morphemes": "cá-mã́ ɡreɓɛ ɓrɛ hɛ̃́ khwa lé",
-                    "orthography": "Cámán grebhɛ bhrɛ hɛ́n khwa lé,",
-                    "gloss": "Tchaman-pl forty unite pass be.present.pl part",
-                    "gloss_fr": "Tchamans quarante réunisser passer être.present v.part",
-                    "translation": "they are numerous.",
-                    "french": "ils sont nombreux.",
+                    "utterance": "is love.",
+                    "morphemes": "ló nɔ̃́ a li á-pɔ́",
+                    "orthography": "ló nɔ̂n a li ápɔ́",
+                    "gloss": "3.inan foc 3 cop nmlz-love",
+                    "gloss_fr": "ça foc pr être amour",
+                    "translation": "is love.",
+                    "french": "c'est ça qui est l'amour.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -4900,13 +4900,13 @@
                 "story": "9",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "The large number of Tchagbas,",
-                    "morphemes": "o krãmã cháɡba pásá ɡreɓɛ",
-                    "orthography": "o kranman Chágba pasá grebhɛ",
-                    "gloss": "pro.indef say Tchagba audience forty",
-                    "gloss_fr": "1pl dire Tchagba public quarante",
-                    "translation": "The large number of Tchagbas,",
-                    "french": "Le grand nombre des Tchagbas, ",
+                    "utterance": "Oh God, give me the spirit,",
+                    "morphemes": "o hwãnthe ɛ se mɛ̃ ló nã́nã́mi",
+                    "orthography": "o hwanthe ɛ se mɛn ló nánnánmi",
+                    "gloss": "oh Lord 2sg give.imp 1sg dem spirit",
+                    "gloss_fr": "oh Seigneur 2sg donner obj.1sg le esprit",
+                    "translation": "Oh God, give me the spirit,",
+                    "french": "Oh mon Dieu, faut me donner l'esprit,",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -4927,6 +4927,114 @@
                 "story": "9",
                 "sentence": {
                     "judgement": "",
+                    "utterance": "give me the strength to love my neighbor.",
+                    "morphemes": "ɛ se mɛ̃ ló nsɛ̃́pɛ́ mɛ̃ pɔ mɛ̃ ɟɔ",
+                    "orthography": "ɛ se mɛn ló nsɛ́npɛ́ mɛn pɔ mɛn jɔ",
+                    "gloss": "2sg give.imp 1sg dem strength 1sg love 1sg friend",
+                    "gloss_fr": "2sg donner obj.1sg la force 1sg aimer poss.1sg ami",
+                    "translation": "give me the strength to love my neighbor.",
+                    "french": "faut me donner la force pour aimer mon frère.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "183",
+            "key": [
+                "10",
+                183,
+                "183"
+            ],
+            "value": {
+                "story": "10",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The Tchaman group is present,",
+                    "morphemes": "cá-mã́ ɓrɛ hɛ̃́ khwa lé",
+                    "orthography": "Cámán bhrɛ hɛ́n khwa lé",
+                    "gloss": "Tchaman-pl unite pass be.present.pl part",
+                    "gloss_fr": "Tchamans réunisser passer être.present v.part",
+                    "translation": "The Tchaman group is present,",
+                    "french": "Le groupe Atchan est present, ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "184",
+            "key": [
+                "10",
+                184,
+                "184"
+            ],
+            "value": {
+                "story": "10",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "they are numerous.",
+                    "morphemes": "cá-mã́ ɡreɓɛ ɓrɛ hɛ̃́ khwa lé",
+                    "orthography": "Cámán grebhɛ bhrɛ hɛ́n khwa lé,",
+                    "gloss": "Tchaman-pl forty unite pass be.present.pl part",
+                    "gloss_fr": "Tchamans quarante réunisser passer être.present v.part",
+                    "translation": "they are numerous.",
+                    "french": "ils sont nombreux.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "185",
+            "key": [
+                "10",
+                185,
+                "185"
+            ],
+            "value": {
+                "story": "10",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "The large number of Tchagbas,",
+                    "morphemes": "o krãmã cháɡba pásá ɡreɓɛ",
+                    "orthography": "o kranman Chágba pasá grebhɛ",
+                    "gloss": "pro.indef say Tchagba audience forty",
+                    "gloss_fr": "1pl dire Tchagba public quarante",
+                    "translation": "The large number of Tchagbas,",
+                    "french": "Le grand nombre des Tchagbas, ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "186",
+            "key": [
+                "10",
+                186,
+                "186"
+            ],
+            "value": {
+                "story": "10",
+                "sentence": {
+                    "judgement": "",
                     "utterance": "the door has been open to let them through.",
                     "morphemes": "phwã si se lo ɓa hɛ̃-e",
                     "orthography": "phwan si se lo bha hɛn-e,",
@@ -4944,14 +5052,14 @@
             }
         },
         {
-            "id": "183",
+            "id": "187",
             "key": [
-                "9",
-                183,
-                "183"
+                "10",
+                187,
+                "187"
             ],
             "value": {
-                "story": "9",
+                "story": "10",
                 "sentence": {
                     "judgement": "",
                     "utterance": "Let's go look for N'Cho Norbert; he will come through.",
@@ -4971,14 +5079,14 @@
             }
         },
         {
-            "id": "184",
+            "id": "188",
             "key": [
-                "9",
-                184,
-                "184"
+                "10",
+                188,
+                "188"
             ],
             "value": {
-                "story": "9",
+                "story": "10",
                 "sentence": {
                     "judgement": "",
                     "utterance": "We've come out; here we are.",
@@ -4998,14 +5106,14 @@
             }
         },
         {
-            "id": "185",
+            "id": "189",
             "key": [
-                "9",
-                185,
-                "185"
+                "10",
+                189,
+                "189"
             ],
             "value": {
-                "story": "9",
+                "story": "10",
                 "sentence": {
                     "judgement": "",
                     "utterance": "We carried our stuff; here we are.",
@@ -5025,14 +5133,14 @@
             }
         },
         {
-            "id": "186",
+            "id": "190",
             "key": [
-                "9",
-                186,
-                "186"
+                "10",
+                190,
+                "190"
             ],
             "value": {
-                "story": "9",
+                "story": "10",
                 "sentence": {
                     "judgement": "",
                     "utterance": "The Agban girls are well-dressed; they are arriving.",
@@ -5052,14 +5160,14 @@
             }
         },
         {
-            "id": "187",
+            "id": "191",
             "key": [
-                "9",
-                187,
-                "187"
+                "10",
+                191,
+                "191"
             ],
             "value": {
-                "story": "9",
+                "story": "10",
                 "sentence": {
                     "judgement": "",
                     "utterance": "Don't hide,",
@@ -5079,14 +5187,14 @@
             }
         },
         {
-            "id": "188",
+            "id": "192",
             "key": [
-                "9",
-                188,
-                "188"
+                "10",
+                192,
+                "192"
             ],
             "value": {
-                "story": "9",
+                "story": "10",
                 "sentence": {
                     "judgement": "",
                     "utterance": "afterwards, you'll saw that you didn't see anything that the Agbans did.",
@@ -5106,14 +5214,14 @@
             }
         },
         {
-            "id": "189",
+            "id": "193",
             "key": [
-                "9",
-                189,
-                "189"
+                "10",
+                193,
+                "193"
             ],
             "value": {
-                "story": "9",
+                "story": "10",
                 "sentence": {
                     "judgement": "",
                     "utterance": "We're well-dressed, we're arriving; here we are.",
@@ -5123,114 +5231,6 @@
                     "gloss_fr": "1pl laver eau 1pl prog-venir voilà 1pl voilà 1pl",
                     "translation": "We're well-dressed, we're arriving; here we are.",
                     "french": "Nous sommes bien habillés, nous arrivons, voilà. ",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "190",
-            "key": [
-                "9",
-                190,
-                "190"
-            ],
-            "value": {
-                "story": "9",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "We've carried our stuff; here we are.",
-                    "morphemes": "lo ha jí wo e-ɓá nɛ̃ lo nɛ̃ lo",
-                    "orthography": "lo ha yí wo ebhá, nɛn lo nɛn lo,",
-                    "gloss": "1pl carry.pfv thing 3pl prog-come voilà 1pl voilà 1pl",
-                    "gloss_fr": "1pl charger chose 3pl prog-venir voilà 1pl voilà 1pl",
-                    "translation": "We've carried our stuff; here we are.",
-                    "french": "Nous avons chargé des baggages, voilà. ",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "191",
-            "key": [
-                "9",
-                191,
-                "191"
-            ],
-            "value": {
-                "story": "9",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "Agban N'Guessan is well-dressed; they're arriving.",
-                    "morphemes": "aɡbã nɟesã ɡo ndu wo e-ɓá wo e-lé hɔ̃́ mɔ̃́ lê ɔ̃́ ma wú wo",
-                    "orthography": "Agban njésan go ndu wo ebhá, wo elé hɔ́n nmɔ́n lê ɔ́n ma wú wo.",
-                    "gloss": "Agban N'Guessan wash.pfv water 3pl prog-come 3pl prog-wave 2pl arm that 2pl fut see 3pl",
-                    "gloss_fr": "Agban N'Guessan laver eau 3pl prog-venir 3pl prog-agiter 2pl bras que 2pl AUX+FUT voir 3pl",
-                    "translation": "Agban N'Guessan is well-dressed; they're arriving.",
-                    "french": "Agban N'Guessan est bien habillé, ils arrivent. ",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "192",
-            "key": [
-                "9",
-                192,
-                "192"
-            ],
-            "value": {
-                "story": "9",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "Don't hide,",
-                    "morphemes": "ɔ̃́ ne wá hrɔmã",
-                    "orthography": "Ɔ́n ne wá hrɔman",
-                    "gloss": "2pl neg run hide",
-                    "gloss_fr": "2pl neg courir cacher",
-                    "translation": "Don't hide,",
-                    "french": "Ne vous cachez pas,",
-                    "timestamps": "",
-                    "tags": "",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "193",
-            "key": [
-                "9",
-                193,
-                "193"
-            ],
-            "value": {
-                "story": "9",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "afterwards, you'll say that you didn't see anything that the Agbans did.",
-                    "morphemes": "a-ɟi o nɛ́ ɔ̃́ ne wu aɡbã jí-e",
-                    "orthography": "àji o nkɛ́ ɔ́n ne wu Agban yí-e.",
-                    "gloss": "cm-after   2pl neg see Agban thing-emph",
-                    "gloss_fr": "après   2pl neg voir Agban chose-emph",
-                    "translation": "afterwards, you'll say that you didn't see anything that the Agbans did.",
-                    "french": "après vous allez dire que vous n'avez rien vu de ce que les Agban ont fait.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -5251,13 +5251,13 @@
                 "story": "10",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "I give glory to God",
-                    "morphemes": "mɛ̃ mó ɛ̃́ŋɡuhá se hwãnthe",
-                    "orthography": "mɛn mó ńguhá se Hwanthe",
-                    "gloss": "1sg take glory give lord",
-                    "gloss_fr": "1sg prendre gloire donner Dieu",
-                    "translation": "I give glory to God",
-                    "french": "Je rends gloire à Dieu",
+                    "utterance": "We've carried our stuff; here we are.",
+                    "morphemes": "lo ha jí wo e-ɓá nɛ̃ lo nɛ̃ lo",
+                    "orthography": "lo ha yí wo ebhá, nɛn lo nɛn lo,",
+                    "gloss": "1pl carry.pfv thing 3pl prog-come voilà 1pl voilà 1pl",
+                    "gloss_fr": "1pl charger chose 3pl prog-venir voilà 1pl voilà 1pl",
+                    "translation": "We've carried our stuff; here we are.",
+                    "french": "Nous avons chargé des baggages, voilà. ",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -5278,13 +5278,13 @@
                 "story": "10",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "I will praise him everyday",
-                    "morphemes": "á-ká khúmbrɛ̃ mã́ nri nɛ hwa",
-                    "orthography": "áká khúúnbrɛn maán nri nkɛ hwa",
-                    "gloss": "cm-time all fut praise 3sg part",
-                    "gloss_fr": "temps tout AUX+FUT louer obj.3sg part.tv",
-                    "translation": "I will praise him everyday",
-                    "french": "Je vais le louer chaque jour",
+                    "utterance": "Agban N'Guessan is well-dressed; they're arriving.",
+                    "morphemes": "aɡbã nɟesã ɡo ndu wo e-ɓá wo e-lé hɔ̃́ mɔ̃́ lê ɔ̃́ ma wú wo",
+                    "orthography": "Agban njésan go ndu wo ebhá, wo elé hɔ́n nmɔ́n lê ɔ́n ma wú wo.",
+                    "gloss": "Agban N'Guessan wash.pfv water 3pl prog-come 3pl prog-wave 2pl arm that 2pl fut see 3pl",
+                    "gloss_fr": "Agban N'Guessan laver eau 3pl prog-venir 3pl prog-agiter 2pl bras que 2pl AUX+FUT voir 3pl",
+                    "translation": "Agban N'Guessan is well-dressed; they're arriving.",
+                    "french": "Agban N'Guessan est bien habillé, ils arrivent. ",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -5305,13 +5305,13 @@
                 "story": "10",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "I give glory to God",
-                    "morphemes": "mɛ̃ mó ɛ̃́-ŋɡuhá se hwãnthe",
-                    "orthography": "mɛn mó ńguhá se Hwanthe",
-                    "gloss": "1sg take glory give lord",
-                    "gloss_fr": "1sg prendre gloire donner Dieu",
-                    "translation": "I give glory to God",
-                    "french": "Je rends gloire à Dieu",
+                    "utterance": "Don't hide,",
+                    "morphemes": "ɔ̃́ ne wá hrɔmã",
+                    "orthography": "Ɔ́n ne wá hrɔman",
+                    "gloss": "2pl neg run hide",
+                    "gloss_fr": "2pl neg courir cacher",
+                    "translation": "Don't hide,",
+                    "french": "Ne vous cachez pas,",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",
@@ -5332,6 +5332,114 @@
                 "story": "10",
                 "sentence": {
                     "judgement": "",
+                    "utterance": "afterwards, you'll say that you didn't see anything that the Agbans did.",
+                    "morphemes": "a-ɟi o nɛ́ ɔ̃́ ne wu aɡbã jí-e",
+                    "orthography": "àji o nkɛ́ ɔ́n ne wu Agban yí-e.",
+                    "gloss": "cm-after   2pl neg see Agban thing-emph",
+                    "gloss_fr": "après   2pl neg voir Agban chose-emph",
+                    "translation": "afterwards, you'll say that you didn't see anything that the Agbans did.",
+                    "french": "après vous allez dire que vous n'avez rien vu de ce que les Agban ont fait.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "198",
+            "key": [
+                "11",
+                198,
+                "198"
+            ],
+            "value": {
+                "story": "11",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "I give glory to God",
+                    "morphemes": "mɛ̃ mó ɛ̃́ŋɡuhá se hwãnthe",
+                    "orthography": "mɛn mó ńguhá se Hwanthe",
+                    "gloss": "1sg take glory give lord",
+                    "gloss_fr": "1sg prendre gloire donner Dieu",
+                    "translation": "I give glory to God",
+                    "french": "Je rends gloire à Dieu",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "199",
+            "key": [
+                "11",
+                199,
+                "199"
+            ],
+            "value": {
+                "story": "11",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "I will praise him everyday",
+                    "morphemes": "á-ká khúmbrɛ̃ mã́ nri nɛ hwa",
+                    "orthography": "áká khúúnbrɛn maán nri nkɛ hwa",
+                    "gloss": "cm-time all fut praise 3sg part",
+                    "gloss_fr": "temps tout AUX+FUT louer obj.3sg part.tv",
+                    "translation": "I will praise him everyday",
+                    "french": "Je vais le louer chaque jour",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "200",
+            "key": [
+                "11",
+                200,
+                "200"
+            ],
+            "value": {
+                "story": "11",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "I give glory to God",
+                    "morphemes": "mɛ̃ mó ɛ̃́-ŋɡuhá se hwãnthe",
+                    "orthography": "mɛn mó ńguhá se Hwanthe",
+                    "gloss": "1sg take glory give lord",
+                    "gloss_fr": "1sg prendre gloire donner Dieu",
+                    "translation": "I give glory to God",
+                    "french": "Je rends gloire à Dieu",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "201",
+            "key": [
+                "11",
+                201,
+                "201"
+            ],
+            "value": {
+                "story": "11",
+                "sentence": {
+                    "judgement": "",
                     "utterance": "I will praise him everyday",
                     "morphemes": "á-ká khúmbrɛ̃ mã́ nri nɛ hwa",
                     "orthography": "áká khúúnbrɛn maán nri nkɛ hwa",
@@ -5349,14 +5457,14 @@
             }
         },
         {
-            "id": "198",
+            "id": "202",
             "key": [
-                "10",
-                198,
-                "198"
+                "11",
+                202,
+                "202"
             ],
             "value": {
-                "story": "10",
+                "story": "11",
                 "sentence": {
                     "judgement": "",
                     "utterance": "I want God to be my glory",
@@ -5376,14 +5484,14 @@
             }
         },
         {
-            "id": "199",
+            "id": "203",
             "key": [
-                "10",
-                199,
-                "199"
+                "11",
+                203,
+                "203"
             ],
             "value": {
-                "story": "10",
+                "story": "11",
                 "sentence": {
                     "judgement": "",
                     "utterance": "You are the good people",
@@ -5403,14 +5511,14 @@
             }
         },
         {
-            "id": "200",
+            "id": "204",
             "key": [
-                "10",
-                200,
-                "200"
+                "11",
+                204,
+                "204"
             ],
             "value": {
-                "story": "10",
+                "story": "11",
                 "sentence": {
                     "judgement": "",
                     "utterance": "Listen to what I say",
@@ -5430,14 +5538,14 @@
             }
         },
         {
-            "id": "201",
+            "id": "205",
             "key": [
-                "10",
-                201,
-                "201"
+                "11",
+                205,
+                "205"
             ],
             "value": {
-                "story": "10",
+                "story": "11",
                 "sentence": {
                     "judgement": "",
                     "utterance": "and be joyous",
@@ -5447,6 +5555,114 @@
                     "gloss_fr": "pr bon que 2pl etre joie",
                     "translation": "and be joyous",
                     "french": "et soyez dans la joie",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "206",
+            "key": [
+                "12",
+                206,
+                "206"
+            ],
+            "value": {
+                "story": "12",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "It's good that I give myself to my father God. ",
+                    "morphemes": "á ɲɔ̃ sálê mɛ̃ hɔ̃́ mɛ̃-mbrɛ̃ sé mɛ̃ the ɲãŋkã",
+                    "orthography": "Á yɔn sálê mɛn hɔ́n mɛn-nbrɛn sé mɛn the Yankan.",
+                    "gloss": "3.inan be.good that 1sg take 1sg-refl give 1sg father God",
+                    "gloss_fr": "3sg bon que 1sg prendre 1sg-même donner 1sg père Dieu",
+                    "translation": "It's good that I give myself to my father God. ",
+                    "french": "C'est bien que je me donne à mon père Dieu.",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "207",
+            "key": [
+                "12",
+                207,
+                "207"
+            ],
+            "value": {
+                "story": "12",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "God created me.",
+                    "morphemes": "ɲãŋkã a dimã mɛ̃ ɲãŋkã a tɛ mɛ̃",
+                    "orthography": "Yankan a diman mɛn, Yankan a tɛ mɛn.",
+                    "gloss": "God 3.res create.pfv 1sg God 3.res make.pfv 1sg",
+                    "gloss_fr": "Dieu 3sg créer 1sg Dieu 3sg faire 1sg",
+                    "translation": "God created me.",
+                    "french": "Dieu m'a créé. ",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "208",
+            "key": [
+                "12",
+                208,
+                "208"
+            ],
+            "value": {
+                "story": "12",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "I accept,",
+                    "morphemes": "mɛ̃́ dɛ̃",
+                    "orthography": "Mɛ́n dɛn,",
+                    "gloss": "1sg.ipfv accept",
+                    "gloss_fr": "1SG+PROG accepter",
+                    "translation": "I accept,",
+                    "french": "J'accepte,",
+                    "timestamps": "",
+                    "tags": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "209",
+            "key": [
+                "12",
+                209,
+                "209"
+            ],
+            "value": {
+                "story": "12",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "I will follow your commands.",
+                    "morphemes": "mɛ̃ mã́ ja hɛ bidi tho",
+                    "orthography": "mɛn mán ya hɛ bidi tho.",
+                    "gloss": "1sg fut stay 2sg command top",
+                    "gloss_fr": "1sg fut rester 2sg ordre sur",
+                    "translation": "I will follow your commands.",
+                    "french": "je vais suivre tes ordres.",
                     "timestamps": "",
                     "tags": "",
                     "syntacticTreeLatex": "",

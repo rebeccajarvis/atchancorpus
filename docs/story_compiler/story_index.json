@@ -1,5 +1,5 @@
 {
-    "total_rows": 11,
+    "total_rows": 13,
     "rows": [
         {
             "id": "0",
@@ -7,7 +7,7 @@
             "value": {
                 "name": "\"God is good\" song",
                 "name_fr": "\"Dieu est bon\" chanson",
-               "author": "Madame Rosalie N'Diadan",
+                "author": "Madame Rosalie N'Diadan",
                 "link": "https://www.youtube.com/embed/ws16NV4VDEE?si=pXsiVGe94yAkZNJI"
             }
         },
@@ -17,7 +17,7 @@
             "value": {
                 "name": "Tchagba Dogba Super song",
                 "name_fr": "Tchagba Dogba Super chanson",
-                "author": "Madame Sidonie",
+                "author": "Madame Sidonie Mobio",
                 "link": "https://www.youtube.com/embed/on-h1WJdVog?si=M7Pn3f_dMED5cZZI"
             }
         },
@@ -48,7 +48,7 @@
                 "name": "Áká khúúnbrɛn song",
                 "name_fr": "Áká khúúnbrɛn chanson",
                 "author": "Madame Adèle Kossike",
-		"link": "https://www.youtube.com/embed/8_yJMQUz58g?si=detkB6AKdV-MlTUS"
+                "link": "https://www.youtube.com/embed/8_yJMQUz58g?si=detkB6AKdV-MlTUS"
             }
         },
         {
@@ -65,15 +65,25 @@
             "id": "6",
             "key": "6",
             "value": {
-                "name": "Félix Houphouët-Boigny funeral song",
-                "name_fr": "Félix Houphouët-Boigny chanson",
+                "name": "Félix Houphouêt-Boigny funeral song",
+                "name_fr": "Chanson Félix Houphouët-Boigny",
                 "author": "Madame Evelyne Koutouan",
-                "link": "https://www.youtube.com/embed/8_yJMQUz58g?si=detkB6AKdV-MlTUS"
+                "link": "https://www.youtube.com/embed/4sOlTbSyNms?si=aR0jEEstTqY9uMtT"
             }
         },
         {
             "id": "7",
             "key": "7",
+            "value": {
+                "name": "\"Mɛ́n dɛn\" song",
+                "name_fr": "Chanson \"J'accepte\"",
+                "author": "Henriette N'Diadan",
+		"link": "https://www.youtube.com/embed/KVEqoJXdEP0"
+            }
+        },
+        {
+            "id": "8",
+            "key": "8",
             "value": {
                 "name": "Abandoned child story",
                 "name_fr": "L'histoire de l'enfant abandonné",
@@ -82,18 +92,18 @@
             }
         },
         {
-            "id": "8",
-            "key": "8",
+            "id": "9",
+            "key": "9",
             "value": {
                 "name": "Áyí brɛn song",
                 "name_fr": "Áyí brɛn chanson",
-                "author": "Madame Cynthia N’Diadan",
+                 "author": "Madame Cynthia N’Diadan",
                 "link": "https://www.youtube.com/embed/AhBHbdQGyjo?si=U_58-XJOl2UVbjCT"
             }
         },
         {
-            "id": "9",
-            "key": "9",
+            "id": "10",
+            "key": "10",
             "value": {
                 "name": "N’Cho Norbert song",
                 "name_fr": "N’Cho Norbert chanson",
@@ -102,12 +112,12 @@
             }
         },
         {
-            "id": "10",
-            "key": "10",
+            "id": "11",
+            "key": "11",
             "value": {
                 "name": "Glory to God song",
                 "name_fr": "Gloire à Dieu chanson",
-                "author": "Madame Adele Kossike",
+                "author": "Madame Adèle Kossike",
                 "link": "https://www.youtube.com/embed/ucdmAiHPD3I?si=0vZ0Miq-0EjsMGGj"
             }
         }
